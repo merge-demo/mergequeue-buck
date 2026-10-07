@@ -27306,7 +27306,7 @@ couples
 carling
 cleric
 couplings
-chelifer
+chelifer 1
 cremates
 cattiness
 coupon
