@@ -8999,7 +8999,7 @@ disconcerting
 dicyemidae
 dissolvent
 dicing
-dhow
+dhow 1
 dicynodontia
 diclinous
 distortionless
