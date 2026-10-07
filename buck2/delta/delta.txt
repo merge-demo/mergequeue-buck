@@ -1964,7 +1964,7 @@ disyllabism 1
 deburr
 divulgatory
 debus
-decanally
+decanally 1
 defying
 debused
 doohickey
