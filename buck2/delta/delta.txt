@@ -6393,7 +6393,7 @@ derogates
 diglyceride
 dixie
 derogating
-derogative
+derogative 1
 derogator
 derogatory
 dooja
