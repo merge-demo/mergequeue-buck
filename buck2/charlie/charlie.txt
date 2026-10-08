@@ -10953,7 +10953,7 @@ coalition
 cicatrixes
 chiromantis
 chirometer
-chiromys
+chiromys 1
 cryostase
 chalcioecus
 chironym
