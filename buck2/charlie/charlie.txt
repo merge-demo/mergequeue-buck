@@ -3864,7 +3864,7 @@ convalescent
 cacophonical
 corrigibility
 colliform
-carbonify
+carbonify 1
 clept
 chewbark
 colonizers
