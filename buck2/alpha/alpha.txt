@@ -20200,7 +20200,7 @@ alphanumerically
 aiglette
 anisalcohol
 autooxidation
-arrestingly
+arrestingly 1
 arrestive
 assuagements
 autodigestive
