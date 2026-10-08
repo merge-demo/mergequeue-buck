@@ -7346,7 +7346,7 @@ enravishment
 epapophysis
 easeled
 evangeliser
-exosphere
+exosphere 1
 expulsing
 exile
 erinaceus
