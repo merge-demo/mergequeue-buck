@@ -5445,7 +5445,7 @@ anableps
 astylosternus
 anterospinal
 africanize
-africanoid
+africanoid 1
 affrettando
 astartian
 aeroview
