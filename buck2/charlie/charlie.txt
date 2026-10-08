@@ -11340,7 +11340,7 @@ chloromethane
 chlorometry
 categorem
 coopted
-capman
+capman 1
 chloromycetin
 curbed
 chiasmatype
