@@ -4168,7 +4168,7 @@ calculating
 cardiologist 1
 cardiologists
 cardiomegaly
-cyclus
+cyclus 1
 cardiomelanosis
 contradivide
 cholecystotomies
