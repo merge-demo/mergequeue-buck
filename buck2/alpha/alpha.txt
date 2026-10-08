@@ -23203,7 +23203,7 @@ attestations
 azotous
 accommodativeness
 accomplice
-architecturesque
+architecturesque 1
 attestator
 antiseption
 attested
