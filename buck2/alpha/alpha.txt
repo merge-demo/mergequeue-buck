@@ -2936,7 +2936,7 @@ acrotism
 acrotrophic
 airplay
 aesthetician
-acrux
+acrux 1
 acta
 acediamin
 affrighted
