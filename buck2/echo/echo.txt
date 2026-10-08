@@ -8964,7 +8964,7 @@ edgers
 europeanly
 essex
 enhort
-eon
+eon 1
 extraspherical
 evenings
 encephalin
