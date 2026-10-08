@@ -22727,7 +22727,7 @@ consacre
 consanguine
 coinsured
 chevise
-consanguinean
+consanguinean 1
 caballeros
 consanguineous
 consanguineously
