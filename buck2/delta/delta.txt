@@ -4466,7 +4466,7 @@ diceplay
 duress
 demy
 decahydrated
-dovetailing
+dovetailing 1
 demiangel
 diazotization
 demibeast
