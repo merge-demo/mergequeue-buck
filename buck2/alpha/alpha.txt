@@ -24181,7 +24181,7 @@ anthozoa
 achroodextrinase
 awakens
 autokinesy
-allentiacan
+allentiacan 1
 autokinesis
 arythmia
 apteryxes
