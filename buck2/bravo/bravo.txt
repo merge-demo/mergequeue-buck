@@ -4170,7 +4170,7 @@ barrow
 boylas
 bradypus
 beastling
-bullswool
+bullswool 1
 beastlings
 bulgy
 beastman
