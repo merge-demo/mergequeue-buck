@@ -3846,7 +3846,7 @@ adipinic
 autotransplant
 adipocellulose
 adipocere
-adipoceriform
+adipoceriform 1
 adipoid
 angiology
 aube
