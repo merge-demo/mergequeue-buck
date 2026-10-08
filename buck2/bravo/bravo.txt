@@ -10571,7 +10571,7 @@ biostrome
 blatted
 boltheader
 bachelorship
-bespake
+bespake 1
 buduma
 blattid
 bulwand
