@@ -14678,7 +14678,7 @@ djin 1
 disrespondency
 describe
 dowers
-doxies
+doxies 1
 dieselize
 disagrees
 debauchee
