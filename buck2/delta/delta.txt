@@ -8710,7 +8710,7 @@ davits
 decors
 delicioso
 demagnetise
-diastrophically
+diastrophically 1
 distort
 dichrooscopic
 dodecylene
