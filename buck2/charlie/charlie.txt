@@ -8121,7 +8121,7 @@ chaffwax
 chafing
 chafted
 cudgeller
-chagan
+chagan 1
 chagga
 chagigah
 chagoma
