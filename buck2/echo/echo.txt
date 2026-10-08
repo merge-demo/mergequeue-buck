@@ -10350,7 +10350,7 @@ enquired
 explain
 etwite
 electrometallurgical 1
-ethnolinguist
+ethnolinguist 1
 estensible
 erysibe
 elvers
