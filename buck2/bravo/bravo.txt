@@ -12954,7 +12954,7 @@ bittersweet
 brontograph
 boottop
 biforous 1
-burgherdom
+burgherdom 1
 brack
 betulaceae
 bushelage
