@@ -673,7 +673,7 @@ ephraimitic
 entoparasitic
 epilogate
 eubasidii
-elmiest
+elmiest 1
 enhance
 envier
 excide
