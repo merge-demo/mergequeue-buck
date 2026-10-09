@@ -13833,7 +13833,7 @@ cingalese
 cortinae
 corrupted
 cynghanedd
-catalysis
+catalysis 1
 cingle
 cauchemar
 cingula
