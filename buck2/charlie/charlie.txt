@@ -19546,7 +19546,7 @@ chlorazide
 capabilities
 columbaria
 columbaries
-clours
+clours 1
 columbate
 columbeion
 climath
