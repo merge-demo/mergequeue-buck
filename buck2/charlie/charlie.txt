@@ -18590,7 +18590,7 @@ corralled
 connex
 clanless
 coimplore
-coyn
+coyn 1
 cosmometry
 coinable
 coinage
