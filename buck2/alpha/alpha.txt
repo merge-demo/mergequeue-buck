@@ -7993,7 +7993,7 @@ alternates
 aleurodes
 aleurometer
 aleuronat
-absi
+absi 1
 aleurone
 antimicrobic
 argynnis
