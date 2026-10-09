@@ -15848,7 +15848,7 @@ deliberators
 dankly 1
 dynastes
 deputise
-detent
+detent 1
 deputyship
 dorsopleural
 derationalization
