@@ -29654,7 +29654,7 @@ chronol
 counteraffirm
 croconic
 convincedness
-conoidal
+conoidal 1
 castellet
 crocosmia
 convictor
