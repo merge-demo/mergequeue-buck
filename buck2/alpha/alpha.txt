@@ -17241,7 +17241,7 @@ anagoge
 anatifa
 antisnob
 appropriate
-apophysis
+apophysis 1
 autopsying
 aspersoria
 apophlegm
