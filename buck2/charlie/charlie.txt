@@ -14959,7 +14959,7 @@ chromoplasm
 counterparallel
 crossjack
 citreous
-citric
+citric 1
 citril
 confabulates
 citrination
