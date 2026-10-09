@@ -7654,7 +7654,7 @@ amplidyne
 airplaned
 antefurca
 actual
-alectorides
+alectorides 1
 alcmene
 alcogene
 algocyan
