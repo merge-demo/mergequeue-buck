@@ -6377,7 +6377,7 @@ benzofuran
 benzofuryl
 bracted
 biozone
-belgium
+belgium 1
 benzoglycolic
 benzoglyoxaline
 bastioned
