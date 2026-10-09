@@ -22422,7 +22422,7 @@ conines
 coning
 cosiest
 circumduction
-conins
+conins 1
 coniogramme
 contradiscriminate
 cecostomy
