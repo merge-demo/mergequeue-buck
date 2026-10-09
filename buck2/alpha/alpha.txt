@@ -628,7 +628,7 @@ atelomitic
 abolishers
 astigmatism
 alastrim
-astrologic
+astrologic 1
 acetoamidophenol
 affranchisement
 angulate
