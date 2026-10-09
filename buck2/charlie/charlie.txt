@@ -31121,7 +31121,7 @@ cuniculus
 crosspatches
 cuniforms
 cunila
-characterizable 1
+characterizable 2
 crystalliferous
 chumpy
 counternotice
