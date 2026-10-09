@@ -7182,7 +7182,7 @@ dindles
 desuvre
 devoutful
 decess
-dempne
+dempne 1
 duit
 deacetylation
 desmid
