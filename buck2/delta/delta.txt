@@ -11757,7 +11757,7 @@ debtor
 discreetly
 declarant
 didler
-derogatively
+derogatively 1
 disobligatory
 dioscorine
 discrepancies
