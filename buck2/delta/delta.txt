@@ -9878,7 +9878,7 @@ desilicification
 dace
 dimensionally
 dimensioning
-dimensum
+dimensum 1
 disangularize
 diphenyl
 dimer
