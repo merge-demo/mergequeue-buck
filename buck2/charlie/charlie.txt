@@ -26675,7 +26675,7 @@ carotins
 counteractively
 cardiectomy
 cavish
-conflagrate
+conflagrate 1
 competently
 concrescent
 counteractivity
