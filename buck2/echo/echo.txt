@@ -13521,7 +13521,7 @@ eccles
 eumolpides
 externomedian
 evillest
-exscinds
+exscinds 1
 entailers
 epiphenomenally
 elopements
