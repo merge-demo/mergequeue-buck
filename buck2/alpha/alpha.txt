@@ -12783,7 +12783,7 @@ angioid
 amentum
 antimilitarist
 angiokeratoma
-apocopation
+apocopation 1
 anthocerotales
 angioleucitis
 antihemagglutinin
