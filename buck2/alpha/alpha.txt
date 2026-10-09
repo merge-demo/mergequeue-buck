@@ -4097,7 +4097,7 @@ affinal
 anglification
 admonishments
 appressor
-apply
+apply 1
 agrief
 antihypertensives
 antilyssic
