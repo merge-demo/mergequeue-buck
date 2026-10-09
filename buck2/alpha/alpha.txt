@@ -24330,7 +24330,7 @@ autopsied
 autopsies
 ambrose
 archprophet
-abaters
+abaters 1
 autoptically
 aeromancy
 attractionally
