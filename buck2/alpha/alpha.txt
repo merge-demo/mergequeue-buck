@@ -4445,7 +4445,7 @@ allergia
 acetylacetone
 australic
 antipuritan
-adust
+adust 1
 adustion
 apsides
 amang
