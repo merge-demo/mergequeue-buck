@@ -3370,7 +3370,7 @@ doles
 dagos
 deturn
 dictative
-defis
+defis 1
 deflagrable
 desophistication
 dialling
