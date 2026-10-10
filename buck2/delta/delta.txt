@@ -6537,7 +6537,7 @@ differentiators
 debruise
 dosa
 dolorimetry
-deraign
+deraign 1
 describability
 dobra
 dulciloquy
