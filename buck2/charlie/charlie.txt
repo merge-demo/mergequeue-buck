@@ -30736,7 +30736,7 @@ conspue
 cuiejo
 cuif
 cuifs
-cuinage
+cuinage 1
 cuing
 cuirassed
 catachrestical
