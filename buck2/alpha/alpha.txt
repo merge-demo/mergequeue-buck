@@ -2001,7 +2001,7 @@ abrogations
 astel
 acerin
 acetophenone
-amphodiplopia
+amphodiplopia 1
 autecy
 anticipatory
 arterial
