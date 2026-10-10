@@ -2995,7 +2995,7 @@ cantilene
 cantilever
 cantilevered
 cantilevers
-cantily
+cantily 1
 codenization
 cantina
 canting
