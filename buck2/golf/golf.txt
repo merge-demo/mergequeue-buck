@@ -6279,7 +6279,7 @@ gowpen
 gierfalcon
 gobbled
 gothicizer
-gobbledygook
+gobbledygook 1
 gelatinised
 graecian
 gyroidal
