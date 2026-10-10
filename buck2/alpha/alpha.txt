@@ -329,7 +329,7 @@ acclimatizes
 anthophyte
 anguis
 avar
-appeals
+appeals 1
 agnomical
 aziminobenzene
 agonises
