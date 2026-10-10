@@ -6040,7 +6040,7 @@ fontange
 forgab 1
 frontooccipital
 flanker
-fictionise 1
+fictionise 2
 fluoresce
 fleam
 finking
