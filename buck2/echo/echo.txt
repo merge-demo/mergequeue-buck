@@ -3202,7 +3202,7 @@ episcopation
 enamoring
 esperantist
 enamelwork
-emmeleia
+emmeleia 1
 elopes
 elops
 elicit
