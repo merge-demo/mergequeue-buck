@@ -6932,7 +6932,7 @@ cementite
 cannery
 cementitious
 carinaria
-claudicate
+claudicate 1
 cementmaker
 catapan
 candidly
