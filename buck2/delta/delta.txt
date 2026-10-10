@@ -17701,7 +17701,7 @@ dullhearted
 dynamometer
 dotal
 dwarves
-deuteroelastose
+deuteroelastose 1
 decaffeinating
 disinvestiture
 dubber
