@@ -25381,7 +25381,7 @@ anatomy
 antelegal
 azoxine
 azoxytoluidine
-antiheterolysin
+antiheterolysin 1
 azoxonium
 aztec
 androlepsy
