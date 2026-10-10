@@ -15975,7 +15975,7 @@ carryovers
 cobstone
 clerkdom
 clerkery
-clerkess
+clerkess 1
 caligated
 cypraeid
 comprint
