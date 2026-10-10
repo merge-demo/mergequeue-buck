@@ -6306,7 +6306,7 @@ amyelonic
 aerotactic
 attenuant
 abvolt
-adjectively
+adjectively 1
 aute 1
 animative
 ambulances
