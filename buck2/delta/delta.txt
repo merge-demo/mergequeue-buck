@@ -10906,7 +10906,7 @@ deputationize
 delusions
 denazify
 disabled
-doorplates
+doorplates 1
 defrayer
 deterges
 divulgement
