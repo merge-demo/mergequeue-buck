@@ -1894,7 +1894,7 @@ fishable
 fingerflower
 fontanelle
 fumbling
-fustilarian 1
+fustilarian 2
 foism
 fruitless
 feta
