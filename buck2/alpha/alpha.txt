@@ -952,7 +952,7 @@ aggregate
 arethusa
 actinopoda
 adulterately
-antichymosin
+antichymosin 1
 apprehension
 aecidiostage
 armloads
