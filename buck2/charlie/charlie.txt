@@ -8895,7 +8895,7 @@ candylike
 cryptanalyst
 cremains
 cochylis
-charadrius
+charadrius 1
 charango
 chorioidal
 colibacillosis
