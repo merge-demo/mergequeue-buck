@@ -11925,7 +11925,7 @@ deifying
 dissyllabify
 dianoetic 1
 dandiacal
-defeasive
+defeasive 1
 debonaire
 diseasedness
 diseases
