@@ -7803,7 +7803,7 @@ cerulignol
 cerumen
 cerumens
 ceruminal
-costean
+costean 1
 chemoautotrophy
 charabancer
 clorinator
