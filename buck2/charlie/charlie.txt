@@ -6194,7 +6194,7 @@ chinantecan
 cauch 1
 cauchillo
 chester
-caucuses
+caucuses 1
 concatenation
 caucusses
 caucussing
