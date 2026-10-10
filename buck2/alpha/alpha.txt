@@ -1436,7 +1436,7 @@ accipitrine
 adeuism
 amplitude
 accite
-acclaimable
+acclaimable 1
 amblyope
 atocha
 anagignoskomena
