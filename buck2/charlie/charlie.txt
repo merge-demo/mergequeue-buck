@@ -932,7 +932,7 @@ caky
 clientelage
 conformant
 consecration
-cols
+cols 1
 caking
 collagist
 chazzanut
