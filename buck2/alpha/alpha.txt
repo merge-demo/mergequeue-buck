@@ -24460,7 +24460,7 @@ adoptively
 archaeologists
 absorptions
 autotomize
-anacletica
+anacletica 1
 ambitiously
 autotomizing
 astragals
