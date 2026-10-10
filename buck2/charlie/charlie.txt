@@ -15277,7 +15277,7 @@ caccagogue
 clamorous
 coquita
 caimito
-chathamite
+chathamite 1
 cupmaking
 clamorousness
 corallite
