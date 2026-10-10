@@ -7109,7 +7109,7 @@ appense
 ajonjoli
 alist
 apoxesis
-aphoriser
+aphoriser 1
 arthresthesia
 albuminized
 androides

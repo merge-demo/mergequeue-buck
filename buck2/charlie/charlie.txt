@@ -18203,7 +18203,7 @@ condescends
 coexerts
 coexistence
 coexisting
-coexpand
+coexpand 1
 coexpanded
 coexperiencer
 coextend
