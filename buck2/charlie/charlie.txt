@@ -23088,7 +23088,7 @@ conspirators
 carotid
 carraways
 conspiratress
-conspire
+conspire 1
 curiality
 constablery
 carefulness
