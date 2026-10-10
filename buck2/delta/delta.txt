@@ -8549,7 +8549,7 @@ didacts
 diaphanometric 1
 dampishness
 debateful
-daimonion
+daimonion 1
 dewfall
 diaphanously
 douglas
