@@ -19416,7 +19416,7 @@ argentine
 argentineans
 argentinian
 argentino
-argention
+argention 1
 axonophorous
 antillean
 argentometry
