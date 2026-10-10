@@ -19405,7 +19405,7 @@ chemmy
 colorimetrist
 carinthian
 chrysobalanaceae
-connoisseurs
+connoisseurs 1
 crosscurrents
 colorin
 coloring
