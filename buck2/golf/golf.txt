@@ -6656,7 +6656,7 @@ gordius
 glossolabiopharyngeal
 gucks
 ganda
-goneness 1
+goneness 2
 grumped
 gladsome
 gonidangium
