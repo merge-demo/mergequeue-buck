@@ -22963,7 +22963,7 @@ annary
 adiabatically
 atriocoelomic
 atriopore
-atrip
+atrip 1
 asthenopic
 argyraspides 1
 asquat
