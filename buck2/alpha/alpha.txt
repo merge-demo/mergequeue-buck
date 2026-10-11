@@ -14180,7 +14180,7 @@ antequalm
 abmho
 arduous
 artie
-affront
+affront 1
 antereformational
 assyrians
 aeromechanical
