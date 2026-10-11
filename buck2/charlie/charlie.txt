@@ -9787,7 +9787,7 @@ chelingas
 cheliped
 chelys
 cydon
-chellean
+chellean 1
 cheloids
 cutinizing
 chelonia
