@@ -4742,7 +4742,7 @@ fife
 foresey
 forerank
 faldfee
-forthink
+forthink 1
 fablemongering
 forestry
 flo
