@@ -7809,7 +7809,7 @@ diathetic
 diplospondylic
 dispending
 desmarestia
-devolving
+devolving 1
 dramatisable
 devon
 devons
