@@ -2479,7 +2479,7 @@ fernandinite
 frecket
 foliously
 flabile
-filarious
+filarious 1
 foamlike
 fris
 fibrinoid
