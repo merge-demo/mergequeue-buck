@@ -20818,7 +20818,7 @@ componential
 challoth
 components
 compony
-comportable
+comportable 1
 comportance
 comported
 circleting
