@@ -5511,7 +5511,7 @@ energizers
 eosinophilia
 elasmosaurus
 esterifiable
-epiploic
+epiploic 1
 energizes
 electroscopic
 entwists
