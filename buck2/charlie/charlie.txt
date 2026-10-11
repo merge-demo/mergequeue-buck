@@ -9959,7 +9959,7 @@ chenopods
 cajuputs
 chequebook
 croup
-chequer
+chequer 1
 chequered
 chequers
 creosoted
