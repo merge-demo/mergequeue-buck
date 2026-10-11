@@ -26955,7 +26955,7 @@ cotonier
 countermined
 countermission
 coinfeftment
-chromophor
+chromophor 1
 circumsciss
 carburizing
 countermoved
