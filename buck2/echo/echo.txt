@@ -10587,7 +10587,7 @@ eocarboniferous
 elixation
 earthiness
 expectance
-euchrome
+euchrome 1
 euclideanism
 euclidian
 exhalant
