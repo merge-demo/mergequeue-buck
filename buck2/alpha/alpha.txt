@@ -14532,7 +14532,7 @@ accompanist
 adjutage
 ammino
 arizonian
-aphototropic
+aphototropic 1
 alroot
 asheries
 anthropomorphically
