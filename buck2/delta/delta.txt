@@ -16897,7 +16897,7 @@ decilitre
 doubletone 1
 distortable
 desilvered
-dichromate
+dichromate 1
 damewort
 displacing
 dreamiest
