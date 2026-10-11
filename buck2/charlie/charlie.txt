@@ -21884,7 +21884,7 @@ conferential
 conferral
 creodont
 conferred
-conferrence
+conferrence 1
 cornerbind
 camalig
 conferrers
