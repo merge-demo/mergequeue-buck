@@ -18358,7 +18358,7 @@ coglorify
 cogman
 coralloid
 counterbuilding
-conformers
+conformers 1
 cogmen
 claypan
 chenevixite
