@@ -4371,7 +4371,7 @@ adularescence
 appointments
 abbes
 assertorial
-atelectatic
+atelectatic 1
 ankylomerism
 anilidoxime
 adularias
