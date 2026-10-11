@@ -8897,7 +8897,7 @@ cremains
 cochylis
 charadrius
 charango
-chorioidal
+chorioidal 1
 colibacillosis
 chuddars
 charases
