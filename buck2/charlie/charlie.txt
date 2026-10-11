@@ -477,7 +477,7 @@ capronic
 cadaverin
 cormus
 cadaverous
-cadaverously
+cadaverously 1
 cadavers
 centonical
 cadbait
