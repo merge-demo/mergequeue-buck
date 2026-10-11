@@ -15991,7 +15991,7 @@ comrado
 conglutin
 clernly
 cramper
-compromises
+compromises 1
 covado
 cleromancy
 canniness
