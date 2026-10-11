@@ -18409,7 +18409,7 @@ cokelike
 cognitivity
 cognizable
 cognizant
-cognize
+cognize 1
 conveyancer
 cognized
 cognizes
