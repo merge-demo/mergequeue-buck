@@ -1752,7 +1752,7 @@ eyen
 etacism
 engler
 eulogisation
-extendedly
+extendedly 1
 epanorthoses
 eer
 eyepiece
