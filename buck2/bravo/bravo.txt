@@ -3094,7 +3094,7 @@ butylene
 basculation
 bulbils
 bromobenzyl
-bambuk
+bambuk 1
 blindfold
 bibliothec
 benzedrine
