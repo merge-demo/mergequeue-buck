@@ -12872,7 +12872,7 @@ basihyoid
 barthian
 breastwise
 boong
-bourignonist
+bourignonist 1
 buckplate
 blunders
 boophilus
