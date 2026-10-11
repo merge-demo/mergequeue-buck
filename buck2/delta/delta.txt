@@ -17505,7 +17505,7 @@ donuts
 drugeteria
 drugger
 deliverability
-dezinkify
+dezinkify 1
 detoxified
 druggery
 druggets
