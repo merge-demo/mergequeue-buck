@@ -30347,7 +30347,7 @@ cruroinguinal
 coadventuress
 cabaretier
 crurotarsal
-crus
+crus 1
 champed
 chocolatier
 crusade
