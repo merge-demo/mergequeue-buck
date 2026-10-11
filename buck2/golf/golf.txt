@@ -9351,7 +9351,7 @@ gunnysacks
 ghaznevid
 ghaist
 gasparillo
-gyrostat
+gyrostat 1
 gimmick
 gonocoel
 gravestones
