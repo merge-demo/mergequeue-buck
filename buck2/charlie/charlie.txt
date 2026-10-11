@@ -12498,7 +12498,7 @@ clairvoyants
 chromophore
 chromophorous
 chromophotography
-chromophotographic
+chromophotographic 1
 cranky
 corundophilite
 colonists
