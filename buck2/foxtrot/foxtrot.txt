@@ -9370,7 +9370,7 @@ frankfurters
 fivers
 frayne
 frankish
-functionary
+functionary 1
 fummle
 fastenings
 fowk
