@@ -24140,7 +24140,7 @@ cooties
 compeers
 colascione
 convicinity
-cattabu
+cattabu 1
 charon
 convictfish
 convictfishes
