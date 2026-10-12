@@ -12299,7 +12299,7 @@ duboisia
 diamminobromide
 disgradation
 detoxifying
-dappleness
+dappleness 1
 disincrustion
 decousu
 disgrading
