@@ -3856,7 +3856,7 @@ antitropous
 angiorrhexis
 anartismos
 adipoma
-autocracies
+autocracies 1
 arrish
 articulary
 antiopiumite
