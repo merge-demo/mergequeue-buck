@@ -27291,7 +27291,7 @@ countrywomen
 chymification
 countship
 coupage
-coupe
+coupe 1
 couped
 cicrumspections
 cocus
