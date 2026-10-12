@@ -9517,7 +9517,7 @@ grouser
 gunmetals 1
 gorgeted
 gyred
-grimp
+grimp 1
 giftbook
 gymnosporous
 granting
