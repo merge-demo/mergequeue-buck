@@ -6301,7 +6301,7 @@ fob
 falerian
 flumes
 fluminous
-freak
+freak 1
 fluxibility
 flummer
 flickerproof
