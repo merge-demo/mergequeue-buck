@@ -9754,7 +9754,7 @@ amah
 amahuaca
 assoil
 antigen
-amanori
+amanori 1
 aeroscope
 accoutrements
 amain
