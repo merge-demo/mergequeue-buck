@@ -9111,7 +9111,7 @@ grumose
 guttation
 geophagist
 guillemet
-grindable 1
+grindable 2
 gibbose
 grissel
 gingerol
