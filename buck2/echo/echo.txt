@@ -5396,7 +5396,7 @@ emeroid
 elateridae
 encorbellment
 elamitic 1
-extuberant
+extuberant 1
 erstwhiles
 epicurishly 1
 eosphorite
