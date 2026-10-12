@@ -3889,7 +3889,7 @@ dismast
 discastle
 dissect
 disp
-dyscrasite
+dyscrasite 1
 deerdog
 demihogshead
 dewy
