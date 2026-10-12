@@ -11036,7 +11036,7 @@ flammulated
 fontainea
 frontolysis
 fancies
-flanerie
+flanerie 1
 ferruminate
 fumishing
 friendliness
