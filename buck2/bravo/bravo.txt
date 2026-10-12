@@ -6716,7 +6716,7 @@ brawler
 bacchiuchii
 bermudas
 bucketfull
-buffoons
+buffoons 1
 bionic
 bechalks
 beshrouding
