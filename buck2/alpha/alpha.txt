@@ -21051,7 +21051,7 @@ ascititious
 agaz
 allegorism
 asclepiad
-asporous
+asporous 1
 asclepiadaceae
 asclepiadae
 aircheck
