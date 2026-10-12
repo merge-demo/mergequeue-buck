@@ -11826,7 +11826,7 @@ dormitary
 discrowns
 daydreamed
 devitalised
-dogma
+dogma 1
 defiler
 discruciate 1
 dived
