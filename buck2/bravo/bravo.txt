@@ -9487,7 +9487,7 @@ birdbanding
 bdellostoma
 babooism
 birses
-birsit
+birsit 1
 bellowsmaking
 badenite
 borstals
