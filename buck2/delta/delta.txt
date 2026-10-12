@@ -5900,7 +5900,7 @@ diablene
 duffy
 duplicity
 deprehend
-disprofit
+disprofit 1
 damsel
 diploptera
 dyscrasy
