@@ -22461,7 +22461,7 @@ ciconiid
 coronetlike
 cantata
 carotinaemia
-conjecturally
+conjecturally 1
 continuance
 cytoma
 cestida
