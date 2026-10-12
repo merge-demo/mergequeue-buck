@@ -4044,7 +4044,7 @@ convolutely
 cardamine
 catarrhinian 1
 covido
-cicada
+cicada 1
 cowpox
 catechism
 cardamom
