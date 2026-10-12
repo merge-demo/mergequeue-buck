@@ -5565,7 +5565,7 @@ crushingly
 catalepsis
 catalexes
 catalexis
-catalin
+catalin 1
 curule
 cauponation
 coxing
