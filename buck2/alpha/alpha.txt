@@ -6183,7 +6183,7 @@ agnosia
 antimonic 1
 anisogamic
 anthraces
-ablactate
+ablactate 1
 agnostics
 anon
 apoplexy
