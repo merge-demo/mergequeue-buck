@@ -28751,7 +28751,7 @@ cephaloplegia
 civetone
 crepon
 crept
-canters
+canters 1
 circaetus
 compendiary
 crepuscular
