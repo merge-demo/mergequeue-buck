@@ -13190,7 +13190,7 @@ clin
 craftsmanlike
 chetahs
 coworker
-compesce
+compesce 1
 cyclanthus
 cyclases
 ciclatoun
