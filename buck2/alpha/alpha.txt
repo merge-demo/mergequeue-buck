@@ -15720,7 +15720,7 @@ acraniate
 antiparticles
 addice
 antipasch
-antipastic
+antipastic 1
 antipastos
 aureolin
 archaeocyathus
