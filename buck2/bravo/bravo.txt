@@ -17687,7 +17687,7 @@ bonuses
 boomlets
 burleycue
 blisterous
-burlesquer
+burlesquer 1
 boviculture
 burlesquing
 burlet
