@@ -2925,7 +2925,7 @@ chestily 1
 chorioids
 condylos
 crappy
-cantdog
+cantdog 1
 compensatively
 cantefable
 childlier
