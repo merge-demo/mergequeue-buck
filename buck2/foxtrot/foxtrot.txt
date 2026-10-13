@@ -9968,7 +9968,7 @@ fadlike 1
 friendships
 feloniousness
 frigoric
-foun
+foun 1
 futureless
 fed
 feracity
