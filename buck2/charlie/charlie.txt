@@ -26165,7 +26165,7 @@ cosmopolises
 cosmopolitan
 cosmopolitanisation
 coastline
-cosmopolitanise
+cosmopolitanise 1
 charcutiers
 cosmopolitanising
 centurions
