@@ -897,7 +897,7 @@ audiometric
 apogeotropic
 archband
 aures
-absyrtus
+absyrtus 1
 amylon
 absis
 absit
