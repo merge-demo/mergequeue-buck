@@ -24348,7 +24348,7 @@ cards
 cookstove
 colligible
 contumacies
-coreveler
+coreveler 1
 circumflex
 cool
 cooled
