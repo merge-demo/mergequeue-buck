@@ -7955,7 +7955,7 @@ dextranase
 doublelunged
 disallowable
 demicylinder
-defunctive
+defunctive 1
 downsteepy
 diathermal
 decimeters
