@@ -13819,7 +13819,7 @@ denumeration
 diatomic
 dryers
 doable
-delphinin
+delphinin 1
 distanceless
 distancy
 dissimilar
