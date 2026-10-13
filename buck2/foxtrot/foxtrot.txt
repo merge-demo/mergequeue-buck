@@ -9909,7 +9909,7 @@ fenestrone
 formalin
 formalizes
 foretells
-fistfuls
+fistfuls 1
 falconry
 filoplumaceous
 forkbeard
