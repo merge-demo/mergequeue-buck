@@ -25220,7 +25220,7 @@ corynocarpaceous
 corynocarpus
 corynteria
 corinth
-corinthes
+corinthes 1
 corinthiac
 corinthianize
 cumidine
