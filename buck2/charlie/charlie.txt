@@ -29293,7 +29293,7 @@ chinband
 credent
 cryptococcus
 chouette
-cryptocurrency
+cryptocurrency 1
 cunabula
 clericalist
 coagitate
