@@ -9320,7 +9320,7 @@ castrate
 chullo
 chaulmaugra
 chaulmoogra
-choralist
+choralist 1
 cytodendrite
 chaulmugra
 chaumiere
