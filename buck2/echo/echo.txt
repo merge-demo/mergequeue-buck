@@ -6522,7 +6522,7 @@ estimative 1
 execration
 ephemeric
 englishes
-ephemeris 1
+ephemeris 2
 egomaniacal
 enrollment
 ectosphenoid
