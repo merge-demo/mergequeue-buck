@@ -13120,7 +13120,7 @@ dethyroidism
 decompositions
 defamer
 dipeptidase
-diocese
+diocese 1
 disperple
 diadem
 deflourish
