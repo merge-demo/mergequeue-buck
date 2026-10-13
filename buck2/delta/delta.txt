@@ -10903,7 +10903,7 @@ dereference
 deployed
 disable
 deputationize
-delusions
+delusions 1
 denazify
 disabled
 doorplates
