@@ -11430,7 +11430,7 @@ amputees
 angiographic
 amrit
 ajugas
-attendants
+attendants 1
 anywheres
 assets
 aneroids
