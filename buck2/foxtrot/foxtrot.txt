@@ -4396,7 +4396,7 @@ forbearances
 frenums 1
 fishbowls
 flexive
-forky
+forky 1
 fisheyes
 forecomingness
 fistify
