@@ -24130,7 +24130,7 @@ chippage
 cryptoanalytic
 calcific
 cafeneh
-convexly
+convexly 1
 convexness
 convexo
 convexoconcave
