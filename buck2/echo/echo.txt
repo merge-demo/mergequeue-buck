@@ -9981,7 +9981,7 @@ easygoingly
 endocrinal
 earsplitting
 etalage
-endamnify
+endamnify 1
 ensures
 etamins
 enamdar
