@@ -11317,7 +11317,7 @@ ceylanite
 chloroformate
 churched
 collarinos
-chalcophanite
+chalcophanite 1
 chloroformic
 conged
 cubica
