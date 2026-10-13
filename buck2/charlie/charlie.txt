@@ -7192,7 +7192,7 @@ cytotoxin
 cremant
 clodpate
 centrically
-compensability
+compensability 1
 centrifugalisation
 crossing
 corruptest
