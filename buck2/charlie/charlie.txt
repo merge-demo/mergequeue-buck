@@ -6889,7 +6889,7 @@ celtidaceae
 celtiform
 consortiums
 celtis
-celtish
+celtish 1
 celtism
 celtium
 cotyla
