@@ -9181,7 +9181,7 @@ almohad
 aorta
 anticlimactical
 arrha
-autoallogamous
+autoallogamous 1
 anstoss
 aetobatus
 almohades
