@@ -6978,7 +6978,7 @@ cenogamy
 cenogenesis
 cenogenetic
 cenogonous
-capablest
+capablest 1
 colubrid
 cenomanian
 calciphobic
