@@ -10618,7 +10618,7 @@ endorse
 eucritic
 eudaemon
 eurous
-enmeshes
+enmeshes 1
 extravasated
 ecdyson
 exchangee
