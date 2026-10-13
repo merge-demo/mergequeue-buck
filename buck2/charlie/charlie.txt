@@ -31674,7 +31674,7 @@ cushy
 cyclarthrodial
 casked
 coth
-cushiness
+cushiness 1
 cushing
 cushion
 cushioned
