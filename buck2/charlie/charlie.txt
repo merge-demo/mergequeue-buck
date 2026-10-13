@@ -17013,7 +17013,7 @@ castorized
 cnemidium
 cnemis
 caryatides
-cneorum
+cneorum 1
 cytotrophy
 cnicin
 cnidae
