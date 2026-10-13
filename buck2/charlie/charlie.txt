@@ -8317,7 +8317,7 @@ canapes
 chalkiness
 chalking
 chalklike
-chalkline
+chalkline 1
 columnated
 chalkone
 chalkos
