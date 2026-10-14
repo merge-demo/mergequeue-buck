@@ -12525,7 +12525,7 @@ dicotyledonary
 disinfectants
 drafter
 dreg
-disinfected
+disinfected 1
 deceivers
 denaturizer
 desponsories
