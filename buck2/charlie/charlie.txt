@@ -15420,7 +15420,7 @@ camelidae
 clare
 corrodible
 clarence
-civilizational
+civilizational 1
 clarences
 clarenceux
 clarendon
