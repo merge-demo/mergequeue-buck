@@ -16842,7 +16842,7 @@ botchiness
 borderless
 buffeters 1
 bistros
-bubalises
+bubalises 1
 bietle
 bucketman
 black
