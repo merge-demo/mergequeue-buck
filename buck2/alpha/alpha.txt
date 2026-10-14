@@ -14484,7 +14484,7 @@ acquisition
 anthropobiology
 apneumatosis
 automaton
-anthropocentric
+anthropocentric 1
 absvolt
 acetaldehydase
 almoign
