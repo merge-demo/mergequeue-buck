@@ -8252,7 +8252,7 @@ diagnosed
 diagnostical
 diagnostically
 disenthroned
-diagnosticate
+diagnosticate 1
 denitrating
 divergency
 dinotherium
