@@ -6169,7 +6169,7 @@ genovino 1
 gazetteers
 groveling 1
 goal
-griffithite
+griffithite 1
 galactophore
 goniatite
 gigantolite
