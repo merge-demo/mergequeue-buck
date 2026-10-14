@@ -17584,7 +17584,7 @@ drunker
 denaturising
 dabbler
 dubitant
-drivellers
+drivellers 1
 decastylar
 dichoree
 duant
