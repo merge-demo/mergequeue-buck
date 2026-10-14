@@ -4028,7 +4028,7 @@ carcinomatous
 carcinomorphic
 cholericness
 carcinophagous
-carcinopolypus
+carcinopolypus 1
 chloroformization
 carcinosarcoma
 coloreds
