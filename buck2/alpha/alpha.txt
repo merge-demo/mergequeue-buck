@@ -12056,7 +12056,7 @@ acromiohyoid
 attributable
 arvicoline
 anaspides
-abducent
+abducent 1
 alpenhorns
 autocratical
 abduced
