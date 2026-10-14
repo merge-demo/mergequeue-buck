@@ -14742,7 +14742,7 @@ dispossessor
 desirefulness
 direx
 demiwivern
-dinheiro
+dinheiro 1
 denticular
 downcasts
 decrepitating
