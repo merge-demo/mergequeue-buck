@@ -3996,7 +3996,7 @@ allosterically
 apostolize
 amimide
 anthus
-acerola
+acerola 1
 arrows
 ankuses
 acronymize
