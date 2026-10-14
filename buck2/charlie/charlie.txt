@@ -1799,7 +1799,7 @@ colubroid
 colonopathy
 calvish
 carfour
-calvities
+calvities 1
 chartographically
 calvous
 calx
