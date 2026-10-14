@@ -30440,7 +30440,7 @@ csch
 csect
 cpu
 cholecystectomies
-csmp
+csmp 1
 crimpled
 csp
 csw
