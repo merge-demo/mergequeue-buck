@@ -6530,7 +6530,7 @@ cavils
 cyaathia
 cavina 1
 cynicisms
-cavitary
+cavitary 1
 closeup
 cystophthisis
 choleric
