@@ -8568,7 +8568,7 @@ cohesibility
 chancriform
 chancroid
 chrestomathic
-chainstitch
+chainstitch 1
 chancroidal
 chorgi
 chandala
