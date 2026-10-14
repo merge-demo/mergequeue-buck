@@ -4759,7 +4759,7 @@ albuminimetry
 allogamy
 attemperation
 aequor
-altitudes
+altitudes 1
 aequorins
 aerate
 ablactating
