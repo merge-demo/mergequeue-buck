@@ -24208,7 +24208,7 @@ convolutedly
 crinoidal
 convoluting
 convolution
-convolutional
+convolutional 1
 convolutions
 convolve
 ceratothecae
