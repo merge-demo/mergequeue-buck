@@ -5766,7 +5766,7 @@ debater
 duree
 disjoint
 descriptor
-decasualizing
+decasualizing 1
 depolymerize
 deadpay
 davened
