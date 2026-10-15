@@ -3036,7 +3036,7 @@ dilettantish
 deepgoing
 dawsoniaceous 1
 debaucheries
-dolomitize
+dolomitize 1
 duck
 decontrolling
 distinguishing
