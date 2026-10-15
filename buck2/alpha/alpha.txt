@@ -19955,7 +19955,7 @@ abbreviated
 acrasins
 alexander
 armpiece
-amulets
+amulets 1
 ananthropism
 aramis
 avengement
