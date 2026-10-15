@@ -17169,7 +17169,7 @@ apologs
 applause
 apologue
 apologues
-apolousis
+apolousis 1
 astacidae
 apolune
 aralie
