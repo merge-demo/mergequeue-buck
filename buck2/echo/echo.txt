@@ -11897,7 +11897,7 @@ except
 escheatment 1
 eppes
 encolure
-entomologise
+entomologise 1
 etheneldeli
 ennui
 enunciatively

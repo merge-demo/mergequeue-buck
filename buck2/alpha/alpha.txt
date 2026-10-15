@@ -19592,7 +19592,7 @@ antiphonies
 arianizer
 auxocyte
 anhydraemic
-antitheses
+antitheses 1
 arybballi
 archichlamydeous
 adhesions
