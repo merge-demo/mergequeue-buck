@@ -1160,7 +1160,7 @@ dasypod
 dispaint
 demonstrative 1
 detick
-digitogenin
+digitogenin 1
 dasypus
 defencelessly
 duxelles
