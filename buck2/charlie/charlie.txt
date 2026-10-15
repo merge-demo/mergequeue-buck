@@ -22387,7 +22387,7 @@ conidioid
 conidiophorous
 conidiospore
 copy
-conidium
+conidium 1
 conifer
 coniferae
 castrato
