@@ -15406,7 +15406,7 @@ chicane
 cautio
 cabins
 claptraps
-clapwort
+clapwort 1
 culbuter
 claque
 candescently
