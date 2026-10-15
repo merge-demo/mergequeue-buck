@@ -10438,7 +10438,7 @@ etymologization
 evaluator
 eurypteroid
 eviscerated
-eloinment
+eloinment 1
 embryoniferous
 etymon
 ectocondyle
