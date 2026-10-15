@@ -19683,7 +19683,7 @@ combat
 criminal
 combatable
 chroma
-chrismale
+chrismale 1
 combatant
 cimbalom
 combater
