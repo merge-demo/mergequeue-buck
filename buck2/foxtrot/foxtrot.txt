@@ -10728,7 +10728,7 @@ fimbria
 fuder
 frustrating
 fairing
-fingerless
+fingerless 1
 frustrative 1
 fohn
 feminized
