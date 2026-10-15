@@ -3599,7 +3599,7 @@ cappy
 colorist
 chauri
 carabine
-carabiner
+carabiner 1
 carabineros
 claik
 carabines
