@@ -2812,7 +2812,7 @@ grigris
 gormless
 glottalite
 gloiopeltis 1
-gentiobiose
+gentiobiose 1
 guardianess
 gait
 gentlemanlikeness
