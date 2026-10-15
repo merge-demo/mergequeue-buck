@@ -8088,7 +8088,7 @@ alga
 algaeological
 advisory
 aldolase
-acronycally
+acronycally 1
 antiholiday
 algal
 algalia
