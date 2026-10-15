@@ -6258,7 +6258,7 @@ cauldrifeness
 cauldrons
 cottar
 caulds
-camize
+camize 1
 caulescent
 caulicle
 caulicole
