@@ -9508,7 +9508,7 @@ eleutherarch
 edenic
 exorcisers
 electromotivity
-eruptives
+eruptives 1
 episodic
 escrow
 escrowing
