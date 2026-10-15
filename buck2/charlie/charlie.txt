@@ -23923,7 +23923,7 @@ conundrums
 conurbation
 cricke
 conus
-cypris
+cypris 1
 cytometer
 chirl
 conusance
