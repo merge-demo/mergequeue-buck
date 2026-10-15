@@ -10160,7 +10160,7 @@ deltidia
 dues
 diverticulate
 diploblastic
-defogging
+defogging 1
 distraint
 downy
 deuteranomal
