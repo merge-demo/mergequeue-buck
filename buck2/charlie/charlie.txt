@@ -1731,7 +1731,7 @@ caltrap
 caltraps
 cervicolingual
 contrafocal
-caltrop
+caltrop 1
 coenosite
 caltrops
 cornification
