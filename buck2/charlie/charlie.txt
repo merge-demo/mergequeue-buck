@@ -17694,7 +17694,7 @@ comoid
 charmeuse
 cockaigne
 cunjer
-cockal
+cockal 1
 carboloy
 counternoise
 cockpit
