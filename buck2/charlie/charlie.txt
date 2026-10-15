@@ -19402,7 +19402,7 @@ colorimeter
 colorimetrically
 colorimetrics
 chemmy
-colorimetrist
+colorimetrist 1
 carinthian
 chrysobalanaceae
 connoisseurs
