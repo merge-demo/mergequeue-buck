@@ -4653,7 +4653,7 @@ enajim
 ermelin
 eminence 1
 engaged
-etherealised
+etherealised 1
 enhydrite
 extratensive
 erythroxyline
