@@ -16690,7 +16690,7 @@ arefaction
 avie
 aph
 antilogical
-aggers
+aggers 1
 acaridan
 abjuration
 asserters
