@@ -10833,7 +10833,7 @@ animoso
 abyssal
 anisogamete
 agape
-amphibryous
+amphibryous 1
 arm
 addresser
 ammonia
