@@ -11252,7 +11252,7 @@ animized
 antired
 amphimorulae
 amphioxi
-amphioxuses
+amphioxuses 1
 assemblymen
 antistalling
 amphiplatyan
