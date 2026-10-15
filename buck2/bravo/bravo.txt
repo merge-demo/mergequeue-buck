@@ -5270,7 +5270,7 @@ bigot
 burrier
 beggary
 beeriest
-beggaring
+beggaring 1
 bicrescentic
 bringsel
 beggarlike
