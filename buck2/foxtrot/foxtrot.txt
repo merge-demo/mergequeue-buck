@@ -1648,7 +1648,7 @@ flamboyantly
 furbelowed 2
 focally
 fice
-feaberry
+feaberry 1
 ferrandin
 frike
 forethoughtfulness
