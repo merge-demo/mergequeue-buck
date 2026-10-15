@@ -16922,7 +16922,7 @@ apiole
 apiologist
 abricot
 apyonin
-apiosoma
+apiosoma 1
 apyrases
 apyrexial
 apyrotype
