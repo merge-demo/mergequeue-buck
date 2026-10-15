@@ -19949,7 +19949,7 @@ commandments
 caburn
 ceratops
 commando
-commandoes
+commandoes 1
 ceraunomancy
 commandoman
 canfieldite
