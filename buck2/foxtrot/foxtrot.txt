@@ -11639,7 +11639,7 @@ fustoc
 fussily
 friscal
 fusulae
-feathery
+feathery 1
 fusure
 fibroses
 fibropapilloma
