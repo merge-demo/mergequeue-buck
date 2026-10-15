@@ -15585,7 +15585,7 @@ doodlebug
 doodlers
 doodlesack
 demeanors
-dentolingual
+dentolingual 1
 deconcatenate
 drying
 determinedly
