@@ -8907,7 +8907,7 @@ anguimorpha
 alloerotism
 analgia 1
 allogene
-allogeneic
+allogeneic 1
 adream
 antisceptical
 achromatizable
