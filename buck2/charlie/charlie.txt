@@ -24694,7 +24694,7 @@ copperware
 copperwing
 cladodes
 cruelest
-coppices
+coppices 1
 crepehanger
 coppin
 charkhana
