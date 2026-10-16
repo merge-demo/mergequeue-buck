@@ -11156,7 +11156,7 @@ chlamydate
 chlamydobacteriaceous
 cantion
 chlamydobacteriales
-clamours
+clamours 1
 castrations
 chlamydosaurus
 chlamydoselachidae
