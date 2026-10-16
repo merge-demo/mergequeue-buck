@@ -10026,7 +10026,7 @@ chersydridae
 chert
 childishness
 calcarate
-controvert
+controvert 1
 caverned
 cherub
 cyanites
