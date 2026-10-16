@@ -8252,7 +8252,7 @@ engirded 1
 epistena
 electrodiplomatic
 episternal
-entoloma
+entoloma 1
 emaceration
 ecclesiologic
 erucic
