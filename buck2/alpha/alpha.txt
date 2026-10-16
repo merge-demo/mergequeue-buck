@@ -16828,7 +16828,7 @@ amylamine 1
 apostolian
 avocational
 angelographer
-alienates
+alienates 1
 acquisitional
 apogamous
 alterman
