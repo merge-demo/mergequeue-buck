@@ -12560,7 +12560,7 @@ eranist
 extinction
 envied
 enherit
-entryman
+entryman 1
 elkdom
 eft
 eucosia
