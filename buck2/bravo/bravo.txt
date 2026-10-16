@@ -12988,7 +12988,7 @@ brigadiers
 beelike 1
 bedquilts
 barmaid
-boppist
+boppist 1
 brideless
 bloomers
 bombazine
