@@ -2101,7 +2101,7 @@ casseroled
 campanistic
 cuecas
 campanologer
-crucis
+crucis 1
 croaker
 coalmonger
 conjunctly 1
