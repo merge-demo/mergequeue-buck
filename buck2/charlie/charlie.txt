@@ -20039,7 +20039,7 @@ commensurability
 commensurable
 cajoled
 commensurably
-commensurate
+commensurate 1
 commensurateness
 curatorial
 commensurating
