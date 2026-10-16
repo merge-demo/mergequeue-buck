@@ -10078,7 +10078,7 @@ amblydactyla
 asymptomatically
 ammoniemia
 agarita
-amblygonal
+amblygonal 1
 allergology
 amblygonite
 attractant
