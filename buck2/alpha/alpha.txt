@@ -18217,7 +18217,7 @@ aerodynes
 allophone
 autotheism
 architect
-adiantum
+adiantum 1
 acrobats
 apoplasmodial
 additional
