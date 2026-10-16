@@ -1434,7 +1434,7 @@ copals
 calypsoes
 calypsonian
 calypsos
-charbon
+charbon 1
 cholic
 counselorship
 calypters
