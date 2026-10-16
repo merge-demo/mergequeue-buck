@@ -19724,7 +19724,7 @@ alfuro
 ambatch
 antinihilistic
 arithmancy
-arenose
+arenose 1
 anticommerciality
 accelerations
 autophthalmoscope
