@@ -2230,7 +2230,7 @@ achromatopsia
 australia
 adcraft
 achromatosis
-akinesia
+akinesia 1
 achromobacter
 acyrological
 achromoderma
