@@ -28840,7 +28840,7 @@ cretaceously
 creach
 cretacic
 coastwaiter
-cretan
+cretan 1
 cymotrichy
 cretefaction
 callisection
