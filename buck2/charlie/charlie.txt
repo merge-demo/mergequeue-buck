@@ -31329,7 +31329,7 @@ curelessness
 coadjument
 curers
 clubber
-cures
+cures 1
 compotation
 curets
 callisthenics
