@@ -15932,7 +15932,7 @@ condemnatory
 cleptobioses
 conics
 coadministration
-coryphylly
+coryphylly 1
 cobelligerent
 cold
 cleptomaniac
