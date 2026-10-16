@@ -3606,7 +3606,7 @@ esperantism
 exhibits
 expostulatingly
 epitomically
-embows
+embows 1
 exanimate 1
 enculturate
 entamoeba
