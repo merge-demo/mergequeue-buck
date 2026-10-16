@@ -9497,7 +9497,7 @@ daintrel
 digestment
 dittography
 declinature
-diastataxic
+diastataxic 1
 debenzolize
 desiliconize
 discussable
