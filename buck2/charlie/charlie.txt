@@ -10604,7 +10604,7 @@ conservatoire
 corybantic
 cosmopolis
 campanology
-colleterium
+colleterium 1
 chilomastix
 chylomicron
 chylopericardium
