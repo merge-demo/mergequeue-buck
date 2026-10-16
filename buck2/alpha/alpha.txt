@@ -22874,7 +22874,7 @@ anatomies
 ataxaphasia
 accubation
 adventism
-anorthic
+anorthic 1
 affranchising
 aunters
 atomised
