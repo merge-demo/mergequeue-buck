@@ -814,7 +814,7 @@ distention
 danglers
 deniable
 dearths
-dulcorate
+dulcorate 1
 della
 dopesters
 dalaga
