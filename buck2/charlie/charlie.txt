@@ -15798,7 +15798,7 @@ cardcases
 calving
 crawly
 cataclysmist
-cometwise
+cometwise 1
 clearheadedness
 clearhearted
 caddice
