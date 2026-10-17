@@ -14829,7 +14829,7 @@ coziest
 conjoined
 colins
 corries
-curvaceousness
+curvaceousness 1
 citole
 citoles
 calker
