@@ -14709,7 +14709,7 @@ diphylleia
 dotlike
 discarnation
 difflation
-diaristic
+diaristic 1
 discommission
 dibrach
 despumate
