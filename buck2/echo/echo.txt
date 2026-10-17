@@ -5442,7 +5442,7 @@ endowment
 ectene
 excantation
 earthtongue
-endpoints
+endpoints 1
 endrudge
 extrabulbar
 ecderonic
