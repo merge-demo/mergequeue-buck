@@ -10253,7 +10253,7 @@ alloying
 analcitite 1
 ameiuridae
 absorbition
-astringently
+astringently 1
 ameiva
 ascidiae
 amel
