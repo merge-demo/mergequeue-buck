@@ -4583,7 +4583,7 @@ bloodstone
 belial
 biddelian
 beats
-bedazement
+bedazement 1
 bigeminate
 bedazzle
 blared
