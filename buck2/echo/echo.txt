@@ -13025,7 +13025,7 @@ ezba 1
 entastic
 existentially
 esophagectomy
-entocornea
+entocornea 1
 ergotic
 estafette
 electrocauteries
