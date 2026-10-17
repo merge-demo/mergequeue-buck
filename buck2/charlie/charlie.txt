@@ -11024,7 +11024,7 @@ chirrs
 coscoroba
 chirrup
 captions
-chirrupy
+chirrupy 1
 chirrupper
 combustor
 chirt
