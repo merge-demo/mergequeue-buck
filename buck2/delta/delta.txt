@@ -1922,7 +1922,7 @@ diandrian
 disapprobations
 dacryd
 dinophilus
-deferments
+deferments 1
 desire
 decennal
 durocs
