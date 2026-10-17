@@ -344,7 +344,7 @@ failingness
 facultative
 foresound
 floss
-favourer 1
+favourer 2
 frogleg
 flacian
 formulariser
