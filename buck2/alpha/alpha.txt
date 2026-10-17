@@ -1802,7 +1802,7 @@ anastalsis
 acephali
 afterage
 apprehendable
-anthropomorphous
+anthropomorphous 1
 afterend
 allamanda
 acephalist
