@@ -1347,7 +1347,7 @@ dhobies
 daunters
 decertified
 daffy
-dipentine
+dipentine 1
 demissive
 diploid
 draftsperson 1
