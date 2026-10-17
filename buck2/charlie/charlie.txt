@@ -25467,7 +25467,7 @@ cornutos
 cornwall
 cornwallite
 cutdown
-corocleisis
+corocleisis 1
 caricaturable
 corody
 corodiary
