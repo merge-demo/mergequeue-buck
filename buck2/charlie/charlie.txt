@@ -18879,7 +18879,7 @@ colyone
 colipuncture
 coliseum
 chancelor
-colossus
+colossus 1
 cestoid
 colistin
 coypou
