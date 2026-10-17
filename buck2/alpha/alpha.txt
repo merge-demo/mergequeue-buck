@@ -2620,7 +2620,7 @@ acquisite
 arricciati
 appraiser
 alferes
-amidase
+amidase 1
 acquisitive
 acquisitively
 advocatess
