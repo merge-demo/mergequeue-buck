@@ -1020,7 +1020,7 @@ eldership
 epilabra
 edemata
 equable
-energised
+energised 1
 electrohorticulture
 expansionists
 epigonation
