@@ -14106,7 +14106,7 @@ extendedness
 epiphyses
 exterraneous
 entrancements
-extrinsically
+extrinsically 1
 extrinsicalness
 extrinsication
 enthralls
