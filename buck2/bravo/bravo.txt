@@ -10605,7 +10605,7 @@ blaze
 blazers
 bursts
 blazes
-blazy
+blazy 1
 borzois
 bridgeheads
 brahmanhood
