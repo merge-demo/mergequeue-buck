@@ -10861,7 +10861,7 @@ fantasizing
 footholds
 fallings
 fossors
-flavor
+flavor 1
 frowardly
 fon
 frontalis
