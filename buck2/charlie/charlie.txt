@@ -20260,7 +20260,7 @@ canthoplasty
 communal
 chapman
 coccineous
-chitin
+chitin 1
 cliona
 communalise
 communalism
