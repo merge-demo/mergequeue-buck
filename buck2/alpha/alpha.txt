@@ -1754,7 +1754,7 @@ accustomizing
 anisyl
 adiamorphism
 adsorption
-afflicted
+afflicted 1
 actualist
 asker
 abuse
