@@ -9121,7 +9121,7 @@ allusive
 awreak
 asonant
 autism
-allhallow
+allhallow 1
 abhorring
 alky
 aristogenetic
