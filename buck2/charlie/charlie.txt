@@ -8283,7 +8283,7 @@ contravariant
 councillary
 chalder
 coholder
-chaleh
+chaleh 1
 chalybeate
 chalybes
 chalybite
