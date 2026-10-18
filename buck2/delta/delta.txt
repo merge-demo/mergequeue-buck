@@ -1161,7 +1161,7 @@ dispaint
 demonstrative 1
 detick
 digitogenin
-dasypus
+dasypus 1
 defencelessly
 duxelles
 dispersively
