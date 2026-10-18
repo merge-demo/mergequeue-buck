@@ -10131,7 +10131,7 @@ epagomenic
 elegante
 eboe
 epilation
-epinastic
+epinastic 1
 enunciating
 exacerbations
 exheredation
