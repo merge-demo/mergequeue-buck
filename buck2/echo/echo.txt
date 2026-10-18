@@ -9639,7 +9639,7 @@ espagnole 1
 elaeagnus
 enfrai
 esparsette
-encloud
+encloud 1
 embost
 espartos
 enhydritic
