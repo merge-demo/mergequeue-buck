@@ -4933,7 +4933,7 @@ bequest
 beefiest 1
 byroads
 beefsteak
-beeftongue
+beeftongue 1
 biers
 beefwoods
 beegerite
