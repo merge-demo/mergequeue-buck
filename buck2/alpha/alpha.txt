@@ -25070,7 +25070,7 @@ anural
 anesthetizing
 antipapistic
 ax
-abasia
+abasia 1
 ascochyta
 axebreaker
 afterglide
