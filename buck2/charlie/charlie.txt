@@ -17709,7 +17709,7 @@ cockscombs
 coco
 cocoach
 cte
-campuses
+campuses 1
 cashier
 cocoanut
 chasing
