@@ -9007,7 +9007,7 @@ glagah 1
 gargarism
 grantedly
 glovemaking
-griffonage
+griffonage 1
 gynandry
 girned
 glacis
