@@ -8120,7 +8120,7 @@ grantsman
 granular
 girandole 1
 gooky
-granulary
+granulary 1
 guidebooks
 glyoxalin
 gobs
