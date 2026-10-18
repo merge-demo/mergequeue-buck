@@ -6267,7 +6267,7 @@ defenser
 dermatomere
 dermatomyces
 deploredness
-diplokaryon
+diplokaryon 1
 dweeble
 debat
 doldrums
