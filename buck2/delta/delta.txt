@@ -6498,7 +6498,7 @@ dimensioned
 dipeptid
 dentellated
 disqualification
-delignated 2
+delignated 3
 disomatous
 descendent
 dolichosoma
