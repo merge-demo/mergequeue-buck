@@ -5917,7 +5917,7 @@ agglutinize
 anathematization
 agglutinogen
 agglutinoscope
-acclaiming
+acclaiming 1
 amblygeusia
 agglutogenic
 accompanists
