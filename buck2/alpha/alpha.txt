@@ -14388,7 +14388,7 @@ anthophyllitic
 astigmatoscopies
 aerogramme 1
 accidentary
-apometabolism
+apometabolism 1
 anthophora
 anglicizing
 amphistomous
