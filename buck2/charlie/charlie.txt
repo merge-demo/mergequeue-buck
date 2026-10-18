@@ -8464,7 +8464,7 @@ champagnize
 cardiogenic
 champagnized
 cesurae
-champak
+champak 1
 chamfering
 characterstring
 crummed
