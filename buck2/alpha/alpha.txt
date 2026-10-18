@@ -10513,7 +10513,7 @@ amidoazo
 anchoic
 amidofluorid
 aperulosid
-amidogen
+amidogen 1
 amidoguaiacol
 awabakal
 automacy
