@@ -3597,7 +3597,7 @@ forspoken
 feddan 1
 flapjacks
 fussle
-fairbanks
+fairbanks 1
 fourniture
 flank
 filers
