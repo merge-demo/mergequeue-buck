@@ -8350,7 +8350,7 @@ challot
 challote
 corkscrewed
 catalogers
-carburated
+carburated 1
 chalmer
 caseate
 chalon
