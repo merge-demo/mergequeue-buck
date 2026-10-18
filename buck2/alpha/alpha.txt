@@ -17472,7 +17472,7 @@ acinacifoliate 1
 audiogenic
 audients
 astrographic
-anglicisation
+anglicisation 1
 ama
 adrammelech
 aerostatics
