@@ -4611,7 +4611,7 @@ fit
 fontally
 fringilliform
 fitchee 1
-fibrocalcareous
+fibrocalcareous 1
 filagrees
 ferring
 flowmanostat
