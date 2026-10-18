@@ -31537,7 +31537,7 @@ cursorary
 cundite
 cursory
 cratered
-cuproid
+cuproid 1
 cursorily
 crystallizability
 cursoriness
