@@ -9637,7 +9637,7 @@ forwardly
 flotations 1
 freers
 farthest
-foresign
+foresign 1
 fecklessly
 feliform
 fulcrumage
