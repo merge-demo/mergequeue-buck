@@ -20674,7 +20674,7 @@ artiad
 artichoke
 acidimetrical
 afghani
-aspirates
+aspirates 1
 acanthial
 aulostomid
 amphorous
