@@ -16864,7 +16864,7 @@ aphislion
 arrearages
 accomplices
 apicillary
-apicitis
+apicitis 1
 alimentive
 apickback
 araucarian
