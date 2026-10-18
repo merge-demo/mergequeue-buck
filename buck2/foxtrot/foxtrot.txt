@@ -3598,7 +3598,7 @@ feddan 1
 flapjacks
 fussle
 fairbanks
-fourniture
+fourniture 1
 flank
 filers
 fructification
