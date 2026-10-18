@@ -8689,7 +8689,7 @@ galactophygous
 greediest
 grandfilial 1
 garths
-gannetry
+gannetry 1
 grassily
 gasteromycete
 glyphograph
