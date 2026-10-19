@@ -13278,7 +13278,7 @@ anisodactyla
 anonol
 anisodactyli
 assailing
-asnort
+asnort 1
 anisodactylic
 advocate
 axilemma
