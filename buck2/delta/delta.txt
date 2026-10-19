@@ -6997,7 +6997,7 @@ decease
 diogenite
 dithionite
 douter
-diets
+diets 1
 dript
 despoil
 despoiled
