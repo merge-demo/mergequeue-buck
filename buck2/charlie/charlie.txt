@@ -22352,7 +22352,7 @@ cistaceous
 congruence
 cortez
 congruency
-congruent
+congruent 1
 congruism
 congruist
 congruity
