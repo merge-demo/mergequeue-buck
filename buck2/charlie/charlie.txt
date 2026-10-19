@@ -12405,7 +12405,7 @@ cystatrophy
 chevee
 chromed
 counterstratagem
-chromes
+chromes 1
 chromesthesia
 crabbers
 chromhidrosis
