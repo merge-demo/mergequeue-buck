@@ -15408,7 +15408,7 @@ cabins
 claptraps
 clapwort
 culbuter
-claque
+claque 1
 candescently
 calipering
 canneries
