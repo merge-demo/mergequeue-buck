@@ -8466,7 +8466,7 @@ formazan
 formee
 formel
 furiant
-foresinger
+foresinger 1
 formelt
 ferritic
 filmsetter
