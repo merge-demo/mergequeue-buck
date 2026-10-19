@@ -528,7 +528,7 @@ amerism
 abkhasian
 ashtrays 1
 abl
-asperities
+asperities 1
 ablated
 ablates
 astroite
