@@ -10351,7 +10351,7 @@ explain
 etwite
 electrometallurgical 1
 ethnolinguist
-estensible
+estensible 1
 erysibe
 elvers
 ecumenistic
