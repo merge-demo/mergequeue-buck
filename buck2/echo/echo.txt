@@ -730,7 +730,7 @@ economism
 engrossingness
 enormity
 economized
-enharmonical
+enharmonical 1
 elucidated
 esthesises
 edifice
