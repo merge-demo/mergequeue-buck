@@ -12535,7 +12535,7 @@ cynegetics
 chromotypography
 chromotypographic
 chromotropy
-chromotropic
+chromotropic 1
 commonplaceness
 cradleboard
 concepts
