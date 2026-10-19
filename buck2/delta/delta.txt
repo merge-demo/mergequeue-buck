@@ -4637,7 +4637,7 @@ dinic
 demisang
 dulcite
 demisangue
-douzaines
+douzaines 1
 dereliction
 demipectinate
 denarius
