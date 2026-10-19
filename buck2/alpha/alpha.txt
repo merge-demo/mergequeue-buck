@@ -11982,7 +11982,7 @@ anapnoic
 anapodeictic
 annihilates
 australopithecus
-asexual
+asexual 1
 andes
 anemone
 anapterygotism
