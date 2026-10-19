@@ -19357,7 +19357,7 @@ asse
 autocamper
 argal
 argala
-assurd
+assurd 1
 apiin
 acontius
 aho
