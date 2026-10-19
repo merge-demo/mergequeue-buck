@@ -13501,7 +13501,7 @@ eristic
 endangeitis
 epitomic
 epigrapher
-expanses
+expanses 1
 elinor
 equipollence
 ensnares
