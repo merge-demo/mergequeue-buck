@@ -15865,7 +15865,7 @@ antipodism
 antipoetical
 antipolar
 afibrinogenemia
-acanthus
+acanthus 1
 antipolygamy
 antipolitical
 assureds
