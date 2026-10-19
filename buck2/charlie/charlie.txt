@@ -9701,7 +9701,7 @@ cherna
 commendingly
 carboniser
 contemplatingly
-cheyenne
+cheyenne 1
 cheyennes
 crosscut
 confirmee
