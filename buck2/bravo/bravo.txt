@@ -6918,7 +6918,7 @@ bagheli
 brott
 bilihumin
 bagoong
-balky
+balky 1
 brainwater
 beshaming
 beshivered
