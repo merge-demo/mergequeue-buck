@@ -24347,7 +24347,7 @@ chiliasms
 cards
 cookstove
 colligible
-contumacies
+contumacies 1
 coreveler
 circumflex
 cool
