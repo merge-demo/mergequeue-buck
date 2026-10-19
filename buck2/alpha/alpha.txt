@@ -3990,7 +3990,7 @@ antiquatedness
 atheticize 1
 admeasurer
 adumbrant
-admeasuring
+admeasuring 1
 adulterant
 allosterically
 apostolize
