@@ -11087,7 +11087,7 @@ factfinder
 flagellated
 flockless
 functionnaire
-functors
+functors 1
 formational
 foulard
 functus
