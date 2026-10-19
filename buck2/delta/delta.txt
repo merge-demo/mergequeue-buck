@@ -6723,7 +6723,7 @@ disorderliness
 darnex
 diatribes
 desiderta
-diptycas
+diptycas 1
 desidiose
 duckmole
 designable
