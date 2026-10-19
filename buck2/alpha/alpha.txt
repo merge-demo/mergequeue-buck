@@ -24419,7 +24419,7 @@ auteciously
 architrave
 adstipulated
 argenter
-ampullated
+ampullated 1
 alimentum
 autosporic
 autostarter
