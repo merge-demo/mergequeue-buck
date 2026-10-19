@@ -30215,7 +30215,7 @@ crudy
 capitoulate
 concentrators
 cains
-cursed
+cursed 1
 crudity
 crudities
 companions
