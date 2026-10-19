@@ -17969,7 +17969,7 @@ antiempirical
 anisodactyle
 allodialism
 anthropophysiography
-allothigene
+allothigene 1
 authenticate
 amphidesmous
 azoformic
