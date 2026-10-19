@@ -3522,7 +3522,7 @@ darkey
 deformation
 deflections
 delete
-deformations
+deformations 1
 deformedly
 dandily
 downfold
