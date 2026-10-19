@@ -7355,7 +7355,7 @@ albedo
 antidisestablishmentarian
 alum
 albee 1
-amphiboline
+amphiboline 1
 alberene
 albergatrice
 anthropobiologist
