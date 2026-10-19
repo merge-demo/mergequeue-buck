@@ -4792,7 +4792,7 @@ apalachee
 autarky
 acutifoliate
 antimonarchist
-aerifies
+aerifies 1
 antiparabemata
 adglutinate
 aeriform
