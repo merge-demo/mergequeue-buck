@@ -8815,7 +8815,7 @@ chapteral
 chapterhouse
 cardinalates
 chapwoman
-circumradii
+circumradii 1
 chaqueta
 commanders
 char
