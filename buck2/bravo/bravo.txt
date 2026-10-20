@@ -9008,7 +9008,7 @@ brasqued
 bionditional
 bionics
 brachyprosopic
-bionomic
+bionomic 1
 backswordman
 bursas
 batton
