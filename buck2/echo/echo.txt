@@ -9637,7 +9637,7 @@ epenthesize
 epacris
 espagnole 1
 elaeagnus
-enfrai
+enfrai 1
 esparsette
 encloud
 embost
