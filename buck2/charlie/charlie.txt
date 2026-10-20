@@ -24997,7 +24997,7 @@ comae
 chumble
 cordelia
 cordelle
-crushableness
+crushableness 1
 cordery
 corders
 cordewane
