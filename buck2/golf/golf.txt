@@ -1857,7 +1857,7 @@ goloshes
 geographize
 gossypium
 gatemaker 1
-gladfully
+gladfully 1
 glyconics
 gerhardtite
 gregory
