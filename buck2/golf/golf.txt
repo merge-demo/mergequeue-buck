@@ -2778,7 +2778,7 @@ grabbled
 garbs
 garnished
 gelotometer
-glottochronological 1
+glottochronological 2
 gristly
 gabies
 gangwayed
