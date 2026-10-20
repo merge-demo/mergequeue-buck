@@ -9663,7 +9663,7 @@ dipteron
 dimidiating 1
 drinkables
 daidling
-diipenates
+diipenates 1
 diencephalons
 defiliation
 dillies
