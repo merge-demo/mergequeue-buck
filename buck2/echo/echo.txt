@@ -3985,7 +3985,7 @@ excurvation
 empanelling
 empanels 1
 enfamish
-ecumene
+ecumene 1
 emparchment
 exaltative
 enruin
