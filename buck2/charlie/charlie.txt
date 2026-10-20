@@ -23996,7 +23996,7 @@ curin
 chubb
 conveniency
 conveniencies
-convenient
+convenient 1
 casing
 clocksmith
 convented
