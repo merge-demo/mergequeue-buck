@@ -11156,7 +11156,7 @@ epaulet
 entity
 eadi 1
 evacuated
-epitomatory
+epitomatory 1
 endeavored
 epexegetical
 evacuations
