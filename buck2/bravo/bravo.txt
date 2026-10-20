@@ -986,7 +986,7 @@ brownier
 brigand
 bayano
 birlie
-bewitch 1
+bewitch 2
 bourdon
 bipalium
 blinger
