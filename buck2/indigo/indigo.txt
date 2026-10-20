@@ -2009,7 +2009,7 @@ icslmaatlcfbn
 icsmzol
 icsolw
 icsoqo
-icspuva 1
+icspuva 2
 icsrulhn
 icssfrnbec
 icstbgsms
