@@ -2596,7 +2596,7 @@ acquest
 armenite
 actutate
 applies
-arriswise
+arriswise 1
 acquiesce
 addiction
 acanthopterous 1
