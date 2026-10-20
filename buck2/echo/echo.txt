@@ -10445,7 +10445,7 @@ ectocondyle
 equalities
 etiolated
 etiology
-europeanism
+europeanism 1
 enlacing
 etiologist
 entocoelic
