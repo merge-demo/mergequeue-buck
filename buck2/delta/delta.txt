@@ -1579,7 +1579,7 @@ demand
 disposition
 determinatively
 desitive
-disembody
+disembody 1
 deadlocking
 decipolar
 duplicia
