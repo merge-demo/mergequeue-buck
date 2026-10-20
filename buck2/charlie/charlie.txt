@@ -2630,7 +2630,7 @@ camelopardel
 canes
 caprellidae
 canescence
-chaetetes
+chaetetes 1
 conversationalist
 composes
 cobbers
