@@ -3637,7 +3637,7 @@ adenohypersthenia
 atry
 archecentric
 applyingly
-adenoidectomy
+adenoidectomy 1
 atactiform
 acclimatization
 ailurophobia
