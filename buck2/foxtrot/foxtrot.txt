@@ -821,7 +821,7 @@ fastened
 flemings
 forerequest
 fiddlehead
-foveolarious
+foveolarious 1
 frown
 felinely
 ferrets
