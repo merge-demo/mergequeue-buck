@@ -3663,7 +3663,7 @@ carambole
 coextensively
 caviler
 caramboling
-cardsharper
+cardsharper 1
 comicotragedy
 caramelisation
 coillen
