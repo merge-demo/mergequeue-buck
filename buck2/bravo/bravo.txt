@@ -11171,7 +11171,7 @@ blearily
 blooey
 bloomed
 baloghia
-bloomeries
+bloomeries 1
 begash
 bibliophiles
 boodleize
