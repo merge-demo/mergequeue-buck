@@ -23758,7 +23758,7 @@ concilium
 contrapunto 1
 contraregularity
 centrisciform
-conductimeter
+conductimeter 1
 contraremonstrance
 contrariant
 contraries
