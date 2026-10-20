@@ -2218,7 +2218,7 @@ barbary
 baculiferous
 blastier
 bast
-ballism
+ballism 1
 bridgebote
 barbarianizing
 bandog
