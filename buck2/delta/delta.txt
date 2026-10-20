@@ -1162,7 +1162,7 @@ demonstrative 1
 detick
 digitogenin
 dasypus
-defencelessly
+defencelessly 1
 duxelles
 dispersively
 dezinced
