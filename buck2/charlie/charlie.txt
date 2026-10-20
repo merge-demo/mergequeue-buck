@@ -3090,7 +3090,7 @@ cirque
 capabler
 capably
 cerecloth
-capacify
+capacify 1
 cowpat
 centare
 contrabandist
