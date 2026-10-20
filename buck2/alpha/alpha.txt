@@ -24879,7 +24879,7 @@ aseptic
 avowedly
 avower
 amphithect
-astronavigation
+astronavigation 1
 autocoherer
 acknown
 antinoness
