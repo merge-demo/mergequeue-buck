@@ -9487,7 +9487,7 @@ fishwoman
 facinorous
 ffa 1
 frauleins
-formaliter
+formaliter 1
 fissiparousness
 flatbottom
 forbreak
