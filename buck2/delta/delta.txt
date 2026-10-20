@@ -8682,7 +8682,7 @@ dovekey
 diastalsis
 diglossia
 disgustedness
-dryads
+dryads 1
 dialectology
 diastasimetry
 dipnoan
