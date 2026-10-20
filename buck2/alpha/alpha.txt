@@ -22457,7 +22457,7 @@ acrisia
 astrophysicist
 anteal
 autolysate
-assumptionist
+assumptionist 1
 arduously
 aped
 anamnestically
