@@ -1376,7 +1376,7 @@ antiprotozoal
 azygospore
 armonica
 allotriodontia
-afterking
+afterking 1
 avestruz
 acceptee
 actinomycotic
