@@ -13540,7 +13540,7 @@ enlightening
 earthquakes 1
 exsectile
 experimentor
-exuviae
+exuviae 1
 emmarbling
 erato
 epexegetic
