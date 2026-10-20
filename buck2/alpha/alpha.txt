@@ -3319,7 +3319,7 @@ abactinal
 adagiettos
 adagios
 angiocarpy
-auscultoscope
+auscultoscope 1
 aristolochiaceous
 acetite
 avalanching
