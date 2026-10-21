@@ -11963,7 +11963,7 @@ enlisting
 elsehow
 epistemophiliac 1
 excises
-excystment
+excystment 1
 encinal
 emirs
 ensilages
