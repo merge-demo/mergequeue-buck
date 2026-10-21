@@ -6982,7 +6982,7 @@ despisingly
 draco
 deaeration
 despiteful 1
-digs
+digs 1
 dinoflagellate
 docility
 drags
