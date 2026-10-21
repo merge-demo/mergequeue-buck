@@ -14346,7 +14346,7 @@ arithmetic
 anthoecologist
 anthogenetic 1
 anticreation
-anthoid
+anthoid 1
 anthokyan
 autographic
 amasesis
