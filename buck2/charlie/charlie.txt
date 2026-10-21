@@ -24536,7 +24536,7 @@ copending
 colonialist
 calorizes
 copenetrate
-copenhagen
+copenhagen 1
 copepod
 copepoda
 chromolithograph
