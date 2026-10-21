@@ -10419,7 +10419,7 @@ dekkos
 demersion
 dictyostelic
 dipcoat
-disreputable
+disreputable 1
 dipetto
 dismayingness
 diphasic
