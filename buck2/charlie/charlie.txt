@@ -31292,7 +31292,7 @@ curbings
 cotonam
 curbline
 curbs
-curbside
+curbside 1
 curbstone
 curbstoner
 curcas
