@@ -23141,7 +23141,7 @@ aaronitic
 aggressor
 accouple
 annunciable
-allometric
+allometric 1
 analytic
 airdropped
 allelocatalytic
