@@ -9438,7 +9438,7 @@ enamber
 eschel
 eschele
 embroaden
-effulging
+effulging 1
 ecod
 ensnarement
 ectrogenic

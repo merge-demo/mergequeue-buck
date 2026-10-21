@@ -6896,7 +6896,7 @@ gatling
 guyed
 gitterns
 guttiferae
-gombay
+gombay 1
 guglio
 gangliomata
 graftonite
