@@ -16988,7 +16988,7 @@ apneumona
 apneumonous
 agrammatical
 apneusis
-apnoea
+apnoea 1
 adiaphoretic
 artificialness
 aplacophorous
