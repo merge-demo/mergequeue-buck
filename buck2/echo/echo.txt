@@ -10348,7 +10348,7 @@ equinox
 elephantine
 enquired
 explain
-etwite
+etwite 1
 electrometallurgical 1
 ethnolinguist
 estensible
