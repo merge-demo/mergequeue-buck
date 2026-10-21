@@ -6038,7 +6038,7 @@ flightiness
 finger
 fontange
 forgab 1
-frontooccipital
+frontooccipital 1
 flanker
 fictionise 1
 fluoresce
