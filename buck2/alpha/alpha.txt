@@ -606,7 +606,7 @@ arisen
 algonquians
 antarctic
 aphasic
-alexic
+alexic 1
 antelopine
 autoeducative
 arboriform
