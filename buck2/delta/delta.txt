@@ -5268,7 +5268,7 @@ dialogistic
 demarcations
 denseness
 dorsel
-depauperized
+depauperized 1
 densify
 disqualifications
 didelphic
