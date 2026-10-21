@@ -3280,7 +3280,7 @@ capitoline
 capitolium
 crabbit
 capitula
-crumbiest
+crumbiest 1
 capitulant
 centrists
 capitularies
