@@ -1781,7 +1781,7 @@ goodless
 golliwogs 1
 gallic
 gonion
-grx
+grx 1
 guanine
 grouchiest
 gastropulmonic
