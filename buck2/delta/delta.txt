@@ -7350,7 +7350,7 @@ deterrent
 dodunk
 detersiveness
 disunions
-detestation
+detestation 1
 decomponent
 detestations
 dethronement
