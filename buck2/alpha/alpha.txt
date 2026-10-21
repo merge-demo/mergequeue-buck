@@ -3048,7 +3048,7 @@ autochton
 actinomycete
 allogeneity
 analcime
-actinomycosistic
+actinomycosistic 1
 alacrify
 aphrodisiac
 ambreate
