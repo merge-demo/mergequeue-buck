@@ -13818,7 +13818,7 @@ distaining
 denumeration
 diatomic
 dryers
-doable
+doable 1
 delphinin
 distanceless
 distancy
