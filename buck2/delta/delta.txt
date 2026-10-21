@@ -2107,7 +2107,7 @@ dromedary
 dissyllabism
 defenseman
 decameral
-daintify
+daintify 1
 doline
 diapasm
 daunts
