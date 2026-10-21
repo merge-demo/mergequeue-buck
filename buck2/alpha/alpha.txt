@@ -22685,7 +22685,7 @@ aeronomic
 abjuratory
 acumen
 amphibolostylous
-apoise
+apoise 1
 atherurus
 accelerant
 athetotic
