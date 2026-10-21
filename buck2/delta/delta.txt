@@ -514,7 +514,7 @@ disenthralling
 denaturalize
 dinkey
 droddum
-descended
+descended 1
 demicadence
 dallier
 dup
