@@ -19007,7 +19007,7 @@ collectivum
 cocrucify
 collectorate
 collectors
-circumscissile
+circumscissile 1
 crisped
 creedless
 collegia
