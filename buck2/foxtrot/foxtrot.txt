@@ -6958,7 +6958,7 @@ follily 1
 feeblemindedness
 fumigants
 fungivorous
-fadeless
+fadeless 1
 fendy
 foisting 2
 feloniously
