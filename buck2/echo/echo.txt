@@ -8546,7 +8546,7 @@ eastlin
 etherify
 existing
 enviable
-entoglossal
+entoglossal 1
 ethicism
 emblement
 ethylenoid
