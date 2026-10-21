@@ -12028,7 +12028,7 @@ choromanic
 cajolers
 chevreuil
 chorook
-cyclops
+cyclops 1
 choroti
 chorous
 chort
