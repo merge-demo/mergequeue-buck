@@ -30043,7 +30043,7 @@ crouperbush
 compulsions
 cuggermugger
 clearstarch
-chromo
+chromo 1
 capriciously
 challengeable
 casualties
