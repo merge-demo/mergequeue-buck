@@ -2313,7 +2313,7 @@ geognosis
 guaranis
 gelatine
 gerastian
-ge
+ge 1
 gagsters
 gravitation
 gingival
