@@ -21842,7 +21842,7 @@ cassian
 cytopharynges
 calypter
 caravanist
-confabulatory
+confabulatory 1
 caracul
 counterdecree
 confact
