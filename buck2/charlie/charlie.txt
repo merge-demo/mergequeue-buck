@@ -1394,7 +1394,7 @@ caliga
 caligate
 caligation
 caliginosity
-caliginously
+caliginously 1
 cyanin
 cunctipotent
 cylindrical
