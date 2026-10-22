@@ -1207,7 +1207,7 @@ demibrassart 1
 devilhood
 datana
 discounting
-denasalizing
+denasalizing 1
 disordination
 datapac
 decrepitated
