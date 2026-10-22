@@ -26338,7 +26338,7 @@ costumer
 costumers
 costumes
 costumic
-cabstand
+cabstand 1
 costumiere
 costumiers
 cinematize
