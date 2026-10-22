@@ -2262,7 +2262,7 @@ fustee
 footfalls
 forgetters
 fenchene
-favn
+favn 1
 feluccas
 ficoid
 facaded
