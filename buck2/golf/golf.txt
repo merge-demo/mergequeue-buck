@@ -119,7 +119,7 @@ giher
 ginete
 gastly
 gastrostomy
-gazogene 1
+gazogene 2
 gypsyhood
 girdled
 guerdoned
