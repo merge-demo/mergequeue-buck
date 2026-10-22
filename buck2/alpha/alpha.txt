@@ -17480,7 +17480,7 @@ abstentious
 appar
 actinoidea
 apparat
-antidiabetic
+antidiabetic 1
 antigonus
 apparats
 apparatus
