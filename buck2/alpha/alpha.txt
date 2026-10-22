@@ -16627,7 +16627,7 @@ arean
 apercus 1
 autoinduction
 argotic
-astatized
+astatized 1
 aforegoing
 arterioplania
 autocratic
