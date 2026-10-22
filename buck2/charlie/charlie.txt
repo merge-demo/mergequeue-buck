@@ -16943,7 +16943,7 @@ clupeid
 cosignitary
 clupeids
 creatureliness
-classis
+classis 1
 cachalot
 caviar
 clupien
