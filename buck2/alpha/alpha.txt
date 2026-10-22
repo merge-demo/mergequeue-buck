@@ -9687,7 +9687,7 @@ alopecist
 alur
 astrophotography
 abature
-amphiblastic
+amphiblastic 1
 alurgite
 autocephalic
 asepalous
