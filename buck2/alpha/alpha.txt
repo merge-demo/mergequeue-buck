@@ -2571,7 +2571,7 @@ arctomys
 acouometer
 azocoralline
 antihelminthic
-adjacently
+adjacently 1
 acoup
 acousticolateral
 acousticon
