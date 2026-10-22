@@ -266,7 +266,7 @@ eastabout
 eerisome
 easted 1
 exclamational
-expiry
+expiry 1
 expressivism
 eucalyptole
 eightsmen
