@@ -1681,7 +1681,7 @@ estraying 1
 electromotograph
 entarthrotic
 eyeberry
-envassal
+envassal 1
 essentialist
 electrothermancy
 ellan
