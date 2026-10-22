@@ -15930,7 +15930,7 @@ beekeeper
 bucrania
 bromoprotein
 baham
-barbated
+barbated 1
 billtong
 bromphenol
 backbitten
