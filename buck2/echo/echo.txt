@@ -3906,7 +3906,7 @@ eminencies
 evendown
 exterminating
 eminent
-easternized
+easternized 1
 esperance 1
 eminently
 enamored

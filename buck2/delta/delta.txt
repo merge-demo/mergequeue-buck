@@ -486,7 +486,7 @@ dankali
 depreciatively
 dame
 deveining
-declivous
+declivous 1
 decistere
 doctrinarian
 distilling
