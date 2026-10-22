@@ -18095,7 +18095,7 @@ abettal
 antereformation
 accounsel
 apokreos
-autotransfusion
+autotransfusion 1
 apulian
 artocarpus
 attesters
