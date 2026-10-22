@@ -2466,7 +2466,7 @@ fumbulator 1
 firstcomer
 fireproofing
 fishhood
-futility
+futility 1
 fuddlement
 footscraper
 forcipial
