@@ -15472,7 +15472,7 @@ certification
 censorate
 correption
 clarist
-clarities
+clarities 1
 coasts
 calyculi
 cayapa
