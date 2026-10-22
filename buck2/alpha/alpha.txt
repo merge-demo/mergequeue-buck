@@ -7125,7 +7125,7 @@ amanitas
 aerocartograph
 actuator
 anointers
-akmuddar
+akmuddar 1
 aknow
 aggradation
 agglomerating
