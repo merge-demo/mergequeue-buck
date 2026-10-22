@@ -9550,7 +9550,7 @@ digitoplantar
 diprismatic
 deevilick
 digitron
-demanders
+demanders 1
 dialogising
 digladiating
 decken
