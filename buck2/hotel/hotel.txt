@@ -3531,7 +3531,7 @@ hetcft
 hetcknnqp
 hetclsncr 1
 hetcopxyp
-hetd
+hetd 1
 hetdax
 hetdczqtalotzhz
 hetdgkiew
