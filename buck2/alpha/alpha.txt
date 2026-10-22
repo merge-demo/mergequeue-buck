@@ -13304,7 +13304,7 @@ agglutinability
 autosome
 abobra
 anthelminthic
-apoturmeric
+apoturmeric 1
 anisometric
 antimerger
 abcess
