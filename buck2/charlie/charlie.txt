@@ -22991,7 +22991,7 @@ crossfire
 chambermaids
 coprinae
 companyless
-copist
+copist 1
 consoles
 consolette
 consolidated
