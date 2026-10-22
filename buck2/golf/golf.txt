@@ -2005,7 +2005,7 @@ gonadotrope
 granville
 goosetongue
 glyconian 1
-gleefully
+gleefully 1
 gynaecea
 goosewing
 gaspingly
