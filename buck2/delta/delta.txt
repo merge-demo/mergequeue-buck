@@ -5941,7 +5941,7 @@ dere
 defeatee 1
 depreter
 depriment
-deprint
+deprint 1
 depriorize
 disorderedness
 deprivable
