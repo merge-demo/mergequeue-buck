@@ -10960,7 +10960,7 @@ fumarases
 fouling
 fallfish
 firmless
-freesias
+freesias 1
 frigidaire
 furors
 forgettable
