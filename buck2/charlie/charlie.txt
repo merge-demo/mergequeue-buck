@@ -2149,7 +2149,7 @@ consarcinate
 camphane
 camphanone
 camphene
-camphenes
+camphenes 1
 camphine
 cufflinks
 conturbation
