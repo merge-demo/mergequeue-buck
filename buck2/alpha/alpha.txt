@@ -19607,7 +19607,7 @@ apophorometer 1
 aridian
 aridity
 admonishes
-analogies
+analogies 1
 aridities
 anaxagorean
 afghanis
