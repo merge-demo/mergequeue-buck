@@ -9456,7 +9456,7 @@ flippery 1
 furnaceman
 fulcrate 1
 flounderingly
-fratricelli
+fratricelli 1
 furculum
 fastwalk
 fidele
