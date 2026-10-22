@@ -4006,7 +4006,7 @@ admerveylle
 admi
 anhydrously 1
 apopemptic
-anticontagious
+anticontagious 1
 apokatastasis
 adminicula
 akolouthia
