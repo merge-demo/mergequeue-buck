@@ -5059,7 +5059,7 @@ dandriff
 drovy
 demographers
 denaturants
-docilely
+docilely 1
 dueller
 denaturing
 duplicand
