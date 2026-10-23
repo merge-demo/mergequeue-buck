@@ -7990,7 +7990,7 @@ chabazite
 celiosalpingectomy
 chaber
 cucullately
-crystalliform
+crystalliform 1
 clottedness
 chablis
 coelarium
