@@ -376,7 +376,7 @@ carper
 cacogastric
 cacogenesis
 cacogenic
-capsulate
+capsulate 1
 cacogeusia
 cacoglossia
 comitragedy
