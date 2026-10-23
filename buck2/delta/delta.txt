@@ -3855,7 +3855,7 @@ defoams
 diviningly
 deciduous
 dicellate
-deionizations
+deionizations 1
 dichroiscope
 diatropic
 dyspnoea
