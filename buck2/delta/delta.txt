@@ -9795,7 +9795,7 @@ dillesk
 daimones
 denumerable
 deicer
-digesters
+digesters 1
 dillydally
 dejectile
 diapaused
