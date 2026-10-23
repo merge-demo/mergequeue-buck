@@ -16203,7 +16203,7 @@ antepenults
 albaspidin
 ashcake
 addenda
-antanemic
+antanemic 1
 anticlimaxes
 ailerons
 alkalinised
