@@ -1818,7 +1818,7 @@ forane
 forgets
 featured
 fluidify
-featureful
+featureful 1
 featurelessness
 featureliness
 furrows
