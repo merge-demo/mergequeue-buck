@@ -13678,7 +13678,7 @@ eurygnathic
 exterminatrix
 extraconscious
 edaphosauria
-externalise
+externalise 1
 escarp
 earthing
 ewelease
