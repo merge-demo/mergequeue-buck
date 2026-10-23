@@ -12426,7 +12426,7 @@ chromyl
 chroming
 cullay
 chromiole
-chromism
+chromism 1
 chromite
 catechiser
 chromitite
