@@ -6240,7 +6240,7 @@ explorement 1
 exhalations
 endopericarditis
 exhortator
-enorn
+enorn 1
 eumeromorph
 enos
 eradiating
