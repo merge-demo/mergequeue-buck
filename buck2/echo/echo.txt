@@ -13533,7 +13533,7 @@ execrating
 extemporarily 1
 exscutellate
 extravagancy
-elflock
+elflock 1
 eutaxie
 excitements
 enlightening
