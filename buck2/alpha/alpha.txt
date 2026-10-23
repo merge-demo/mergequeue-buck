@@ -12706,7 +12706,7 @@ almoravid
 angelolatry
 arthrography
 antiquarism
-apodioxis
+apodioxis 1
 awarrant
 anoretic
 acalyptrate
