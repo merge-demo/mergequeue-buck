@@ -36,7 +36,7 @@ biplosion
 banally
 brachydomal
 bodleian
-brutalizes
+brutalizes 1
 bracketwise
 babblers
 bodement
