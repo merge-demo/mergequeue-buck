@@ -21965,7 +21965,7 @@ clinohedrite
 configurating
 configuration
 configurationally
-configurations
+configurations 1
 configurative
 configure
 configures
