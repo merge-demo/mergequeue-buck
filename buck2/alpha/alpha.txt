@@ -24717,7 +24717,7 @@ acrobacies
 arised
 aristida
 artisans
-amalfian
+amalfian 1
 aveugle
 avg
 assenting
