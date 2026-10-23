@@ -8920,7 +8920,7 @@ alloiogenesis
 assizer
 alloiometric
 adjustments
-acrogenic
+acrogenic 1
 alloisomerism
 axisymmetric
 archaically
