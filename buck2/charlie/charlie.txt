@@ -28199,7 +28199,7 @@ colliquefaction
 crannied
 crannies
 crannying
-carpincho
+carpincho 1
 compiler
 crannock
 crannoger
