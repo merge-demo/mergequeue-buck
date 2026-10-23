@@ -12538,7 +12538,7 @@ esne
 enumerably
 excoecaria
 existentialist
-effluvious
+effluvious 1
 existentialistically
 eupione
 enzymology
