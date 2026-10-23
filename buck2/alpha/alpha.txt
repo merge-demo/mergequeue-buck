@@ -12962,7 +12962,7 @@ achromatising
 adjuvants
 apologetics
 axine
-angula
+angula 1
 aldus
 angular
 angularia
