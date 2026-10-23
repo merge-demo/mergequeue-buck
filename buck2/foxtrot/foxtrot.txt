@@ -3026,7 +3026,7 @@ ferricyanogen
 ferrotype
 fulgurantly 1
 fortepiano
-flukily
+flukily 1
 forasmuch
 friendliwise
 foreman
