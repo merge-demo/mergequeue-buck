@@ -16442,7 +16442,7 @@ drabbler
 datum
 difflugia 1
 downtimes
-dunnesses
+dunnesses 1
 dacoities
 drabbling
 doubler
