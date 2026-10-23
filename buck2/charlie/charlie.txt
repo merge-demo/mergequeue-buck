@@ -1347,7 +1347,7 @@ caliciform
 calycinal
 calycine
 calderium
-calicle
+calicle 1
 capitulatory
 cabellerote
 calycled
