@@ -9206,7 +9206,7 @@ foreknown 1
 faceplate
 fucus
 fledged
-fumously
+fumously 1
 firebugs
 fertilising
 fascinatress
