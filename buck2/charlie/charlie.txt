@@ -19124,7 +19124,7 @@ cord
 crystallographer
 cauked
 cartomancy
-collocating
+collocating 1
 chkfile
 carambola
 calfskins
