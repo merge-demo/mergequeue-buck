@@ -15917,7 +15917,7 @@ clenchers
 clarshech
 clenches
 cleoid
-cleomes
+cleomes 1
 chimbs
 clep
 cakemaker
