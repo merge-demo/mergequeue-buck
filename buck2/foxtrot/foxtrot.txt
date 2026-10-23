@@ -7586,7 +7586,7 @@ foredefeated
 frankheartedness 1
 flightworthy
 fatuity
-footslogs
+footslogs 1
 forestaller
 flacherie
 forjudgment
