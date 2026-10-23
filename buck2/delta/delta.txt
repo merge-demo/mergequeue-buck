@@ -11417,7 +11417,7 @@ disclass
 deuterogenesis
 dermorhynchous
 disclimax
-dialogite
+dialogite 1
 drossing
 dastardy
 dockyard
