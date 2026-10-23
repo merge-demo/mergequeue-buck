@@ -18252,7 +18252,7 @@ coffees
 counterview
 continuant
 coffeetime
-coffer
+coffer 1
 corridor
 cofferdam
 claudetite
