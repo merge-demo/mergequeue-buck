@@ -18368,7 +18368,7 @@ bimesters
 buz
 buzane
 blawort
-bortsch
+bortsch 1
 bepaint
 buzz
 buzzard
