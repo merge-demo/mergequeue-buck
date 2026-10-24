@@ -3042,7 +3042,7 @@ elixir
 ecblastesis 1
 enraging
 exhortatory
-elixiviate
+elixiviate 1
 excerptor
 ensheathes
 epiphenomenal
