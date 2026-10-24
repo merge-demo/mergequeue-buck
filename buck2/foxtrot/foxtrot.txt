@@ -9635,7 +9635,7 @@ featherfoil
 flowerer
 forwardly
 flotations 1
-freers
+freers 1
 farthest
 foresign
 fecklessly
