@@ -14409,7 +14409,7 @@ caddoan
 connotively
 cirques
 conditionate
-cirrate
+cirrate 1
 compounds
 cirratulidae
 cortian
