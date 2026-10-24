@@ -22733,7 +22733,7 @@ consanguineous
 consanguineously
 caulocarpous
 coemptio
-consecrative
+consecrative 1
 columnarized
 caligraphy
 conscience
