@@ -1047,7 +1047,7 @@ calcaneoplantar
 countersale
 calcaneoscaphoid
 calcaneum
-calcannea
+calcannea 1
 calcannei
 chloroplastid
 channellers
