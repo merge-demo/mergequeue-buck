@@ -14527,7 +14527,7 @@ allan
 anthropometrist
 anthropomophitism
 antiphrastic
-antipestilence
+antipestilence 1
 accompanist
 adjutage
 ammino
