@@ -7941,7 +7941,7 @@ adorningly
 aristippus
 aleppo
 alerce
-alerse
+alerse 1
 agglutinates
 alerta
 anorak
