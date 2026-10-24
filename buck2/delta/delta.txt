@@ -6737,7 +6737,7 @@ dispeopled
 decapetalous
 disacidify
 date
-designatum
+designatum 1
 designedly
 designedness
 detachability
