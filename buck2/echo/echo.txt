@@ -9575,7 +9575,7 @@ ecphoria 1
 expressing
 emigrated
 emptory
-expediente
+expediente 1
 excurse
 esculent
 egocentristic
