@@ -1169,7 +1169,7 @@ antilopine
 anemophily
 acanonical
 antisupernaturalistic
-acanthaceous
+acanthaceous 1
 aeacus
 applauses
 adjustor
