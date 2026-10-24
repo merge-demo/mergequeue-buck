@@ -23754,7 +23754,7 @@ anagnorises
 auscultatory
 ausform
 amyotrophy
-ausforming 1
+ausforming 2
 arrent
 auslaute
 auspex
