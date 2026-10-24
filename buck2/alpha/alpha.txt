@@ -18404,7 +18404,7 @@ accessability
 affile
 arati
 araua 1
-appertinent
+appertinent 1
 arauan
 araucanian
 araucaria
