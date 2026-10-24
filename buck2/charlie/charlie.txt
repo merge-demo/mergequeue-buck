@@ -8247,7 +8247,7 @@ chalchuite
 chalcidian
 chalcidicum
 caird 1
-chalcidoid
+chalcidoid 1
 conocarp
 cadalene
 chalcocite
