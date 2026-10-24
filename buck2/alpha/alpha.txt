@@ -7268,7 +7268,7 @@ assumably
 alarmclock
 alexanders
 abamps
-alarmedly
+alarmedly 1
 audivise
 alarmingly
 aftercure
