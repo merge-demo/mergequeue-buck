@@ -11392,7 +11392,7 @@ dippers
 dolina
 diabetic
 disciplinal
-disquisited
+disquisited 1
 droopingly
 deserted
 disciplinarians
