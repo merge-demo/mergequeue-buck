@@ -17032,7 +17032,7 @@ confoundable
 cardiacs
 capernoity
 coabode
-colliquative
+colliquative 1
 cynogale
 coabound
 coabsume
