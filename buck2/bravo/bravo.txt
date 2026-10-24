@@ -17468,7 +17468,7 @@ boomage
 bareboned
 bruskest
 bunter
-bridles 1
+bridles 2
 blacklight
 buscarle
 biltongue
