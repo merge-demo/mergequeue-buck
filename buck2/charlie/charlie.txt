@@ -29051,7 +29051,7 @@ criminologies
 criminologist
 carminic
 colletarium
-criminous
+criminous 1
 conscribed
 criminously
 criminousness

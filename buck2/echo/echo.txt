@@ -1430,7 +1430,7 @@ entodermal
 epipodialia
 entoretina
 erythrocytolytic
-espoused
+espoused 1
 ethnicon
 exaggeratory
 enols

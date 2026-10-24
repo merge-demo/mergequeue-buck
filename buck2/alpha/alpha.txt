@@ -17748,7 +17748,7 @@ acrocera
 autocab
 aversation
 ameiurus
-adumbration
+adumbration 1
 antispasis
 applique
 appliques
