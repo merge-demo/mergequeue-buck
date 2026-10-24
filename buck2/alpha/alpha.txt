@@ -1855,7 +1855,7 @@ acerous
 acertannin
 allseed
 awn
-antitabetic
+antitabetic 1
 acerval
 aggressions
 antiphysic
