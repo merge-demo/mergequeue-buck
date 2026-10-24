@@ -3690,7 +3690,7 @@ abepithymia
 adenotyphus
 angulateness
 antislickens
-alphabetist
+alphabetist 1
 ashier
 anachoret
 alimenting
