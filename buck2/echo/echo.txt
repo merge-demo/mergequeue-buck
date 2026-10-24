@@ -6896,7 +6896,7 @@ estruses 1
 extremism
 epaulets
 evitable
-entomosporium
+entomosporium 1
 ethically
 ellipsoidal
 endangered
