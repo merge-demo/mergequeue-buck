@@ -18081,7 +18081,7 @@ briguer
 but
 beroll
 booklet
-buccally
+buccally 1
 boatsman
 barrancos
 benzhydrol
