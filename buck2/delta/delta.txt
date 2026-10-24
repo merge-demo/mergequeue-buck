@@ -3292,7 +3292,7 @@ drostden
 defibrillatory
 dropax
 dissatisfactory
-defier
+defier 1
 drogues
 disguisal
 deracinated
