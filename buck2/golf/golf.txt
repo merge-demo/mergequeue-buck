@@ -8712,7 +8712,7 @@ gastraeal
 gates
 gnathonical
 grassflat
-gastrodisc 1
+gastrodisc 2
 growler
 guaranteing
 golosh
