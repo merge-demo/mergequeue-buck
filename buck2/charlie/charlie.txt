@@ -27142,7 +27142,7 @@ counterspy
 counterspies
 coverage
 counterstand
-counterstep
+counterstep 1
 corabeca
 crocheting
 coprostasis
