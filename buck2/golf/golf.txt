@@ -5040,7 +5040,7 @@ glowed
 gelt 1
 geosynclinal
 glaum
-gilliflirt
+gilliflirt 1
 gamekeepers
 glariness
 gregarinae
