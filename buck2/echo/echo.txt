@@ -13130,7 +13130,7 @@ erymanthian
 euthyneurous 1
 evolved
 enzymic
-extradicted
+extradicted 1
 equipendent
 exfodiate
 enunciators
