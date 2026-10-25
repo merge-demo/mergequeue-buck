@@ -18563,7 +18563,7 @@ durrs
 durukuli
 disanimated
 dyslexic
-defortify
+defortify 1
 decentration
 dush
 dusked
