@@ -6696,7 +6696,7 @@ frizel
 fluerics
 formicariae
 foofaraws
-furrier
+furrier 1
 freshwater
 flaughtbred
 frequent
