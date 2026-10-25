@@ -22246,7 +22246,7 @@ chemigraphically
 cupride
 congestedness
 cucujidae
-cosmoscope
+cosmoscope 1
 congestible
 congesting
 congestion
