@@ -5367,7 +5367,7 @@ dentifrice
 diageotropism
 dentil 1
 discussional
-dentiled
+dentiled 1
 dimin
 delivery
 disappropriation
