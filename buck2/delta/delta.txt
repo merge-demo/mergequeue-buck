@@ -3002,7 +3002,7 @@ decillion
 deedily 1
 distriction
 deediness
-dorsales
+dorsales 1
 diabolos
 deeding
 directorates
