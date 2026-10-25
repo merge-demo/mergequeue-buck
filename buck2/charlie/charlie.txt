@@ -21997,7 +21997,7 @@ craniosacral
 colicin
 confirmed
 confirmedness
-corticostriate
+corticostriate 1
 confirmer
 cibarious
 coalrake
