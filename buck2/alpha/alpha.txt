@@ -10597,7 +10597,7 @@ amigos 1
 amiidae
 amyl
 ainu
-amylan
+amylan 1
 aphorismatic
 attomy
 anorthographically
