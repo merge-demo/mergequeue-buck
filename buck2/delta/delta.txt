@@ -1324,7 +1324,7 @@ deregulate
 diobolons
 dishy
 dolf
-daltonic
+daltonic 1
 defial
 deoxidizers
 disjunctions
