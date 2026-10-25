@@ -5360,7 +5360,7 @@ diaphoretic
 displaced
 dentical
 denticle
-dentiferous
+dentiferous 1
 dentification
 desegmented
 dentifrice
