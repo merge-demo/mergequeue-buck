@@ -10738,7 +10738,7 @@ churnability
 chinchona
 chincof
 ciliium
-chauffeurs
+chauffeurs 1
 counterplotted
 countercheer
 coppet
