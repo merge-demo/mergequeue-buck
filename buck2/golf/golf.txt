@@ -9265,7 +9265,7 @@ gaugeably
 grizzling
 groaned
 ghosts
-groanful
+groanful 1
 gizzened
 gayly
 gastrectasia
