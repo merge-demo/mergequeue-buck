@@ -21612,7 +21612,7 @@ akasha
 asprout
 antihierarchist
 antu
-anamniote
+anamniote 1
 approvable
 azoxime
 asquint
