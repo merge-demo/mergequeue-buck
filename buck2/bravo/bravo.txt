@@ -3788,7 +3788,7 @@ bitterbush 1
 brujas
 binitarian
 bauble
-bantay
+bantay 1
 bandwagons
 baublery
 baubo
