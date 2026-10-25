@@ -5525,7 +5525,7 @@ denials
 departer 1
 devastated
 dehistoricize
-drama
+drama 1
 dematiaceous
 denotement
 directionality
