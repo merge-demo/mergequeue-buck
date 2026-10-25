@@ -14872,7 +14872,7 @@ divertive
 documentize
 dehortative
 doucepere
-disazo
+disazo 1
 downbear
 documents
 demonism
