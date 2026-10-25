@@ -25702,7 +25702,7 @@ cytolysis
 correllations
 corrente
 centigrado
-crumblingness
+crumblingness 1
 cleanhandedness
 cistophoric
 coppiced
