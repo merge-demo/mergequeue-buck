@@ -837,7 +837,7 @@ fashioner
 faddishness
 finestill
 fractures
-freckened
+freckened 1
 freedoot
 fervorous
 forebows
