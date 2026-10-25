@@ -10259,7 +10259,7 @@ galvanoplastically
 grownup
 gauzelike
 guanases 1
-globulitic
+globulitic 1
 goers
 galeproof
 gregarious
