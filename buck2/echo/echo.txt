@@ -672,7 +672,7 @@ eudaemonistic
 ephraimitic
 entoparasitic
 epilogate
-eubasidii
+eubasidii 1
 elmiest
 enhance
 envier
