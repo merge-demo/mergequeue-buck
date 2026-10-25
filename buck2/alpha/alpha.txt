@@ -18994,7 +18994,7 @@ absinthin
 archleveler
 adenomalacia
 affectationist
-allocating
+allocating 1
 abominated
 adigei
 arciferous
