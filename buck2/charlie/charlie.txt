@@ -8392,7 +8392,7 @@ caccia
 chrysolophus
 candiot
 centroid
-chamberleted
+chamberleted 1
 ceratorhine
 camanchaca
 chambers
