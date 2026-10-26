@@ -4224,7 +4224,7 @@ beaumont
 bromol
 blanketeer
 beaupere
-beausire
+beausire 1
 batetela
 bilharziasis
 beauteous
