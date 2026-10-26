@@ -7500,7 +7500,7 @@ eugenia
 epidiascopic 1
 effluency
 ephor
-encounterer
+encounterer 1
 ekphory
 euda
 ephraimite
