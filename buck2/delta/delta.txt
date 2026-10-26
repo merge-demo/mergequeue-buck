@@ -12905,7 +12905,7 @@ drawspan
 delving
 deorientalize
 disobeying
-delineative
+delineative 1
 dustiness
 desulphuration
 disoblige
