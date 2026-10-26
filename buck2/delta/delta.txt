@@ -9386,7 +9386,7 @@ disinflating
 diffract
 defense
 diffractively
-deruralize
+deruralize 1
 doubleted
 diffractiveness
 dist
