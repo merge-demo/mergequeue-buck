@@ -16762,7 +16762,7 @@ aphidolysin
 autopsychorhythmia
 aphodi
 archipterygium
-astronauts
+astronauts 1
 albatros
 amphigonia
 adultoid
