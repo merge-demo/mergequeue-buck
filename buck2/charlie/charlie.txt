@@ -2588,7 +2588,7 @@ ceraunograph
 carbona
 canduc
 crepier
-camphires
+camphires 1
 censuses
 cyclotrons
 cliffing
