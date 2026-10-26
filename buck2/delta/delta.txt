@@ -14977,7 +14977,7 @@ desperation
 disjection
 dogaressa
 diaspinae
-disarmature
+disarmature 1
 dogmatics
 disobstruct
 domestics
