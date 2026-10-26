@@ -16650,7 +16650,7 @@ bardlet
 bulanda
 blacking
 brevicipitid
-buchanite
+buchanite 1
 baronies
 bucharest
 buchloe
