@@ -4151,7 +4151,7 @@ darnedest 1
 delirium
 disconanthae
 didrachmal
-dreikanters
+dreikanters 1
 doctrinization
 dishonourable
 divagate
