@@ -11972,7 +11972,7 @@ arrogatingly
 anosmia
 appendiculata
 amination
-adnexa
+adnexa 1
 axoneme
 aesthesia
 aeschynomene
