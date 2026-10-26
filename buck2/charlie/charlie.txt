@@ -7219,7 +7219,7 @@ centripetence
 centriscid
 clarine
 centriscidae
-cups
+cups 1
 centriscoid
 cappadine
 centriscus
