@@ -121,7 +121,7 @@ eparch
 euphonised
 echinoderma
 earthboard
-exanthemata
+exanthemata 1
 enantiomorphous 1
 engaol
 enigmatized
