@@ -6622,7 +6622,7 @@ dichotomised
 decretory
 dragsawing
 domestications
-defibrinize
+defibrinize 1
 demonstrativeness
 doyley
 diaporthe
