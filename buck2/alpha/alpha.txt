@@ -17148,7 +17148,7 @@ apolar
 amphidiploid
 averin
 apolysis
-apolista
+apolista 1
 alaunt
 aproctia
 apollinarian
