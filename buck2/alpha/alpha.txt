@@ -13776,7 +13776,7 @@ arteriodialysis
 asfetida
 anopisthographically
 attenuates
-anopla
+anopla 1
 anoplonemertean
 atazir
 anoplonemertini
