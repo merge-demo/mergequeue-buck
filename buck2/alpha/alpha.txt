@@ -11802,7 +11802,7 @@ aglimmer
 axfetch
 aparavidya
 analysers 1
-abstentions
+abstentions 1
 aerides
 analyses
 acquisited
