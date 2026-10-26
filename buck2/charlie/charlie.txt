@@ -6244,7 +6244,7 @@ conically
 cauking
 cyrtoceracone
 cutinises
-cfs
+cfs 1
 chloralism
 caul
 cubically
