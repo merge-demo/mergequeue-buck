@@ -15564,7 +15564,7 @@ bouget
 biliprasin
 bromlite
 bescent
-beast
+beast 1
 bussy
 barbule
 boardable
