@@ -4049,7 +4049,7 @@ fletchings
 fungoid
 finishable
 firker
-fabrication
+fabrication 1
 femininely
 foredo
 fenianism
