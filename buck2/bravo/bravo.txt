@@ -6884,7 +6884,7 @@ benignancies
 beseems
 beseen
 burglariously
-bajan
+bajan 1
 burgundian
 bepray
 bazaar
