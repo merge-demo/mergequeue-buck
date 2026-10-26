@@ -24662,7 +24662,7 @@ copped
 clothmaking
 copperahs
 counterindoctrinate
-copperases
+copperases 1
 caseworker
 creneled
 corollaceous
