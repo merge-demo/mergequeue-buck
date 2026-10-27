@@ -11189,7 +11189,7 @@ ethereal
 embourgeoisement
 evolvement 1
 enterers
-evalue
+evalue 1
 evanesced
 eternalism
 evanescence
