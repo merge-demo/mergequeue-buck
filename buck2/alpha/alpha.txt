@@ -20686,7 +20686,7 @@ aleuroscope
 anoa
 actinons 1
 acrobatholithic
-asterion
+asterion 1
 archenia
 anthesteriac
 articulare
