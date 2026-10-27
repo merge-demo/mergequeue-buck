@@ -916,7 +916,7 @@ bismarine
 boscage
 bagrationite
 berryless
-bivinyl
+bivinyl 1
 biopsychic
 belligerently
 bagsful
