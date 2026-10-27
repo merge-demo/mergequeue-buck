@@ -1137,7 +1137,7 @@ cardiant
 caveatee
 calcispongiae
 chromatosphere
-calcite
+calcite 1
 carollers
 cuppers
 cloddiness
