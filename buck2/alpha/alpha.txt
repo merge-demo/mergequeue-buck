@@ -8796,7 +8796,7 @@ alcidae
 alliterates
 await
 actious
-apodixis
+apodixis 1
 alliterationist
 avens
 actinautography
