@@ -13215,7 +13215,7 @@ aecium
 antisilverite
 alloplasmic
 animistic
-anabatic
+anabatic 1
 accretionary
 apraxias
 animize
