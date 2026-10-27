@@ -8012,7 +8012,7 @@ ampheclexis
 alew
 acrimoniousness
 acromiothoracic
-anemometry
+anemometry 1
 alexandrian
 automonstration
 alexandrina
