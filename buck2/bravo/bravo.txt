@@ -10842,7 +10842,7 @@ bodilessness
 bds
 blewits
 blick
-batekes
+batekes 1
 betone
 blickie
 blickies
