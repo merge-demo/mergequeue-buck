@@ -17407,7 +17407,7 @@ coaxation
 coaxes
 coaxy
 cordigeri
-coaxial
+coaxial 1
 cellarman
 coaxing
 coazervate
