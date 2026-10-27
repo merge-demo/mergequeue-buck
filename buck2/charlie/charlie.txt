@@ -4072,7 +4072,7 @@ celiolymph
 cardiagram
 cardiagraph
 cardiagraphy
-cardial
+cardial 1
 cardialgy
 caryl
 coevals
