@@ -1308,7 +1308,7 @@ baroquely 1
 benzamino
 barbed
 balases
-balat
+balat 1
 belying
 basellaceous
 balatron
