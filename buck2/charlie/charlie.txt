@@ -22436,7 +22436,7 @@ cahuita
 coniosis
 coniospermous
 conyrin
-corms
+corms 1
 charisma
 coniroster
 conirostral
