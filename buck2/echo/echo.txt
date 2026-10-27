@@ -1561,7 +1561,7 @@ exareolate 1
 embrasures
 eggrolls
 eggs
-emplastra
+emplastra 1
 excerptive
 encyclopedial
 eupeptically
