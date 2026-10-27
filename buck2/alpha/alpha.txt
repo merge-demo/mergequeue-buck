@@ -4772,7 +4772,7 @@ avaunt
 anthologizing
 aftermath
 asterionella
-acarology
+acarology 1
 anaretic
 antihum
 aorists
