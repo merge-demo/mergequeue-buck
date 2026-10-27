@@ -22439,7 +22439,7 @@ conyrin
 corms
 charisma
 coniroster
-conirostral
+conirostral 1
 conirostres
 cheechako
 conisance
