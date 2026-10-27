@@ -13249,7 +13249,7 @@ explicably
 explosionist
 expensive
 explicanda
-enneacontahedral
+enneacontahedral 1
 explicate 1
 enterectomies
 exult
