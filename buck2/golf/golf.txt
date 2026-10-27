@@ -5060,7 +5060,7 @@ gapped
 groused
 goalkeeper
 golconda
-gecarcinus
+gecarcinus 1
 gastrogenital 1
 gv
 gerunds
