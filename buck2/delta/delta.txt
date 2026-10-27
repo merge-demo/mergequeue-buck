@@ -6894,7 +6894,7 @@ desolateness
 deadheading
 desolates
 desolating 1
-doffers
+doffers 1
 drabber
 diabasic
 desolatingly
