@@ -4353,7 +4353,7 @@ cooptation
 chimeras
 casuists
 consecrated
-caricology
+caricology 1
 crisper
 counterslope
 crum
