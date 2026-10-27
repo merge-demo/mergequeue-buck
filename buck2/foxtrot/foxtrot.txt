@@ -10174,7 +10174,7 @@ fibroadenia
 frizzy
 fizzwater
 foresightedly 1
-fastings
+fastings 1
 fleishig
 formalism
 feebly
