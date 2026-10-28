@@ -9299,7 +9299,7 @@ cordite
 chaucerian
 chauchat
 ceratophyllaceae
-cuorin
+cuorin 1
 conjunctive
 chauffage
 chauffer
