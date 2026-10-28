@@ -11624,7 +11624,7 @@ excided
 enfrenzy
 ersatz
 ethnocentricity
-empoison
+empoison 1
 exclosure 1
 emollition
 eyedroppers
