@@ -8105,7 +8105,7 @@ climatical 1
 camelion
 chaffman
 culicines
-codiniac
+codiniac 1
 coracosteon
 continent
 carcer
