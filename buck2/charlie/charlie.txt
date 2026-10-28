@@ -17133,7 +17133,7 @@ coadmitting
 coadnate
 chloronaphthalene
 conspicuousness 1
-coadsorbent
+coadsorbent 1
 coprophobic
 caddisfly
 creek
