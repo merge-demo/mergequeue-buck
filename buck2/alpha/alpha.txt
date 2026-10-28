@@ -2552,7 +2552,7 @@ atomistic
 aecidia
 acorus
 acosmism
-assizing
+assizing 1
 acosmist
 athecata
 aircoach
