@@ -17158,7 +17158,7 @@ brushmaking
 bullion
 balkanization
 bullyrag 1
-butcherly
+butcherly 1
 bullyragger
 booklice
 benzoylformic
