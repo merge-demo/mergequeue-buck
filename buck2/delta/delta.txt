@@ -4502,7 +4502,7 @@ drowningly
 defence
 deceptions
 demicuirass
-doxologies
+doxologies 1
 danubian
 defused
 drinkableness
