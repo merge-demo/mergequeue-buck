@@ -18398,7 +18398,7 @@ chirimoya
 clypeal
 compactedness 1
 cognition
-cucullated
+cucullated 1
 conclude
 canmaking
 componentry
