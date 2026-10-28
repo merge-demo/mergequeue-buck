@@ -11214,7 +11214,7 @@ faradise
 fistulae
 foreday 1
 farsang
-furzed
+furzed 1
 funiculars
 funiform
 funje
