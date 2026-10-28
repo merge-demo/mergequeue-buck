@@ -824,7 +824,7 @@ additur
 anisogeny
 abstruse
 ammiral
-abs
+abs 1
 aitchbone
 ammophila
 auriculately
