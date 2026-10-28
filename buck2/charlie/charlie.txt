@@ -4163,7 +4163,7 @@ cumflutter
 cortaro
 cymric
 cardiologic
-cariogenic
+cariogenic 1
 calculating
 cardiologist 1
 cardiologists
