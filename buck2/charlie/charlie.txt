@@ -2359,7 +2359,7 @@ cumin
 calinda
 ccw 1
 canamo
-cranesbill
+cranesbill 1
 chaetognathous
 cicer
 canap
