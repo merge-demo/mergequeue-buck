@@ -4283,7 +4283,7 @@ gantleting
 gramophones
 gusto
 garnishing 1
-guncotton
+guncotton 1
 gantang
 gruelled
 ghalva
