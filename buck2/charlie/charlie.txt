@@ -18185,7 +18185,7 @@ cervulus
 coetaneous
 coeternal
 coeternity 1
-caninity
+caninity 1
 coeval
 camorrist
 coevalness
