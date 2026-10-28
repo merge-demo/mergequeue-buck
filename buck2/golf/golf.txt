@@ -7447,7 +7447,7 @@ gamotropic
 grewt
 goujat 1
 grampuses
-garrulous
+garrulous 1
 googlies
 grangerized
 genotype
