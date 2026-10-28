@@ -3128,7 +3128,7 @@ abstractness 1
 archigonocyte
 ascendance
 antimonous
-action
+action 1
 albiflorous
 antagonizer
 allotrophic
