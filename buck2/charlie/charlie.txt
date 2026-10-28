@@ -25845,7 +25845,7 @@ circumflexes
 corruption
 corruptionist
 cerographies
-corollas
+corollas 1
 corruptious
 cattily
 contretemps
