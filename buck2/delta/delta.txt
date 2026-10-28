@@ -8163,7 +8163,7 @@ decasualize 1
 detribalize
 disruptively
 deferrization
-diachronic
+diachronic 1
 dipleurule
 daer
 darger
