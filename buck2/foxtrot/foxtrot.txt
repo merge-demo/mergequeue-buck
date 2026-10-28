@@ -6146,7 +6146,7 @@ fulminations
 fretish
 frondigerous
 fontinalaceae
-foxfish
+foxfish 1
 frustration 1
 fetidity
 fantom
