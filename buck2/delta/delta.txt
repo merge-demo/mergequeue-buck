@@ -882,7 +882,7 @@ dori
 dermotherm
 daguerrean 1
 dripproof
-dieting
+dieting 1
 demency
 disincrustant
 decrescendo
