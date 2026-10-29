@@ -7564,7 +7564,7 @@ drubber
 ducktail
 druidesses
 discs
-deuterotype
+deuterotype 1
 displeasure
 deuterozooid
 dental
