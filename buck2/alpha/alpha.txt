@@ -16772,7 +16772,7 @@ aphydrotropism
 aphilanthropy
 aphylly
 abidi
-awarding
+awarding 1
 apparens
 aerification
 anticatalyzer
