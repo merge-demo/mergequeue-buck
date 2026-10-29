@@ -7833,7 +7833,7 @@ filterman
 furiousity
 flittered
 fruitwood
-fidgetiness 1
+fidgetiness 2
 feedstuffs
 figulated
 forepaws
