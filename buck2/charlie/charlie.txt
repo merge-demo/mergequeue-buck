@@ -28938,7 +28938,7 @@ criticist
 cribellum
 cribose
 cribrate
-cribriform
+cribriform 1
 cribriformity
 convertaplane
 cribs
