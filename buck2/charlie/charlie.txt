@@ -29052,7 +29052,7 @@ criminologist
 carminic
 colletarium
 criminous
-conscribed
+conscribed 1
 criminously
 criminousness
 crimmer
