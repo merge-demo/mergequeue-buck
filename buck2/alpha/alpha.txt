@@ -1510,7 +1510,7 @@ accompanier
 australorp
 antinomians
 antiglyoxalase
-accompanies
+accompanies 1
 accompanyist
 asperggilla
 aminotransferase
