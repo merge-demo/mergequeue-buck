@@ -11804,7 +11804,7 @@ aparavidya
 analysers 1
 abstentions
 aerides
-analyses
+analyses 1
 acquisited
 antimoniate
 analyst
