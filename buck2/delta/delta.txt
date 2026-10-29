@@ -9519,7 +9519,7 @@ dynamogeny
 dialysers
 demiurge
 decontaminated
-digital
+digital 1
 drunkest
 digitalin
 dispergator
