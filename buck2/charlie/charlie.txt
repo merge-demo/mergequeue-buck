@@ -12443,7 +12443,7 @@ chromoblast
 chromocyte
 chromocollograph
 chromocollography
-chromocollographic
+chromocollographic 1
 circling
 chromocollotype
 chromocratic
