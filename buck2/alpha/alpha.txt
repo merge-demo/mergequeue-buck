@@ -9090,7 +9090,7 @@ artabe
 appeasive
 allspice
 angulosity
-anticatalase
+anticatalase 1
 antiblock
 anticommunistical
 antivaccinist
