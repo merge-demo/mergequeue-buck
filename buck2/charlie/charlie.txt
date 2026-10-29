@@ -27363,7 +27363,7 @@ climacterics 1
 courtal
 courtbred
 chattelization
-courtcraft
+courtcraft 1
 colonise
 cetacean
 cloacal
