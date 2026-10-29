@@ -6774,7 +6774,7 @@ berrier 1
 berries
 bitterbur
 beaut
-buhls
+buhls 1
 barytosulphate
 badian
 bookery
