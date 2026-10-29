@@ -4007,7 +4007,7 @@ admi
 anhydrously 1
 apopemptic
 anticontagious
-apokatastasis
+apokatastasis 1
 adminicula
 akolouthia
 anergy
