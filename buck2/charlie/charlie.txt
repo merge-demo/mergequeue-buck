@@ -31393,7 +31393,7 @@ curiologics
 chewable
 colophon
 colubaria
-curios
+curios 1
 cheminee
 cartridges
 curiosa
