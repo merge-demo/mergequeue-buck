@@ -6851,7 +6851,7 @@ crevasse
 clamor
 cellulin
 contangoes
-cuddly
+cuddly 1
 cryptesthesia
 conscientiousness
 curares
