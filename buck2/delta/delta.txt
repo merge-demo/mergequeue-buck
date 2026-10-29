@@ -11045,7 +11045,7 @@ deliberations
 disanimation
 disannuller
 dialogues
-dichroic
+dichroic 1
 disentanglements
 dyophysite
 disincarcerate
