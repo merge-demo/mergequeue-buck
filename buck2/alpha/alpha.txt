@@ -7557,7 +7557,7 @@ abolitionise
 acetal
 aquamanale
 artificiality
-amphipodal
+amphipodal 1
 amercer
 alcahests
 apertion
