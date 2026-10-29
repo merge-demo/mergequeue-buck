@@ -4849,7 +4849,7 @@ froebelism
 footfall 1
 fustigate
 floor
-fickleness
+fickleness 1
 fooless
 flagstick
 flagworm
