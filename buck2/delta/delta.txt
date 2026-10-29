@@ -5010,7 +5010,7 @@ desexing
 deposed
 dinamode
 decussion
-delustered
+delustered 1
 diplopy
 duellers
 drouked
