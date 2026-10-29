@@ -7514,7 +7514,7 @@ fullface
 forebode
 frictionlessness
 fest 1
-forebodes
+forebodes 1
 forebody
 frostweed
 flaser
