@@ -2631,7 +2631,7 @@ deguelia
 dumbcow
 dispensaries
 decolletage
-displeaser
+displeaser 1
 decollete
 discontinues
 desalter
