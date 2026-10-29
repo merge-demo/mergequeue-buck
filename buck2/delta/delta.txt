@@ -17712,7 +17712,7 @@ disused
 demipauldron
 discriminable
 durables
-dedifferentiation
+dedifferentiation 1
 decanonization 1
 dubbins
 dicarbonate
