@@ -13531,7 +13531,7 @@ extrafloral 1
 exscriptural
 execrating
 extemporarily 1
-exscutellate 1
+exscutellate 2
 extravagancy
 elflock
 eutaxie
