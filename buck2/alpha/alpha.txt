@@ -21001,7 +21001,7 @@ ascescent
 asceses
 ascetic
 appendent
-asceticism
+asceticism 1
 ascetta
 alpasotes
 anthropopsychism
