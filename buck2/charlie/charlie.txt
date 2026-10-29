@@ -267,7 +267,7 @@ condensing
 caches
 cachespell
 coreductase
-cagayans
+cagayans 1
 cacheting
 calicate
 complaisance
