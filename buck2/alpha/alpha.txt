@@ -16803,7 +16803,7 @@ autoportraiture
 aphorize
 abos
 aphorizes
-aphorizing
+aphorizing 1
 ancienter
 approve
 anlet
