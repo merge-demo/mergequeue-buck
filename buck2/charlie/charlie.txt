@@ -21644,7 +21644,7 @@ condiddling
 cooth
 copepodous
 consternated
-condigness
+condigness 1
 condignity
 chromatopathia
 condignly
