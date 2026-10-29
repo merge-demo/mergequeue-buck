@@ -2335,7 +2335,7 @@ gibbartas
 galopin
 geldings
 gol
-garlandage 1
+garlandage 2
 gelated
 gorgets
 gustfulness
