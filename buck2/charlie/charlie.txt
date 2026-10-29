@@ -18868,7 +18868,7 @@ choroid
 chaines
 colinear
 chelodina
-chadars
+chadars 1
 colinearity
 churchified
 colinus
