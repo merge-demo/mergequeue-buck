@@ -3723,7 +3723,7 @@ ghostly
 gaura 1
 gnoses
 ghostwriter
-gnatoo
+gnatoo 1
 ghostwriters
 gallirallus
 ghoulery
