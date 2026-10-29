@@ -6138,7 +6138,7 @@ awaken
 alcyones
 adversaria
 aglitter
-aspartokinase
+aspartokinase 1
 actinoneuritis
 astrolabes
 agitato
