@@ -11246,7 +11246,7 @@ amphikaryotic
 affluently
 abrege
 atchison
-arzrunite
+arzrunite 1
 amphimictic
 animized
 antired
