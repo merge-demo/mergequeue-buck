@@ -13388,7 +13388,7 @@ auditress
 ankylopodia
 alamiqui
 acridest
-ankyloses
+ankyloses 1
 accoll
 antihumbuggist
 archmarshal
