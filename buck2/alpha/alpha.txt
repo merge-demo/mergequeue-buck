@@ -12055,7 +12055,7 @@ amphitheatrically
 acromiohyoid
 attributable
 arvicoline
-anaspides
+anaspides 1
 abducent
 alpenhorns
 autocratical
