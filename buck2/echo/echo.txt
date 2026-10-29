@@ -9003,7 +9003,7 @@ erythemas
 earing
 eves 1
 eunuchized
-etiolize
+etiolize 1
 equiponderous
 ebcasc
 effund
