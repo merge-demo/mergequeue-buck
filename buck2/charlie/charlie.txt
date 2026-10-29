@@ -17547,7 +17547,7 @@ coccaceae
 crucifix
 cohoshes
 colloid
-coccaceous
+coccaceous 1
 coccal
 conducible
 coccerin
