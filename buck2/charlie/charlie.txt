@@ -58,7 +58,7 @@ chuffily
 commends
 coup
 chlorophyll
-cabbagehead
+cabbagehead 1
 cabbageheaded
 chalinine
 cytoplasmically
