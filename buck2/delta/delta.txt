@@ -12752,7 +12752,7 @@ dislocatory
 drivecap
 detroit
 dodrans
-dupondii
+dupondii 1
 dakoits
 domesticize
 deer
