@@ -3212,7 +3212,7 @@ golilla
 grievants
 greatheartedness 1
 gloater
-globosely
+globosely 1
 gepidae
 gremlin 1
 genethliacally
