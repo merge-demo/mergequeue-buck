@@ -20530,7 +20530,7 @@ compellable
 cheirognomy
 compelled
 carpogenic
-crumpling
+crumpling 1
 clarkia
 cipherable
 costerdom
