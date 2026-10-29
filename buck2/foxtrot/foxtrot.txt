@@ -5143,7 +5143,7 @@ fructure
 flasker
 furless
 foretooth
-floccular
+floccular 1
 fellifluous
 furbelows
 froom
