@@ -30977,7 +30977,7 @@ cumarins
 cuvage 1
 collocal
 chromoplastid
-cumber
+cumber 1
 consumptiveness
 congeries
 cumberer
