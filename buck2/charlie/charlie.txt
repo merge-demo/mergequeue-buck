@@ -31625,7 +31625,7 @@ conducer
 curvy
 chinwag 1
 curvicaudate
-curvifoliate
+curvifoliate 1
 courtiers
 colling
 chlorohydrocarbon
