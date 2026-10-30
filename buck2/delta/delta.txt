@@ -4174,7 +4174,7 @@ dunstable
 discolorization
 dicyanogen
 diadokokinesis
-duodena
+duodena 1
 desynapsis
 drearfully
 dells
