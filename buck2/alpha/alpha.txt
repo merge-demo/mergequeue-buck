@@ -6840,7 +6840,7 @@ acerbophobia
 airless
 ahungry
 antelabium
-ambulatorily
+ambulatorily 1
 acock
 airlessly
 airlessness
