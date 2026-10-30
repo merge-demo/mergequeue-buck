@@ -4240,7 +4240,7 @@ dumpy
 delsartian
 downplayed
 dislocate
-dismaler
+dismaler 1
 deltalike
 diluvial
 disacknowledge
