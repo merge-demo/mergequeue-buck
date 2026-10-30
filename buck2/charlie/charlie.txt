@@ -29386,7 +29386,7 @@ cryptos
 cryptoscope
 cryptoscopy
 cryptosplenetic
-cryptostome
+cryptostome 1
 cryptous
 cryptovalence
 cholane
