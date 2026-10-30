@@ -23322,7 +23322,7 @@ consummative
 checklists
 consumo
 cynosarges 1
-consumpted
+consumpted 1
 corrasive
 consumptional
 consumptions
