@@ -13483,7 +13483,7 @@ debenture
 ditrigonal
 dizygous
 disruddered
-disruly
+disruly 1
 dehepatize
 dairymaid
 disquietedness
