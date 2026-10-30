@@ -9572,7 +9572,7 @@ concurrence
 cascading
 cheddar
 commentating
-cheddites
+cheddites 1
 crooked
 cheders
 chedite
