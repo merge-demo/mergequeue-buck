@@ -30298,7 +30298,7 @@ cycad
 closest
 crunch
 confused 1
-cepolidae
+cepolidae 1
 corixa
 codfishery
 crunched
