@@ -7313,7 +7313,7 @@ carnelians
 cryptolunatic
 chloro
 caucasus
-crushes
+crushes 1
 cinchomeronic
 cedared
 choachyte
