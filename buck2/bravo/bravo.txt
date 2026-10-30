@@ -136,7 +136,7 @@ bacin
 bourne
 banister
 basidiocarp
-biocoenosis
+biocoenosis 1
 beeheaded 1
 beachcomb
 butyrically
