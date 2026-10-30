@@ -13151,7 +13151,7 @@ borrachio 1
 borrasca
 borrel
 borreria
-blephariglottis
+blephariglottis 1
 bandoliered
 bonanzas
 borrowable
