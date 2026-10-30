@@ -10954,7 +10954,7 @@ cicatrixes
 chiromantis
 chirometer
 chiromys
-cryostase
+cryostase 1
 chalcioecus
 chironym
 caecum
