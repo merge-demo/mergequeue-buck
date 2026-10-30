@@ -16671,7 +16671,7 @@ antimosquito
 ammochryse
 anocithesia
 aberrance
-apertures
+apertures 1
 assisa
 apes
 apesthetic
