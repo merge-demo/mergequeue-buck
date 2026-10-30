@@ -24244,7 +24244,7 @@ conventionist
 calcarea
 chuffest
 convulsant
-convulse
+convulse 1
 convulsedly
 compulsiveness
 circuity
