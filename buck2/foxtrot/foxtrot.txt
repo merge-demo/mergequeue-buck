@@ -4041,7 +4041,7 @@ fossilisable
 finical
 fluxibly 1
 fibrin
-finis
+finis 1
 fadelessly
 finish
 flatling
