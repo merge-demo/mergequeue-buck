@@ -13148,7 +13148,7 @@ borowolframic
 borracha
 barometrograph
 borrachio 1
-borrasca
+borrasca 1
 borrel
 borreria
 blephariglottis
