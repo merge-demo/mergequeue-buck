@@ -12078,7 +12078,7 @@ extrasensory
 enfolder
 excrescency
 eriophyid
-eccentric
+eccentric 1
 eris
 enfoldment
 excuseless 1
