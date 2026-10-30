@@ -4862,7 +4862,7 @@ arbutes
 aspheterize 1
 amas
 amoebous
-arkwright
+arkwright 1
 aerodermectasia
 aerodynamical
 aerodynamically
