@@ -11327,7 +11327,7 @@ chlorogenic
 caducary
 chloroid
 curably
-coradicate
+coradicate 1
 chloroma
 cooptative
 ctimo
