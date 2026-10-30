@@ -10445,7 +10445,7 @@ dispowder
 doglegging
 disfigurative
 deticking
-diphenoxylate
+diphenoxylate 1
 diphysite
 dosimeters
 damask
