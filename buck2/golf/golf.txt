@@ -10261,7 +10261,7 @@ gauzelike
 guanases 1
 globulitic
 goers
-galeproof
+galeproof 1
 gregarious
 guinness
 greyback
