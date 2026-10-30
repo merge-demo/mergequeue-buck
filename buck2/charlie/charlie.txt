@@ -2637,7 +2637,7 @@ cobbers
 chimp
 canework
 chuckling
-compliably
+compliably 1
 chalet
 crabier
 conclusiveness
