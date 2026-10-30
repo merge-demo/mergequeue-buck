@@ -8190,7 +8190,7 @@ flourishable
 furores
 flockbed
 foghorn
-forewings
+forewings 1
 flossed
 frenate
 furtherances
