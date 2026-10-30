@@ -14255,7 +14255,7 @@ circumlunar
 clodder
 calcographic
 cassoni
-circummundane
+circummundane 1
 circummure
 circummuring
 convolving
