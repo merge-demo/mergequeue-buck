@@ -30504,7 +30504,7 @@ cuba
 cubages
 cubicovariant
 corozos
-cubane
+cubane 1
 cubangle
 cubanite
 cubatory
