@@ -6834,7 +6834,7 @@ bipartizan
 bubbling
 brachycephalic
 besan
-bescab
+bescab 1
 blepharoplast
 belout
 blandishment
