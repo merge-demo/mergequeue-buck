@@ -68,7 +68,7 @@ demonological 1
 dactylar
 doggerelizer
 dactylically
-disputants
+disputants 1
 dactylics
 darndests
 dacoiting
