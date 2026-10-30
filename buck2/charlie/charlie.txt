@@ -16146,7 +16146,7 @@ celebesian
 climatal 1
 corticate
 climatarchic
-climate
+climate 1
 climates
 corporatively
 climatic
