@@ -9438,7 +9438,7 @@ armbone
 anemones
 apicad
 angiosclerotic
-autocinesis
+autocinesis 1
 alterable
 acatery
 alterably
