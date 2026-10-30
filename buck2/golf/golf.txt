@@ -1113,7 +1113,7 @@ graptolitic
 gallants
 guillotining 1
 gwyniad
-grivet
+grivet 1
 granet 1
 giddier
 gesith
