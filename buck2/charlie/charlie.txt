@@ -30399,7 +30399,7 @@ cresotinic
 crustalogy
 crustalogical
 crustalogist
-cyrenaic
+cyrenaic 1
 crustated
 cripes
 contesters
