@@ -369,7 +369,7 @@ acinose
 avoyer
 abetments
 ambulant
-andesitic
+andesitic 1
 antietam
 arsenide
 abetted
