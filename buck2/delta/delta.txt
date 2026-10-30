@@ -15384,7 +15384,7 @@ demoralisation 1
 digestif
 domiciled
 dissipator
-dearn
+dearn 1
 dragginess
 domiciles
 domiciliate
