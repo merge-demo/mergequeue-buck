@@ -26277,7 +26277,7 @@ costipulator
 costispinal
 cylindromata
 cavallas
-costiveness
+costiveness 1
 changeableness
 calliper
 costlessness
