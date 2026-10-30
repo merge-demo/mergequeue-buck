@@ -459,7 +459,7 @@ anklebone
 antimodernly 1
 alchemised
 abipon
-abir
+abir 1
 aberia
 azadirachta
 americanizes
