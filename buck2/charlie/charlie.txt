@@ -30434,7 +30434,7 @@ chelicere
 cruzieros
 crwd
 crystallogenic
-cantaloupe
+cantaloupe 1
 carpetwork
 csch
 csect
