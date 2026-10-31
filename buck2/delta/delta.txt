@@ -1784,7 +1784,7 @@ dissevers
 divalence
 dissociated
 dalradian
-debamboozle
+debamboozle 1
 dinitril
 debarbarization
 dilation
