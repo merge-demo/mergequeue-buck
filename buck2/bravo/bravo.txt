@@ -9921,7 +9921,7 @@ bauson 1
 bastardice
 bituminate
 bituminising
-bituminized 1
+bituminized 2
 burnbeat
 bucktail
 bedivere
