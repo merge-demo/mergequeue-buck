@@ -16700,7 +16700,7 @@ cora
 clothespins
 centroplasm
 clothespresses
-cire
+cire 1
 clothiers
 clothings
 catharpin
