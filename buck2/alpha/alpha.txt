@@ -8268,7 +8268,7 @@ auctors
 antisera
 antisiccative
 athermous
-avenges
+avenges 1
 alienigenate
 acetannin
 augmentative
