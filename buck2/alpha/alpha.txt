@@ -8729,7 +8729,7 @@ aread
 alleviated 1
 abnormalizing
 abscind
-accusatival
+accusatival 1
 aliya
 antiteetotalism
 anticommunism
