@@ -18472,7 +18472,7 @@ arteriogram
 acquirements
 aruspices
 aljamado
-abracadabra
+abracadabra 1
 antitobacco
 abstained
 arbitress
