@@ -20968,7 +20968,7 @@ antirust
 athreptic
 autotroph
 ascendancy
-ascendantly
+ascendantly 1
 ankyloproctia
 ascorbic
 ascendence
