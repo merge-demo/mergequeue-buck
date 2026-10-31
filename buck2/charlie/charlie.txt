@@ -9665,7 +9665,7 @@ concursus
 cheeselep
 cheeselip 1
 cephalochorda
-cheesemaker
+cheesemaker 1
 cheesemaking
 cheesemongering
 cheeseparer 1
