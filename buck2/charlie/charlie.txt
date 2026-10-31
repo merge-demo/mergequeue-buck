@@ -29110,7 +29110,7 @@ crinitory
 craniota
 commercialise
 carryover
-capered
+capered 1
 curine
 crinkled
 crinkly
