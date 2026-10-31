@@ -1927,7 +1927,7 @@ exemplary 1
 endearance
 euhemerized
 excite
-evertebral
+evertebral 1
 envenomed
 erotogeneses
 ecdysial
