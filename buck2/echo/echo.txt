@@ -8492,7 +8492,7 @@ endball
 exculpation
 eleemosynariness
 evolutive 1
-eupyrene
+eupyrene 1
 empties
 enneatical
 epulo
