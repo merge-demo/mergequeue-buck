@@ -9267,7 +9267,7 @@ fixtures
 fleuret
 fourchet
 friesic
-fayalites 1
+fayalites 2
 freckling
 fungate
 folious
