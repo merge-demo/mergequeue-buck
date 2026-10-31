@@ -63,7 +63,7 @@ dacryorrhea
 durham
 dacryosyrinx
 deglamorized
-down
+down 1
 demonological 1
 dactylar
 doggerelizer
