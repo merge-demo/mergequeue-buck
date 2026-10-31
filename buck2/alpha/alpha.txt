@@ -16415,7 +16415,7 @@ affluence
 antoinette
 autotypy
 antonym
-antonymy
+antonymy 1
 antonymies
 antoniniani
 antoninianus
