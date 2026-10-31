@@ -2334,7 +2334,7 @@ goloe 1
 gibbartas
 galopin
 geldings
-gol
+gol 1
 garlandage 1
 gelated
 gorgets
