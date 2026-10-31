@@ -16284,7 +16284,7 @@ antitypical
 antitypous
 amphigouris
 autoregenerator
-anthochlor
+anthochlor 1
 antitobacconist
 auscultative
 antitonic
