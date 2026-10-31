@@ -4762,7 +4762,7 @@ gadling
 gonimolobe 1
 germanophobia
 gryphite
-goad
+goad 1
 gaels
 gentilitian
 gasometer
