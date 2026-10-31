@@ -26104,7 +26104,7 @@ congruential 1
 cosmically
 canterelle
 chiefdoms
-conspiratorial
+conspiratorial 1
 cosmism
 cosmisms
 cosmist
