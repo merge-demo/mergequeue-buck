@@ -5600,7 +5600,7 @@ discussive
 dictyosiphonaceae
 dedecoration
 deprisure
-detering
+detering 1
 diamine
 dialyzation
 diabolizing
