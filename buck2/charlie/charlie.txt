@@ -4245,7 +4245,7 @@ carefull
 carefuller
 carefullest
 chemosensitivities 1
-characteristic
+characteristic 1
 coauthored
 cashel
 cursillo
