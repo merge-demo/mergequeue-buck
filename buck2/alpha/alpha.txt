@@ -18179,7 +18179,7 @@ aquavits
 amantillo
 asseverating
 aberuncator
-aporphin
+aporphin 1
 allocatable
 aconitic
 althea
