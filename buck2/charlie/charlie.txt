@@ -500,7 +500,7 @@ caddisworm
 chupon
 cadeau
 carcinoscorpius
-camisados
+camisados 1
 cadelles
 craggedness
 calendaric
