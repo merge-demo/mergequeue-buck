@@ -5597,7 +5597,7 @@ blobbed
 bumbard
 bombloads
 belaboring
-blisters 1
+blisters 2
 brough
 bulletheaded
 battlement
