@@ -4130,7 +4130,7 @@ grimoire
 geoglossum
 gyropilot 1
 galaxiidae
-gemological
+gemological 1
 geggee
 gimmickery
 gendering
