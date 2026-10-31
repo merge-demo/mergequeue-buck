@@ -13022,7 +13022,7 @@ endochondral
 espiegle
 embryonal
 ezba 1
-entastic
+entastic 1
 existentially
 esophagectomy
 entocornea
