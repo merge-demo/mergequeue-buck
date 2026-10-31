@@ -20677,7 +20677,7 @@ afghani
 aspirates
 acanthial
 aulostomid
-amphorous
+amphorous 1
 arefy
 ayurvedas
 axiolitic
