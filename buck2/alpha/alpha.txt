@@ -2633,7 +2633,7 @@ adunation
 almacenista
 alangine
 anomaliflorous
-ashkenazim
+ashkenazim 1
 acquitter
 agnates
 acrab
