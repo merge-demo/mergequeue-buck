@@ -25080,7 +25080,7 @@ aggregated
 axemen
 arsine
 axenic
-axenically
+axenically 1
 abbreviators
 annual
 antisolar
