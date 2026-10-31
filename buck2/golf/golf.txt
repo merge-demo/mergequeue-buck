@@ -10038,7 +10038,7 @@ glaistig
 gammation
 gargoyles
 greasing
-granitoidal 1
+granitoidal 2
 gisler
 guerdoner
 gasterozooid
