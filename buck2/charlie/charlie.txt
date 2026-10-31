@@ -1959,7 +1959,7 @@ checkered
 camera
 capitols
 counterwill
-cumulose
+cumulose 1
 cyprinodont
 camerae
 curbless
