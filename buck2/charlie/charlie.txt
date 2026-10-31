@@ -18091,7 +18091,7 @@ cardinalism 1
 compactile
 coenobitical
 carbinol
-coannexing
+coannexing 1
 coenocentrum
 celioscopy
 coenocytic
