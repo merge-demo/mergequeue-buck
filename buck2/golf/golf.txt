@@ -3775,7 +3775,7 @@ gapping
 gastroesophagostomy
 gunong
 grincome
-giantsize
+giantsize 1
 gaub
 gonging
 genoblastic
