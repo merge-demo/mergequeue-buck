@@ -9219,7 +9219,7 @@ almury
 alnage
 alnaschar
 aposiopestic
-astracism
+astracism 1
 awest
 alethic
 authenticating
