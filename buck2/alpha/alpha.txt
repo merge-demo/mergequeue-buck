@@ -4517,7 +4517,7 @@ adventurousness
 ankle
 antebridal
 adverbial
-adverbially
+adverbially 1
 autographical
 acloud
 aggerose
