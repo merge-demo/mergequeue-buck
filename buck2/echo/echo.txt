@@ -2732,7 +2732,7 @@ exaggerators
 ediya 1
 essenianism
 employment
-endways
+endways 1
 estadal
 enceint
 eleemosinar
