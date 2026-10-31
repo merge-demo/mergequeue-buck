@@ -2621,7 +2621,7 @@ arricciati
 appraiser
 alferes
 amidase
-acquisitive
+acquisitive 1
 acquisitively
 advocatess
 acquisitor
