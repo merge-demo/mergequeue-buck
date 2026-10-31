@@ -1308,7 +1308,7 @@ ellipsis
 exhilarated
 exumbrellar
 effect
-endocardiac
+endocardiac 1
 exopeptidase
 effective
 euryphagous
