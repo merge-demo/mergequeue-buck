@@ -2159,7 +2159,7 @@ epoxy 1
 esophagostenosis
 eyestring
 ensorceling
-explicandum
+explicandum 1
 electropult
 elation
 euphonise
