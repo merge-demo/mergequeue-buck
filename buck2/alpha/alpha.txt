@@ -2799,7 +2799,7 @@ acrolithan 1
 acheirous
 apachette
 awork
-antiferromagnetic
+antiferromagnetic 1
 austronesian
 amaxomania
 asphyxiative
