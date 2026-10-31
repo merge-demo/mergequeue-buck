@@ -22415,7 +22415,7 @@ acaulous
 acetabular
 astrologically
 antidetonant
-astrologist
+astrologist 1
 anagrammatise
 antiluetin
 astrologize
