@@ -11875,7 +11875,7 @@ bortzes
 battleplane
 bouillons
 boedromion
-bovovaccine
+bovovaccine 1
 brevirostrate
 buggies
 besmutting
