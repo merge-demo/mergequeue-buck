@@ -13024,7 +13024,7 @@ agglomeratic
 anhedral
 anhelation
 anhelose
-anhemitonic
+anhemitonic 1
 aborting
 amulla
 anhyd
