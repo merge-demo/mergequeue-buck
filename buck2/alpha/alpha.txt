@@ -2039,7 +2039,7 @@ apperceptively
 adstringe 1
 achape
 achaque
-acharya
+acharya 1
 apatheia
 autoimmune
 antimatrimonialist
