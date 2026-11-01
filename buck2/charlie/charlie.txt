@@ -2231,7 +2231,7 @@ cubicone
 camptosorus
 cabaan
 campus
-chromatic
+chromatic 1
 campusses
 campward
 chametz
