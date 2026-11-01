@@ -30664,7 +30664,7 @@ collenchymatic
 cuda
 chimalakwe
 circumtabular
-chanelled
+chanelled 1
 caterwauls
 cudbear
 cyprian
