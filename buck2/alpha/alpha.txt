@@ -7623,7 +7623,7 @@ accident
 aktivist
 anabaptism
 anisokonia
-abnegator
+abnegator 1
 allograph
 adiactinic
 abstracters
