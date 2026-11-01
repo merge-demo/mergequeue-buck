@@ -436,7 +436,7 @@ fragilariaceae 1
 fieldbird
 forebitt
 fays
-furthy
+furthy 1
 faisan
 forcefulness
 floriculturist
