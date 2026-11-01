@@ -1626,7 +1626,7 @@ gaunted
 giblet
 gastralgia
 gastreas
-glaucosuria 1
+glaucosuria 2
 gyrinid 1
 gaucheness
 glassteel
