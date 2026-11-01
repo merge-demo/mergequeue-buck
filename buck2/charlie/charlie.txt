@@ -19783,7 +19783,7 @@ cymotrichous
 cecomorphae
 chalehs
 catechols
-cricotomy
+cricotomy 1
 cribrose
 convening
 crepitous
