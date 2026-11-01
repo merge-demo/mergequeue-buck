@@ -12878,7 +12878,7 @@ antiquarianly
 angletwitch
 allays
 anglewise
-avenger
+avenger 1
 asteraceous
 anglian
 apportionment
