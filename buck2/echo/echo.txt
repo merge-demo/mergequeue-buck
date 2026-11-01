@@ -11824,7 +11824,7 @@ ectothermic
 exists
 exauthorate 1
 exauthorizeexc
-exceptio
+exceptio 1
 epileptics
 eplot
 externization
