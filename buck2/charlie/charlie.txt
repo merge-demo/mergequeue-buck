@@ -23095,7 +23095,7 @@ carefulness
 cowgate
 chkalik
 clysmian
-corymbs
+corymbs 1
 constablewick
 constabular
 constabularies
