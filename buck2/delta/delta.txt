@@ -9432,7 +9432,7 @@ disheathing
 dehematize
 digamy
 disobeyal
-digamies
+digamies 1
 disfranchise
 displume
 destructively
