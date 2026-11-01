@@ -2463,7 +2463,7 @@ bromelin
 barandos
 balaklava
 baphomet
-bereason
+bereason 1
 bibliophilism
 binotic
 bigram
