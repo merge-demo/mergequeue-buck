@@ -13256,7 +13256,7 @@ crossrow
 cyclohexanol
 crass
 cyclohexanone
-cyclohexyl
+cyclohexyl 1
 cycloheximide
 chetverik
 communicants
