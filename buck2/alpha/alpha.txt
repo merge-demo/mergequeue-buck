@@ -21895,7 +21895,7 @@ archons
 assyth
 actinomycetous
 assythment
-assize
+assize 1
 amiant
 achmetha
 archform
