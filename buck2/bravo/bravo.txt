@@ -835,7 +835,7 @@ baga
 benzenoid
 biniodide
 biochron
-bromodeoxyuridine 1
+bromodeoxyuridine 2
 burnishers
 billikin 1
 bet
