@@ -17961,7 +17961,7 @@ byssinosis
 bedot
 bemoult
 bronzelike
-bushwhacked
+bushwhacked 1
 bushwhackers
 boheas
 balancing
