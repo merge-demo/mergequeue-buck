@@ -7084,7 +7084,7 @@ fledge
 fedayeen
 foolish
 ferryboats
-fascinating 1
+fascinating 2
 fleapit
 forespeech
 factious
