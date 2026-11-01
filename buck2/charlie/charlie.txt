@@ -3183,7 +3183,7 @@ cultivation
 cede
 cacochymic
 capeweed
-coverlet
+coverlet 1
 crystallogy
 craked
 citruses
