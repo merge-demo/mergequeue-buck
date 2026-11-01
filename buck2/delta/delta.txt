@@ -17861,7 +17861,7 @@ debutante
 destituteness
 dysmenorrhagia
 doctrine
-durationless 1
+durationless 2
 dishmaking
 dueled
 deathday
