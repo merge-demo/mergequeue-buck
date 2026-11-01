@@ -8783,7 +8783,7 @@ eviller
 enterobiliary
 etcetera
 exemplificative
-energises
+energises 1
 electrocardiograms
 earlaps
 epistolise
