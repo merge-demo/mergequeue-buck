@@ -19603,7 +19603,7 @@ arider
 asterospondyli
 apterium
 alloclase
-apophorometer 1
+apophorometer 2
 aridian
 aridity
 admonishes
