@@ -27505,7 +27505,7 @@ clitellar
 clavier
 cuban
 covariate
-covariates
+covariates 1
 covassal
 cove
 coadunate
