@@ -16954,7 +16954,7 @@ drearing
 drearisome
 drearly
 drearness 1
-decimalist
+decimalist 1
 drecks
 dermatherm
 demihorse
