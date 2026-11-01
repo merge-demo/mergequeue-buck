@@ -16928,7 +16928,7 @@ apyrexial
 apyrotype
 anteverts
 approbator
-ambrite
+ambrite 1
 animotheism
 apishamore
 aceturic
