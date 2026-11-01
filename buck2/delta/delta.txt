@@ -9967,7 +9967,7 @@ deeplier
 deaerates
 didactics
 dramaturgist
-diminutions
+diminutions 1
 dolichocephalous
 deener
 diminutive
