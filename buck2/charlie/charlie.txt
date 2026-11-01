@@ -4239,7 +4239,7 @@ croceous
 chloroplatinic
 careerers
 carefreeness
-careful
+careful 1
 ceilidh
 carefull
 carefuller
