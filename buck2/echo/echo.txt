@@ -4153,7 +4153,7 @@ etymologically
 endurability
 entombments
 eniac
-emplunge
+emplunge 1
 eccentring
 empodia
 eclegm
