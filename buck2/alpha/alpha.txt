@@ -17022,7 +17022,7 @@ ables
 apocarp
 apocarpy
 amaethon
-apocentric
+apocentric 1
 anthropomorphic
 apoquinine
 acroscleroderma
