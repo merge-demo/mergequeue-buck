@@ -7669,7 +7669,7 @@ endoderms
 enhancement
 extrasomatic
 emplead
-enterostasis
+enterostasis 1
 earworms
 eton
 epicrasis
