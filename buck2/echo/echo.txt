@@ -8224,7 +8224,7 @@ enisling
 euthenic
 earlobe 1
 ethnomaniac
-exodontic
+exodontic 1
 effaceable
 episcia
 extracting
