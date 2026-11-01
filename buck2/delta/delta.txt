@@ -8630,7 +8630,7 @@ diaglyph
 disimprove
 diarist
 dibbuk
-denatured
+denatured 1
 diarrhea
 dows
 decarchy
