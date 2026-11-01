@@ -6383,7 +6383,7 @@ fluvio
 fluoresceine
 factionism
 fragrantness
-floreal
+floreal 1
 funiliform
 finick
 fetichic
