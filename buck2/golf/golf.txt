@@ -322,7 +322,7 @@ galactagogue
 gesneria
 garlic
 gastrea
-gynophore 1
+gynophore 2
 goujons
 galactocele
 gymnopaedic 1
