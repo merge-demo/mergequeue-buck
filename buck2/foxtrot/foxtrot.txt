@@ -5338,7 +5338,7 @@ fldxt
 foolhardier
 frower
 frugalism
-featherweight
+featherweight 1
 flayflint
 fleabag
 fusillade
