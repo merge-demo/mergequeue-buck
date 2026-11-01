@@ -24002,7 +24002,7 @@ clocksmith
 convented
 coelicolist
 cylinderlike
-conventicle
+conventicle 1
 conventicular
 craniotome
 convention
