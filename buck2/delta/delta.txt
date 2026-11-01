@@ -14128,7 +14128,7 @@ diswarrening
 daisy
 ducker
 disulfid 1
-derris
+derris 1
 diazotizable
 disulfide
 decession
