@@ -360,7 +360,7 @@ aberrancy 1
 aberrantly
 aberrants
 aberrating
-astrogonic
+astrogonic 1
 arrival
 aberration
 aberrational
