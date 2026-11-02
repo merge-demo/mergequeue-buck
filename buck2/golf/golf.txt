@@ -4586,7 +4586,7 @@ gutturalized
 gilim
 graphometry 1
 glim
-galloper
+galloper 1
 goobers
 gagger
 grinter
