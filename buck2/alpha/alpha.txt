@@ -11494,7 +11494,7 @@ anisettes
 acetoin
 ascospore
 anapnoeic
-alenu
+alenu 1
 amusers
 abbatical
 antlia
