@@ -6151,7 +6151,7 @@ glavered 1
 gardy
 grumpish
 gnapweed
-gallification
+gallification 1
 grammar
 gowiddie
 generalizing
