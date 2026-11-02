@@ -5869,7 +5869,7 @@ akamatsu
 agenizing
 agennesis
 agential
-allopatrically
+allopatrically 1
 adolph
 agenting
 agentives
