@@ -8370,7 +8370,7 @@ evolutional
 estranged
 expeding
 eastlins
-epicontinental
+epicontinental 1
 erosive
 exportation
 endogenetic
