@@ -29320,7 +29320,7 @@ cryptogenic
 cryptoglioma
 caried
 custody
-cryptogram
+cryptogram 1
 cryptogrammatic
 cryptogrammatical
 cadouk
