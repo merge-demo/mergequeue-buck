@@ -95,7 +95,7 @@ facetely
 froufrous
 falsest
 fuminess
-furfuroid
+furfuroid 1
 fingerprints
 facetiae
 foxiest
