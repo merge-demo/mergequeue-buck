@@ -6510,7 +6510,7 @@ cuprocyanide
 calve
 catalogues
 cavicornia
-cavie
+cavie 1
 conversely
 caviya
 cavyyard
