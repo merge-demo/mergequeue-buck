@@ -492,7 +492,7 @@ gasifiers
 grunions 1
 geochronological
 girkin
-gravimetrical
+gravimetrical 1
 gelatin
 gye
 gluteus
