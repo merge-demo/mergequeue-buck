@@ -1003,7 +1003,7 @@ darius
 dinornithine
 doubleprecision
 dark
-dinkeys
+dinkeys 1
 darked
 darkeys
 daneball
