@@ -22431,7 +22431,7 @@ confarreation
 ctenostomatous
 cophasal
 conioselinum
-chivalrously
+chivalrously 1
 cahuita
 coniosis
 coniospermous
