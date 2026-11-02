@@ -11158,7 +11158,7 @@ eadi 1
 evacuated
 epitomatory
 endeavored
-epexegetical
+epexegetical 1
 evacuations
 evulse
 entropionize
