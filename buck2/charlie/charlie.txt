@@ -23594,7 +23594,7 @@ civilization
 continuum
 contise
 compendiate
-cognoscenti 1
+cognoscenti 2
 contoise
 contorniates
 castrater
