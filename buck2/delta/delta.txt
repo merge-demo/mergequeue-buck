@@ -4250,7 +4250,7 @@ dook
 desipiency
 dopaminergic
 disputatious
-deuteragonist
+deuteragonist 1
 delthyrial
 duncan
 destructible
