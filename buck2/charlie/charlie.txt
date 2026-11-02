@@ -20851,7 +20851,7 @@ compositing
 compositional
 cacoepist 1
 conspirational
-compositor
+compositor 1
 compositors
 cashed
 costeaning
