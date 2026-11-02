@@ -2486,7 +2486,7 @@ acoela
 arrendation
 autoloaders
 anagoges
-anadicrotism
+anadicrotism 1
 acoelomi
 apogean
 accuser
