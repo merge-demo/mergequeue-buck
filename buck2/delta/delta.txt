@@ -1373,7 +1373,7 @@ dauting
 delta
 diminishableness
 decurionate
-duodecillion
+duodecillion 1
 denierage
 diatomin
 doyennes
