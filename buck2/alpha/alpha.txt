@@ -22578,7 +22578,7 @@ atelocephalous
 alternativo
 ateloglossia
 abacist
-atelomyelia
+atelomyelia 1
 ateloprosopia
 acoenaesthesia
 axifera
