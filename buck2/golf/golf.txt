@@ -7493,7 +7493,7 @@ geostrategic
 gaet 1
 galilean
 gelatinizable
-gastromenia
+gastromenia 1
 griffade
 gavelmen
 getmesost
