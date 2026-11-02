@@ -19734,7 +19734,7 @@ albarellos
 arithmetizations
 aucan
 arithmetizes
-acrosticheae
+acrosticheae 1
 araeostyle
 arythmical
 anteprandial
