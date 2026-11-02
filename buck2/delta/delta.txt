@@ -2434,7 +2434,7 @@ dropkick
 dusken
 dihydronaphthalene
 decimating 1
-dacrya
+dacrya 1
 disobediently
 degorder
 decimetre
