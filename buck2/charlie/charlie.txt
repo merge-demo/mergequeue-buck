@@ -9772,7 +9772,7 @@ carefox
 chelidonium
 citolas
 chelydre
-countenancing
+countenancing 1
 cyclonical
 crepance
 chelydroid
