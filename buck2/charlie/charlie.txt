@@ -18951,7 +18951,7 @@ converts
 chromonemata
 collateralizing
 collaterally
-chalta
+chalta 1
 collateralness
 collaterals
 canzone
