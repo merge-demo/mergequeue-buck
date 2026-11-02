@@ -31828,7 +31828,7 @@ coliiformes
 cretic
 cutinised 1
 cloggy
-cammas
+cammas 1
 campestrian
 cutinising
 cutinize
