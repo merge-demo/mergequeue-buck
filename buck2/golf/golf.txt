@@ -261,7 +261,7 @@ guao
 gemless 1
 glaires
 gizmo
-glyph
+glyph 1
 gumminess
 grapta
 graziery
