@@ -3523,7 +3523,7 @@ convocationally
 cupboards
 capsulotomy
 cosmotheistic
-captacula
+captacula 1
 captain
 captaincy
 captaincies
