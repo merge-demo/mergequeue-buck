@@ -7183,7 +7183,7 @@ alack
 amole
 airworthiness
 anadromous 1
-alacran
+alacran 1
 advertized
 automatic
 ameloblast
