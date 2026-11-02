@@ -18292,7 +18292,7 @@ coffs
 cofighter
 cellmate
 casearia
-coforeknown
+coforeknown 1
 clownishness
 cofounding
 cathedrals
