@@ -12440,7 +12440,7 @@ congoese
 chromizing
 caswellite
 chromoblast
-chromocyte
+chromocyte 1
 chromocollograph
 chromocollography
 chromocollographic
