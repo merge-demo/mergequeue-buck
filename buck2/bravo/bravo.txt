@@ -17736,7 +17736,7 @@ barramundas
 brahmins
 burnishing
 bookbindery 1
-bellies
+bellies 1
 bede
 baneberries
 bejumbled
