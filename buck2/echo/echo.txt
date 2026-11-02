@@ -2440,7 +2440,7 @@ electroencephalogram
 empeople
 entophytal
 espinel
-euphausid
+euphausid 1
 epitaxial
 earthnut
 exciting
