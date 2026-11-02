@@ -668,7 +668,7 @@ exudative
 eclipsed
 equivocacy
 eclipses
-eudaemonistic
+eudaemonistic 1
 ephraimitic
 entoparasitic
 epilogate
