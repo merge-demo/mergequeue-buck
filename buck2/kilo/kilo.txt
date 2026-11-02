@@ -3927,7 +3927,7 @@ keyqrw
 keyqxxbtrcrz
 keysc
 keysmyi
-keytiofsrdl
+keytiofsrdl 1
 keyttjglleboozhl
 keyv 1
 keyvc
