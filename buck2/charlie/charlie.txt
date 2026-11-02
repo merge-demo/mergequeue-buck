@@ -29842,7 +29842,7 @@ crose
 croset
 contortionists
 crosette
-carnalism
+carnalism 1
 crosiered
 capsumin
 cross
