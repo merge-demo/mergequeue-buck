@@ -10579,7 +10579,7 @@ entomophily 1
 exhibitory
 epiclidal
 esprits
-elpidite
+elpidite 1
 euphroes
 enteria 1
 escallops
