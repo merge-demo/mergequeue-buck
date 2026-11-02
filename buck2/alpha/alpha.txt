@@ -17702,7 +17702,7 @@ ambiguity
 aganippe
 axhead 1
 antiquities
-applejohn
+applejohn 1
 analogice
 antidotism
 apples
