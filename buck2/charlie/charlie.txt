@@ -12061,7 +12061,7 @@ cerfoil
 clansman
 casula
 carpophalangeal
-chose
+chose 1
 chophouses
 coursed
 choses
