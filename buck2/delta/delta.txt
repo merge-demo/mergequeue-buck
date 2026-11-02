@@ -1789,7 +1789,7 @@ dinitril
 debarbarization
 dilation
 desmoscolex
-dilemma 1
+dilemma 2
 debark
 dropseed
 drawknife
