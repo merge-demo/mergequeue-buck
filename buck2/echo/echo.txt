@@ -13535,7 +13535,7 @@ exscutellate 1
 extravagancy
 elflock
 eutaxie
-excitements
+excitements 1
 enlightening
 earthquakes 1
 exsectile
