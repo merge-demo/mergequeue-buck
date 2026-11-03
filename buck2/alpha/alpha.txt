@@ -11709,7 +11709,7 @@ apodidae
 anaesthetized
 anaesthetizer
 arthralgic
-adsum
+adsum 1
 arbalester
 anaetiological
 actinophorous
