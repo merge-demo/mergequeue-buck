@@ -24907,7 +24907,7 @@ atavisms
 arimasp
 awaiting
 awaitlala
-awakable
+awakable 1
 acoelomate
 awake
 awakened
