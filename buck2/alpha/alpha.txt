@@ -9050,7 +9050,7 @@ arrogantly
 allotter 1
 allottery
 aigrette
-astrictiveness
+astrictiveness 1
 antimilitaristic
 allowable
 antemarital
