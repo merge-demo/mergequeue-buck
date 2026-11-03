@@ -11822,7 +11822,7 @@ ectomorphy
 euglenida 1
 ectothermic
 exists
-exauthorate 1
+exauthorate 2
 exauthorizeexc
 exceptio
 epileptics
