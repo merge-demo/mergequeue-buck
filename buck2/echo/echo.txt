@@ -13428,7 +13428,7 @@ eventuality
 expressionlessness
 etchimin
 expresso
-erogate
+erogate 1
 ethnodicy 1
 eponymous
 electrotechnical
