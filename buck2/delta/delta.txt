@@ -365,7 +365,7 @@ daylights
 deutomalar 1
 desalters
 dayman
-droughtiness
+droughtiness 1
 detruss
 daymares 1
 disseizes
