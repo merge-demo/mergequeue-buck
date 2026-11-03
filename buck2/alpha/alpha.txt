@@ -23822,7 +23822,7 @@ assuredness
 antihistamine
 austrium
 acouchy
-ambash
+ambash 1
 archicleistogamous
 adaptational
 austrogaea
