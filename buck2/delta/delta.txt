@@ -2123,7 +2123,7 @@ decanal
 decancellate
 dominator
 decancellated
-disciplinarian
+disciplinarian 1
 debaser
 decipher
 decandria
