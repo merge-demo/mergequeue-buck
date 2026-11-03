@@ -1419,7 +1419,7 @@ foretimes
 fishway
 fountainlet
 focometry 1
-fallibly
+fallibly 1
 firewood
 futchell
 forbar
