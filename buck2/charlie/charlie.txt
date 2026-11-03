@@ -1665,7 +1665,7 @@ comedones
 circularities
 calool
 calophyllum
-comminutor
+comminutor 1
 chettik
 colport
 consuetitude 1
