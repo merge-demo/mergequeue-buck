@@ -4261,7 +4261,7 @@ anencephaly
 atavism
 adreamed
 adenalgia
-appoint
+appoint 1
 azophosphore
 aromatophore
 assertative
