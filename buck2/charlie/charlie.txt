@@ -31941,7 +31941,7 @@ czaritza
 czaritzas
 crookback
 czech 1
-czechish
+czechish 1
 czechization
 caitanyas
 czechoslovak
