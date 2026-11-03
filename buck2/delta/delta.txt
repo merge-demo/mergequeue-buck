@@ -10979,7 +10979,7 @@ debussed
 dermococcus
 dayberry 1
 dissyllabising
-deepwaterman
+deepwaterman 1
 decapoda
 dulcinea
 disafforestment
