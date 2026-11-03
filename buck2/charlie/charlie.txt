@@ -16634,7 +16634,7 @@ clubbiest
 colleagueship
 cyanosis
 clem
-closehanded
+closehanded 1
 carse
 colophonium
 closeness
