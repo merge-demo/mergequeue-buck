@@ -22407,7 +22407,7 @@ astrolithology
 anaesthesiant
 apothegm
 achenia
-astrologaster 1
+astrologaster 2
 astrologers
 alkylates
 archcorrupter
