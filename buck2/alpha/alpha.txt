@@ -17712,7 +17712,7 @@ aestethic 1
 adaptationally
 adjacencies
 anthorine
-appliable
+appliable 1
 appliance
 apocentre
 achitophel
