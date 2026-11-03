@@ -8941,7 +8941,7 @@ deboshment
 damascene
 deceivable
 deathblows
-dichotically
+dichotically 1
 disklike
 dirigible
 denaturalization
