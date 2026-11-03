@@ -9117,7 +9117,7 @@ grissel 1
 gingerol 1
 gadite
 gelseminic
-gummers
+gummers 1
 grinders
 gobonated
 ginward
