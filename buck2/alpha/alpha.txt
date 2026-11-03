@@ -15218,7 +15218,7 @@ androtauric 1
 antifibrinolysin
 antifibrinolysis
 apostolically
-atomies
+atomies 1
 antifire
 anacoenoses
 amylogens 1
