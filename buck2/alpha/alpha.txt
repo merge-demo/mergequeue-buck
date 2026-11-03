@@ -17177,7 +17177,7 @@ anthracoxen
 ajog
 anaerobian
 apolunes
-apartment
+apartment 1
 adaptableness
 ankerites
 apolusis
