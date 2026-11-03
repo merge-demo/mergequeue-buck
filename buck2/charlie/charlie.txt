@@ -12066,7 +12066,7 @@ chophouses
 coursed
 choses
 chott
-chunky
+chunky 1
 chotts
 chou
 chinkiest
