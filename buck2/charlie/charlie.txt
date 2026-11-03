@@ -4521,7 +4521,7 @@ carnalized
 carolingian
 confederative
 catapults
-carbine
+carbine 1
 cephalogenesis
 carnallite
 colluvies
