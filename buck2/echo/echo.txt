@@ -10379,7 +10379,7 @@ ethology 1
 ethnogeographer
 ethologies
 electrocataphoretic
-explains
+explains 1
 eternize
 epiphenomenalist
 edmund
