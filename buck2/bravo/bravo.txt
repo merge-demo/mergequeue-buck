@@ -2790,7 +2790,7 @@ baudrons
 bowlers
 behaviourally 1
 baronries
-briggs
+briggs 1
 baroque
 baconer
 bowsprits
