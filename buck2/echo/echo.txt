@@ -5065,7 +5065,7 @@ excipulaceae
 emboweller
 escobedo
 ensuer
-emphaticalness
+emphaticalness 1
 ectoproct
 endmost
 enrage
