@@ -24349,7 +24349,7 @@ cookstove
 colligible
 contumacies 1
 coreveler
-circumflex
+circumflex 1
 cool
 cooled
 changepocket
