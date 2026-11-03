@@ -2145,7 +2145,7 @@ fumette 1
 fameful
 famously
 fires
-fornical
+fornical 1
 foliature
 fitch
 fawnier
