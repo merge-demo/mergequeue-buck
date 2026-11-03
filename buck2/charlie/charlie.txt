@@ -27188,7 +27188,7 @@ countertype
 cooter
 classisms
 countertouch
-chait
+chait 1
 cacotrophic
 circumgyration
 countertraction
