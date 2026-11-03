@@ -52,7 +52,7 @@ exciton
 electroretinograph 1
 excursion
 escarped
-eremite
+eremite 1
 endothelium
 exhibiter
 evenblush
