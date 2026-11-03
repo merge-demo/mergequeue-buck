@@ -772,7 +772,7 @@ emotes
 echinal 1
 euomphalid
 egger
-ecrase
+ecrase 1
 enclitic
 escort
 extense
