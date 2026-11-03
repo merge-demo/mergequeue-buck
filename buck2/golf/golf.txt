@@ -3996,7 +3996,7 @@ ginnle
 gemshorn
 gnide 1
 guessingly
-gigster
+gigster 1
 guarinite
 gemonies
 gravic 1
