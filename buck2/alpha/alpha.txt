@@ -17944,7 +17944,7 @@ absorbents
 apprompt
 aloud
 appropinquate
-adactyl
+adactyl 1
 appropinquation
 amalgamation
 ahind
