@@ -18147,7 +18147,7 @@ coequates
 creepage
 coerce
 coerced
-controversion
+controversion 1
 combust
 cobaltocyanide
 condylarth
