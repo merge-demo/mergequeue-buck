@@ -9002,7 +9002,7 @@ guiltier
 griffaun
 glamorization
 glumaceae
-geosynchronous
+geosynchronous 1
 glagah 1
 gargarism
 grantedly
