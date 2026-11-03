@@ -7253,7 +7253,7 @@ countians
 centrosymmetrical
 centrosoyus
 centrosphere
-crevassed
+crevassed 1
 cylinderer
 cancrizans
 centum
