@@ -8960,7 +8960,7 @@ charges
 charybdian 1
 crankman
 charybdis
-chestnutty
+chestnutty 1
 charicleia
 castigates
 charier
