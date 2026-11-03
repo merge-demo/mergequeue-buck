@@ -9349,7 +9349,7 @@ differentiability
 differentiae 1
 deliquescing
 darkle
-dismembering
+dismembering 1
 differentiant
 daggy
 differentiate
