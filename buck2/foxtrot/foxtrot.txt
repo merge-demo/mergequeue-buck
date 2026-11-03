@@ -2533,7 +2533,7 @@ frugivorous
 fibromembranous
 filamentule 1
 frangibility
-freebee
+freebee 1
 fados
 freeboot
 fem
