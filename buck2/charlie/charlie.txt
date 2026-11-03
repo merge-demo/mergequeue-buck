@@ -28183,7 +28183,7 @@ contiguities
 crink
 cromfordite
 crankling
-crankpin
+crankpin 1
 cytolysin
 crankpins
 colipyuria
