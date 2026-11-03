@@ -45,7 +45,7 @@ gunfires
 genotypically 1
 gableboard
 groats
-graperies
+graperies 1
 gangue
 glaucolite
 guemal
