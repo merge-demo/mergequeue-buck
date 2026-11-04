@@ -13957,7 +13957,7 @@ expressless
 epimer
 endokaryogamy
 enface
-electropoion
+electropoion 1
 escheatage
 extraparochial
 equicurve
