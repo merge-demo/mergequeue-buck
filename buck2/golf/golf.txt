@@ -1922,7 +1922,7 @@ gonadotrophic
 globulet
 gunboat
 gaudless
-ganglia
+ganglia 1
 gulped 1
 gastromycosis
 geal
