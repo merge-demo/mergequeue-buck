@@ -4915,7 +4915,7 @@ fino
 fourscore
 flakiest
 forged
-frequentable
+frequentable 1
 flambeau
 foamier
 fixate
