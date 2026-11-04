@@ -7642,7 +7642,7 @@ gradated
 gatecrasher
 grafts 1
 gestureless
-gleaminess
+gleaminess 1
 geospiza
 gradationally
 grandeza
