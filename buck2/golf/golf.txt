@@ -2806,7 +2806,7 @@ gyges
 guemul
 garblings
 grandisonous 1
-gathers
+gathers 1
 gazettal
 grigris
 gormless
