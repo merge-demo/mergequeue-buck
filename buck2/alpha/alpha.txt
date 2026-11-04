@@ -9832,7 +9832,7 @@ amarantaceae
 aestuous
 attornment
 amarantaceous
-abumbral
+abumbral 1
 antigraph
 aloes
 amaranth
