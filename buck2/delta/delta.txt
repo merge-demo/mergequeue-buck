@@ -10424,7 +10424,7 @@ dipetto
 dismayingness
 diphasic
 diphenhydramine
-diacidic
+diacidic 1
 diphenylamine
 diphenylaminechlorarsine
 diervilla
