@@ -11969,7 +11969,7 @@ antimitotic 1
 anaplasma
 anaplasty
 arrogatingly
-anosmia
+anosmia 1
 appendiculata
 amination
 adnexa
