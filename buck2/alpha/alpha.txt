@@ -18155,7 +18155,7 @@ anticontagiousness
 autolytic
 aquarius
 astint
-anacusia
+anacusia 1
 adequately
 aquascope
 alltud
