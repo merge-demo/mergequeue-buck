@@ -4344,7 +4344,7 @@ cotemporaneous
 cattleya
 caricatura
 caricatural
-caricature
+caricature 1
 chud
 caricaturing
 caricaturist
