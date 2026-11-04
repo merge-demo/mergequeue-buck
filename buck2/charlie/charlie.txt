@@ -13158,7 +13158,7 @@ cicatrizer 1
 cicatrizing
 cicelies
 ciceronage
-ciceroni
+ciceroni 1
 crossbreeds
 ciceronian
 chiaroscuro
