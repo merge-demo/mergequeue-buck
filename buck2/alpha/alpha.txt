@@ -358,7 +358,7 @@ aerophone
 abdicate
 aberrancy 1
 aberrantly
-aberrants
+aberrants 1
 aberrating
 astrogonic
 arrival
