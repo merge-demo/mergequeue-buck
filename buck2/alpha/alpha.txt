@@ -10772,7 +10772,7 @@ azotizes
 anormality
 acrolith
 amitrole
-amitular
+amitular 1
 ancre
 antiagglutinating
 aged
