@@ -14433,7 +14433,7 @@ divert
 dioptrometer
 dasyphyllous
 disraeli
-defunctionalization
+defunctionalization 1
 disdeify
 depicturing
 daltonian
