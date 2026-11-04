@@ -12531,7 +12531,7 @@ denaturizer
 desponsories
 dispractice
 dols
-decerns
+decerns 1
 dugout
 disowning
 disinfecting
