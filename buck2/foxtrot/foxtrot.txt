@@ -5092,7 +5092,7 @@ flanders
 felter 1
 forvay
 flarer
-funorin
+funorin 1
 flashboard 1
 fiendliest
 forelay
