@@ -11033,7 +11033,7 @@ amorphophallus
 armorician
 antisocially
 alopecic
-amorphously
+amorphously 1
 aristodemocracies
 amorphousness
 affirmatory
