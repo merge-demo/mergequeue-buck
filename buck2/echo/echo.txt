@@ -2139,7 +2139,7 @@ emperish 1
 equilibrio
 epipubes
 equiangle
-elastomers 1
+elastomers 2
 elastose
 epeisodia
 embryologists
