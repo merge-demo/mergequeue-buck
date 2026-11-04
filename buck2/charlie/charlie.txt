@@ -31800,7 +31800,7 @@ cutcherries
 cutdowns 1
 chromochalcographic
 cutely
-chanabal
+chanabal 1
 cuteness
 cutenesses
 collying
