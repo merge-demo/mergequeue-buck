@@ -2430,7 +2430,7 @@ gemmological 1
 gemmologist
 goalkeeping 1
 grocers
-gulper
+gulper 1
 graphotypic
 geologian
 gesticulation
