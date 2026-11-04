@@ -2662,7 +2662,7 @@ discernably
 decompensating
 delinquents
 decenniad
-decompensations
+decompensations 1
 dasylirion
 doorkeeper
 decompiler
