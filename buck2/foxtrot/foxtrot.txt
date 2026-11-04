@@ -6331,7 +6331,7 @@ flack 1
 futural
 fullback
 floyd
-finessed
+finessed 1
 fixtureless
 fourb
 flunkyish
