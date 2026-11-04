@@ -4102,7 +4102,7 @@ foreprovided
 finny
 fabulosity
 fylgjur
-foolship
+foolship 1
 finnicize
 fluctisonant
 fenestellid
