@@ -818,7 +818,7 @@ fixatives 1
 fluctuations
 fanjet
 fastened
-flemings
+flemings 1
 forerequest
 fiddlehead
 foveolarious
