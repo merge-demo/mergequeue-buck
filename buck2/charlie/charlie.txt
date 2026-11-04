@@ -16918,7 +16918,7 @@ clumse
 clumsy
 clumsier
 cloyer
-clumsiest
+clumsiest 1
 clumsily
 coenosteal
 cochlospermum
