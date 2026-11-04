@@ -7300,7 +7300,7 @@ facilitating
 flutters
 fourteenfold 1
 furled
-forelock
+forelock 1
 fopperies
 fopperly
 fraternized
