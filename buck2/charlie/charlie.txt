@@ -2055,7 +2055,7 @@ cruelize
 colonial
 camoudie
 coburgess
-camouflage
+camouflage 1
 camouflageable
 camouflager
 contradictorily
