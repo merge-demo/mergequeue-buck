@@ -21653,7 +21653,7 @@ condylar
 chichis
 curuminaca
 circumspectly
-condylarthra
+condylarthra 1
 condylectomy
 condyles
 crimsony
