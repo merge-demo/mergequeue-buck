@@ -6175,7 +6175,7 @@ ceraunoscope
 cupolas
 catwalk
 conqueringly
-chancier
+chancier 1
 calycule
 convictive
 crusta
