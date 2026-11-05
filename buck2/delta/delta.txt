@@ -1224,7 +1224,7 @@ datcha
 disparison
 disclamation
 demiassignation
-deleads
+deleads 1
 dulcinist
 dextrines
 dialyzers
