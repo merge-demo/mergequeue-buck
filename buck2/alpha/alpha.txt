@@ -5355,7 +5355,7 @@ anticogitative
 afformative
 abuseful
 affrayers
-affraying
+affraying 1
 affrays
 admeasured
 affranchise
