@@ -5441,7 +5441,7 @@ electronvolt
 endowment
 ectene
 excantation
-earthtongue
+earthtongue 1
 endpoints
 endrudge
 extrabulbar
