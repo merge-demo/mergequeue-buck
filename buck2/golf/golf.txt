@@ -2333,7 +2333,7 @@ guaiacols
 goloe 1
 gibbartas
 galopin
-geldings
+geldings 1
 gol
 garlandage 1
 gelated
