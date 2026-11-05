@@ -13253,7 +13253,7 @@ enneacontahedral
 explicate 1
 enterectomies
 exult
-evasiveness
+evasiveness 1
 entomological
 equiliria
 execrable
