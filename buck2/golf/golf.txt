@@ -7613,7 +7613,7 @@ gigolo 1
 gerenda
 garpike
 gilbertite
-gubernacula
+gubernacula 1
 glacialist
 gracefuller
 gallerying
