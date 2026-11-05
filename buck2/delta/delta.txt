@@ -16388,7 +16388,7 @@ delocalized
 dispellable
 dogtrotted
 downgrowth
-deducive
+deducive 1
 dultie
 drawtube
 doeuvre
