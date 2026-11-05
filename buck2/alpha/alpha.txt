@@ -7926,7 +7926,7 @@ alemmal
 aeolia
 acidoproteolytic
 abiogenesist
-abasio
+abasio 1
 alen
 alkaloidal
 alenge
