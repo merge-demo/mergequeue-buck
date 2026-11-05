@@ -175,7 +175,7 @@ gorgoneion
 groggily
 goliathize
 goniometry
-gluteoperineal
+gluteoperineal 1
 guesting
 gradgrind
 golfer
