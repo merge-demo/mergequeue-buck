@@ -4457,7 +4457,7 @@ encarnalized
 exalts
 epidermal
 embreach
-emanates
+emanates 1
 extremists
 econometrically
 encarnalizing
