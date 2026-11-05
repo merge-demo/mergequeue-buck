@@ -10269,7 +10269,7 @@ excides 1
 excluded
 epilogist
 enspangle
-effodientia
+effodientia 1
 elasticizer
 ergal
 extravasate
