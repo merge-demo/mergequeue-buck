@@ -7885,7 +7885,7 @@ fname
 factiousness 1
 franklinia
 foreruns
-flacket
+flacket 1
 frightenable 1
 frottole
 firmaments
