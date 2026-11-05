@@ -9827,7 +9827,7 @@ dilutedly
 duresses
 dilutely
 draffish
-diagonality
+diagonality 1
 darting
 diluters
 drudgingly
