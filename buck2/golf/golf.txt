@@ -7990,7 +7990,7 @@ geologized
 grudgment
 gasterosteoid 1
 grandmas
-guanosine
+guanosine 1
 granada
 glazy
 gables
