@@ -4613,7 +4613,7 @@ fringilliform
 fitchee 1
 fibrocalcareous
 filagrees
-ferring
+ferring 1
 flowmanostat
 folsom
 footweary
