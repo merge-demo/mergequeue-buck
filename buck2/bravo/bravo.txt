@@ -4776,7 +4776,7 @@ blast
 bed
 bedribble
 bhalu
-burglarizes
+burglarizes 1
 bibracteate
 billfold
 barbarize
