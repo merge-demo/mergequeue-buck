@@ -1242,7 +1242,7 @@ calefactory
 candlewood
 calefactories
 calefy
-caprice
+caprice 1
 cumulostratus 1
 camporees
 celibatist
