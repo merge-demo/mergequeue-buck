@@ -9438,7 +9438,7 @@ chevon
 commendatory
 cheapest
 cheapish
-cheaply
+cheaply 1
 condom
 cheapness
 cladoselachea
