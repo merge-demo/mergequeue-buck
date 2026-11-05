@@ -11459,7 +11459,7 @@ crotaloid
 chocks
 chocoan
 chocolate
-chocolatey
+chocolatey 1
 chine
 chocolates
 chocolatiere
