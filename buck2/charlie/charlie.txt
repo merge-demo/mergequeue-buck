@@ -29818,7 +29818,7 @@ cropping
 cropplecrown
 crops
 cropshin
-cropsick
+cropsick 1
 cropweed
 calorimeters
 casekeeper
