@@ -7618,7 +7618,7 @@ enteric 1
 epicoele
 elkesaite
 extolment
-espinos
+espinos 1
 euchymous
 epicoelous
 epicondyle
