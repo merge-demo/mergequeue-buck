@@ -9959,7 +9959,7 @@ allovers
 amazulu
 aphthongal
 abayah
-antaranga
+antaranga 1
 abele
 abluents
 activator
