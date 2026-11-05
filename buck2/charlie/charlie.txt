@@ -9616,7 +9616,7 @@ cheered
 cheerfulize
 cheerfuller
 columbier
-combatted
+combatted 1
 carceral
 charqued
 cheerfully
