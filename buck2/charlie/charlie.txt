@@ -29806,7 +29806,7 @@ coinsures
 cretionary
 croplands
 cropless
-conjugately
+conjugately 1
 cincinnatian
 cropman
 contraindication
