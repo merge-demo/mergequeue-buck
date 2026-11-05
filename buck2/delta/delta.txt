@@ -2640,7 +2640,7 @@ disavowed
 diogenes 1
 deforce
 dispose
-decolors
+decolors 1
 duopsonies
 decolouration
 daedalean
