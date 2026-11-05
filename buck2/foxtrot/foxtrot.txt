@@ -7584,7 +7584,7 @@ fleshquake
 ferrules
 foredefeated
 frankheartedness 1
-flightworthy 1
+flightworthy 2
 fatuity
 footslogs
 forestaller
