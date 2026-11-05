@@ -5213,7 +5213,7 @@ affectionally
 affectionateness
 affectioned
 anemographic
-affections
+affections 1
 affectious
 affective
 advocacies
