@@ -7916,7 +7916,7 @@ geotic 1
 germanically 1
 geophagia
 generalist
-gouged
+gouged 1
 geochemistry
 graphitoidal
 granary
