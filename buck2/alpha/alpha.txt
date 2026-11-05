@@ -13124,7 +13124,7 @@ antiromance 1
 animacule
 animadversional
 almuten
-animadverted
+animadverted 1
 animadverter
 analgene
 accretes
