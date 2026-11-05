@@ -8697,7 +8697,7 @@ bulldoggish
 blackly 1
 bullethead
 betoss
-brachycephalies
+brachycephalies 1
 bottomry
 backlashed
 brule
