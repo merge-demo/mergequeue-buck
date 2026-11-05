@@ -233,7 +233,7 @@ anis
 anhungered
 antiritual
 antisensitizer
-abbotric
+abbotric 1
 allokinesis
 alchemistical
 adipolytic
