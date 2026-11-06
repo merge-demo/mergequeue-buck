@@ -8961,7 +8961,7 @@ charybdian 1
 crankman
 charybdis
 chestnutty
-charicleia
+charicleia 1
 castigates
 charier
 chariest
