@@ -328,7 +328,7 @@ enticer
 enameling
 elfship
 euboic
-eastling
+eastling 1
 escapee
 eruditionist
 escots
