@@ -8990,7 +8990,7 @@ dicycly
 draughtsman
 discriminators
 diolefin 1
-disobeyers
+disobeyers 1
 dicyclies
 disqualifies
 dicyemata
