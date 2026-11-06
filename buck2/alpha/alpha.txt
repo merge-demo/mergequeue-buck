@@ -13657,7 +13657,7 @@ ambivalent
 agomensin
 anoestrum
 amygdalothripsis
-acidize
+acidize 1
 aposporogony
 albumenising
 alluviviums
