@@ -14043,7 +14043,7 @@ elektra
 enliven
 eidolons
 excandescency 1
-embellishments
+embellishments 1
 extrathermodynamic
 equationism
 emes
