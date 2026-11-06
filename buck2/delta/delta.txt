@@ -11703,7 +11703,7 @@ discouragingly
 daydreamlike
 dangerful
 diastasis
-discourses
+discourses 1
 diovular
 discoursing
 decoagulate
