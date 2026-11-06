@@ -1101,7 +1101,7 @@ ectoblastic
 egolatrous 1
 edile
 estonian
-epiphyseal
+epiphyseal 1
 eliquating
 ediles
 evodia
