@@ -6168,7 +6168,7 @@ grihastha
 genovino 1
 gazetteers
 groveling 1
-goal
+goal 1
 griffithite
 galactophore
 goniatite
