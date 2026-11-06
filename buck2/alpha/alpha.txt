@@ -18788,7 +18788,7 @@ apraxia
 archeocyte
 acneform
 archeolithic
-ankhs
+ankhs 1
 archeopteryx
 anastomose
 archerfishes
