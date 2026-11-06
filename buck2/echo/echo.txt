@@ -3201,7 +3201,7 @@ entomophagous
 episcopation
 enamoring
 esperantist
-enamelwork
+enamelwork 1
 emmeleia
 elopes
 elops
