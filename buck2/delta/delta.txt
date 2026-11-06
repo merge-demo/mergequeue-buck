@@ -15843,7 +15843,7 @@ disaccredit
 distillers 1
 disprovable
 dhurry
-dorsolumbar
+dorsolumbar 1
 deliberators
 dankly 1
 dynastes
