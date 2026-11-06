@@ -22149,7 +22149,7 @@ asthenia
 amours
 amoeboid
 anarchically
-abampere
+abampere 1
 acreak
 audiograms
 asthenical
