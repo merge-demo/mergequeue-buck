@@ -13553,7 +13553,7 @@ bremeness 1
 bopster
 baizing
 bougainvilliidae
-bite
+bite 1
 bitangential
 bougar
 bouge
