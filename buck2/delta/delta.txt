@@ -4541,7 +4541,7 @@ demihaque
 demijambe
 discriminant
 dottled
-dukhobor
+dukhobor 1
 dynastically
 demilawyer
 diwans
