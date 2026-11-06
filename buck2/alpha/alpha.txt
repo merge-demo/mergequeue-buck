@@ -10809,7 +10809,7 @@ agglutinated 1
 acronomy
 alloantibody
 antirent
-abides
+abides 1
 apparentement
 activizing
 assized
