@@ -9372,7 +9372,7 @@ acetolytic 1
 ateliosis
 alphol
 amphopeptone
-acture
+acture 1
 antilobium
 attack
 alphonist
