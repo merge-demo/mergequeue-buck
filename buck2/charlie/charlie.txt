@@ -10419,7 +10419,7 @@ cored
 chondrotome
 chiffre
 chigetai
-chigga
+chigga 1
 chiggers
 congession
 chigoes
