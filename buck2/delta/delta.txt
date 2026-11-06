@@ -17580,7 +17580,7 @@ dogbite
 drunkenwise
 dirtiest
 dryopteris
-drunker
+drunker 1
 denaturising
 dabbler
 dubitant
