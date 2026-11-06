@@ -2209,7 +2209,7 @@ creedbound
 campodeoid
 campong
 campongs 1
-convincing
+convincing 1
 counterclaiming
 cheiropodist
 camponotus
