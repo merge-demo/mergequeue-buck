@@ -1878,7 +1878,7 @@ gyrostabilized
 gleir
 graptolithina
 graveled
-gambles 1
+gambles 2
 gazehound
 growlery
 guffaw
