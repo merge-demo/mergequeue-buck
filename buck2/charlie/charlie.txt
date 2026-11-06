@@ -12716,7 +12716,7 @@ catafalques
 cobaltous
 cataloguize
 cratch
-chuff
+chuff 1
 chuffer
 countercraft
 cauliflowers
