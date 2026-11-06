@@ -4236,7 +4236,7 @@ dermatopsy
 decoherer
 dels
 djelfa 1
-dumpy
+dumpy 1
 delsartian
 downplayed
 dislocate
