@@ -11096,7 +11096,7 @@ eurytus
 engagedness 1
 enlisted
 electrocapillary
-evangelisation
+evangelisation 1
 energized
 evans
 expiate
