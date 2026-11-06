@@ -8504,7 +8504,7 @@ champing
 cryohydric
 carberry
 celebrated
-championed
+championed 1
 championing
 championize
 caesium
