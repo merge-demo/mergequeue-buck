@@ -24618,7 +24618,7 @@ applicably
 avaremotemo
 alouatte
 abscesses
-acroterium
+acroterium 1
 abraxas
 avariciousness
 areological
