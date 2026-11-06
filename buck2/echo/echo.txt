@@ -13234,7 +13234,7 @@ explanted
 explanting
 explat
 empurples
-exertive
+exertive 1
 ety
 endemical
 ethize
