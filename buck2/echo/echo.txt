@@ -7786,7 +7786,7 @@ epiblemata 1
 epiproct
 eupatridae
 electrologists
-epifaunae
+epifaunae 1
 expropriating
 excitative
 entassment
