@@ -2500,7 +2500,7 @@ ferociously 1
 flashforward
 fumarin
 fastus
-fingers
+fingers 1
 forehorse
 flerry
 fudging
