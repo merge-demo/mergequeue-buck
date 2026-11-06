@@ -1355,7 +1355,7 @@ fatigableness
 forfars
 frock
 fidac 1
-flaggish
+flaggish 1
 fanning
 fatigue
 fossicks
