@@ -14989,7 +14989,7 @@ anticonvellent
 aeroducts
 aljama
 anticonventional
-anticor
+anticor 1
 anticorona
 anticorrosiveness
 animose
