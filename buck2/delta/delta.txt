@@ -14591,7 +14591,7 @@ demureness
 denotive
 demiurgically
 disastrousness
-dysfunction
+dysfunction 1
 damourite
 divorcible
 diminue
