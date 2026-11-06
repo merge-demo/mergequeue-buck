@@ -3252,7 +3252,7 @@ eyesore
 entrench 1
 episcleral
 emancipates
-esophagospasm
+esophagospasm 1
 eelgrasses
 embuia
 elute
