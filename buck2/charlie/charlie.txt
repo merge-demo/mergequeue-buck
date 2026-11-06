@@ -25036,7 +25036,7 @@ cordoning
 cordonnet
 chere
 cordons
-cords
+cords 1
 craftmanship
 courteously
 crosscourt
