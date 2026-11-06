@@ -15197,7 +15197,7 @@ drawlier
 deathfulness
 dolefuls
 dotate
-drunkly 1
+drunkly 2
 disimitate
 dolerophanite
 disproperty
