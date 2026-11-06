@@ -31683,7 +31683,7 @@ cushionflower
 cushioning
 celestial
 cushionless
-ciruses
+ciruses 1
 cushionlike
 cushions
 cushitic
