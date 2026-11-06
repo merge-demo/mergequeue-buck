@@ -10788,7 +10788,7 @@ ammer
 adductor
 ammeter
 ammeters
-amplexuses 1
+amplexuses 2
 alboin
 aminogen
 anticonstitutionalist
