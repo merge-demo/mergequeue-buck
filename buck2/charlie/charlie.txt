@@ -18380,7 +18380,7 @@ cognatic
 calorize
 cognatus
 cementum
-cognisable
+cognisable 1
 chiragrical
 catholicized
 calpulli
