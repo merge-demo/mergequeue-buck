@@ -13596,7 +13596,7 @@ cimices
 cimicide
 cene
 cimiciform
-chickens
+chickens 1
 cimicifuga
 compressure
 cimicoid
