@@ -2426,7 +2426,7 @@ cambeva
 corroborators
 convenes
 chastize
-cancerigenic
+cancerigenic 1
 catechol
 cancerism
 cystidiums
