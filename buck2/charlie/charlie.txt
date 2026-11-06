@@ -26457,7 +26457,7 @@ calli
 cotqueans
 courbache
 cotransduction
-cotransfuse
+cotransfuse 1
 cotranslator
 cotranspire
 cotransubstantiate
