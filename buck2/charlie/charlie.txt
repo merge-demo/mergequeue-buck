@@ -31806,7 +31806,7 @@ cutenesses
 collying
 cutesy
 coroa
-curvity
+curvity 1
 chocalho
 contractee
 cutgrass
