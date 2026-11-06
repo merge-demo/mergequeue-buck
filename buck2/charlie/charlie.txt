@@ -23027,7 +23027,7 @@ consonantised
 cagmag
 consonantism
 consonantized
-cannibalizes
+cannibalizes 1
 consonantness
 consonants
 clinograph
