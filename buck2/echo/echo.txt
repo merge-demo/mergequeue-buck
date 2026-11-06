@@ -8094,7 +8094,7 @@ electrooculogram
 exosporium
 extraprovincial
 epiphragm
-enlargedness
+enlargedness 1
 encover
 extrasyphilitic
 extraordinaries
