@@ -7610,7 +7610,7 @@ grabhook
 grabouche
 gripsack 1
 gigolo 1
-gerenda
+gerenda 1
 garpike
 gilbertite
 gubernacula
