@@ -5231,7 +5231,7 @@ breadboards
 barkeeps
 begar
 bodingly 1
-basaltic
+basaltic 1
 boneheaded
 bicentenary
 bimastoid
