@@ -2781,7 +2781,7 @@ gelotometer
 glottochronological 1
 gristly
 gabies
-gangwayed
+gangwayed 1
 governably
 glassie
 gelee
