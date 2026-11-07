@@ -28792,7 +28792,7 @@ crescively
 clarinettist
 confederatio
 cantino
-cresegol
+cresegol 1
 cargo
 cresyl
 cresylate
