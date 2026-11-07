@@ -1608,7 +1608,7 @@ deafly
 deafmuteness
 disembrace
 digression
-deafness
+deafness 1
 deairing
 discernableness
 deairs
