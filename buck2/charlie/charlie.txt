@@ -17236,7 +17236,7 @@ curseder
 coalier
 coaliest
 coenzymatically
-coalify
+coalify 1
 caperer 1
 coalification
 cephalostyle
