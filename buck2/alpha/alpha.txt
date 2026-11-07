@@ -20454,7 +20454,7 @@ amplifications
 aftaba
 arteriac
 artistes
-allomorphic
+allomorphic 1
 archchaplain
 apotropaic
 antimilitaristically
