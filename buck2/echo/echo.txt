@@ -4047,7 +4047,7 @@ evaporative
 exedent
 evidenced
 esuriency
-evangelize
+evangelize 1
 ensafe
 euphorbial
 entases
