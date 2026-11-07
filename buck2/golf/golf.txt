@@ -1063,7 +1063,7 @@ gruffish
 glaceing
 guck
 grandfatherly
-gynomonoecism
+gynomonoecism 1
 gambesons
 gentlewomanhood
 gipsology
