@@ -21449,7 +21449,7 @@ concoctions 1
 cornerpiece
 conspectuity
 calcination
-carotic
+carotic 1
 cloaking
 comediennes
 chelingos
