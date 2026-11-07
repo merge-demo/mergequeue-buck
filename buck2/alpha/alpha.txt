@@ -19801,7 +19801,7 @@ adaptivity
 armariumaria
 armatoles
 arsphenamine
-armatures
+armatures 1
 albation
 anarchal
 arcane
