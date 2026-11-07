@@ -11896,7 +11896,7 @@ emits
 except
 escheatment 1
 eppes
-encolure
+encolure 1
 entomologise
 etheneldeli
 ennui
