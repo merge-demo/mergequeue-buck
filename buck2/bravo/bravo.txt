@@ -10615,7 +10615,7 @@ bluing
 backlands
 belemnite
 budgetful 1
-blazonment
+blazonment 1
 bouquet
 bladders
 bowllike
