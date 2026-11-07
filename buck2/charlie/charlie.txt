@@ -31612,7 +31612,7 @@ clingstone
 curve 1
 constructed
 curvedly
-capitoul
+capitoul 1
 curver
 chic
 curvesomeness
