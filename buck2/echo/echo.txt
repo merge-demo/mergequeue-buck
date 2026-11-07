@@ -6823,7 +6823,7 @@ enrooted
 entoil
 eggler
 entoils
-entom
+entom 1
 extender
 episternalia
 evocativeness
