@@ -8847,7 +8847,7 @@ amidrazone
 acadia
 asyntrophy
 anglicist
-allocatur
+allocatur 1
 acanthocephalan
 astound
 albahaca
