@@ -13718,7 +13718,7 @@ brunswick
 boustrophedon
 bloomer
 bircher 1
-banqueted
+banqueted 1
 barytocalcite
 braccio
 billetwood
