@@ -12004,7 +12004,7 @@ corelation
 catalanist
 chorizont
 chorizontal
-comprehensible
+comprehensible 1
 chorizos
 cribrately
 cariyo
