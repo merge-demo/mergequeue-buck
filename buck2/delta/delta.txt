@@ -1577,7 +1577,7 @@ dysgenesic
 dhanush
 demand
 disposition
-determinatively
+determinatively 1
 desitive
 disembody
 deadlocking
