@@ -4531,7 +4531,7 @@ dendrite
 decern
 dorsilumbar
 distraughted
-devocation
+devocation 1
 drabbled
 demigroat
 dogmatician
