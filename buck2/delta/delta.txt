@@ -16051,7 +16051,7 @@ dopinesses
 doubters 1
 demi
 decorability
-doubtous
+doubtous 1
 doubts
 desiderating
 distinguishable
