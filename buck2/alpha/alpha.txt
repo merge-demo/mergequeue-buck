@@ -18764,7 +18764,7 @@ acetract
 awesome
 auctioneer
 autochthony
-amazons
+amazons 1
 abolitionising
 anticancerous
 adamas
