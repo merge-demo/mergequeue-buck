@@ -1084,7 +1084,7 @@ genoas
 granddaddy
 ghostliness 1
 groundway
-gypsums
+gypsums 1
 gegenion
 glares
 guarding
