@@ -18232,7 +18232,7 @@ concocts
 catacumba
 cohosting
 concessionary
-chartings
+chartings 1
 coffeegrower
 cantinas 1
 carbonari
