@@ -11878,7 +11878,7 @@ anamnestic
 arracacha
 anserinae
 anamniata
-antimonarchy
+antimonarchy 1
 apishly
 amuguis
 archai
