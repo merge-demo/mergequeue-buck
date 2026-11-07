@@ -6164,7 +6164,7 @@ goa
 gadsbud
 gauche 1
 goadsman
-grihastha
+grihastha 1
 genovino 1
 gazetteers
 groveling 1
