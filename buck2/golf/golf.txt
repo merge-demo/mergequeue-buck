@@ -6786,7 +6786,7 @@ gud
 glossospasm
 gaffsail
 galiot
-gavyuti 1
+gavyuti 2
 ganglioside
 gossiping
 geront
