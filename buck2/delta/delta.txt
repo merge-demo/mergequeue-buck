@@ -2327,7 +2327,7 @@ diacetyls
 delectations
 denizens
 didna
-disseizin
+disseizin 1
 dilapidate
 determinists
 decke
