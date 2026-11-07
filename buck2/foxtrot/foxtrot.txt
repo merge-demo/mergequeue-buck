@@ -2635,7 +2635,7 @@ flusters
 foreshoulder
 figuratively
 fastidious 1
-frumentation
+frumentation 1
 familiarisation
 forcipulata
 farmyardy
