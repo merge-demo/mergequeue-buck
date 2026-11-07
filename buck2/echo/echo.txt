@@ -2901,7 +2901,7 @@ exocycloida
 eleven
 eegrass 1
 extraparochially
-entrancingly
+entrancingly 1
 enthrall
 erzahler
 epitheliomuscular
