@@ -9425,7 +9425,7 @@ foreteeth 1
 frary
 flouriness
 frolicly
-forlore
+forlore 1
 frescoer
 fulsomeness
 fenman
