@@ -1356,7 +1356,7 @@ anapaestical
 anticnemion
 airtightly
 awingly
-auxillary
+auxillary 1
 accentual
 accension
 agapanthus
