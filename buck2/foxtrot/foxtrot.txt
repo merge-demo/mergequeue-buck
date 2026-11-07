@@ -11133,7 +11133,7 @@ flaggery
 formylated
 forumize 1
 foreallot
-fanega
+fanega 1
 freeings
 faiences
 fiats
