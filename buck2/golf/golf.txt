@@ -9847,7 +9847,7 @@ gnathopoda
 grousers
 gorillas
 geckotidae 1
-guajillo
+guajillo 1
 gallicism
 gongoresque 1
 gips
