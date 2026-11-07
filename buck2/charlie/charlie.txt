@@ -2169,7 +2169,7 @@ coleorhiza
 camphols
 contemnor
 camphorated
-camphorates
+camphorates 1
 camphory
 camphoryl
 corgi
