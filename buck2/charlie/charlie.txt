@@ -20610,7 +20610,7 @@ collineate
 comping 1
 collectarium
 clanjamfrie
-compital
+compital 1
 compitalia
 coregonine
 clastic
