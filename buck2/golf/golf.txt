@@ -9114,7 +9114,7 @@ guillemet
 grindable 1
 gibbose
 grissel 1
-gingerol 1
+gingerol 2
 gadite
 gelseminic
 gummers
