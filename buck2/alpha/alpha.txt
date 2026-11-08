@@ -20738,7 +20738,7 @@ artifex
 activates
 aerobiology
 artificial
-adverted
+adverted 1
 antipragmatically
 arroya
 ambach
