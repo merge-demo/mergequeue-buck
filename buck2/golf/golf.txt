@@ -1117,7 +1117,7 @@ grivet
 granet 1
 giddier
 gesith
-grotesco
+grotesco 1
 grope
 galatic
 gastrointestinal
