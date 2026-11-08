@@ -505,7 +505,7 @@ gurrah 1
 gluconokinase
 geomorphology
 gisement
-gratuity
+gratuity 1
 geographic
 gruffing
 geologers 1
