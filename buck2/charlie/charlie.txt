@@ -4935,7 +4935,7 @@ cassava
 carter
 clown
 carters 1
-cartesian
+cartesian 1
 cartful
 carthame
 counterradiation
