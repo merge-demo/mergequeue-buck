@@ -1456,7 +1456,7 @@ filago
 fireside
 faubourgs 1
 focussing
-fistulose
+fistulose 1
 featly
 faulds
 faultfind
