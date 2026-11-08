@@ -5110,7 +5110,7 @@ endoceratidae
 extraneously
 endocervical
 eccentrically
-enslavers
+enslavers 1
 eremitic
 endochorion
 endochorionic
