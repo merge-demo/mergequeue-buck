@@ -10458,7 +10458,7 @@ diplomatism
 duenna 1
 dashikis
 demibath
-diphonia
+diphonia 1
 dismiss
 drowsy
 duumvirs
