@@ -3436,7 +3436,7 @@ electrophobia
 ennuyant
 ecalcavate
 errand
-exolete 1
+exolete 2
 exemplar
 ecliptic
 embatholithic
