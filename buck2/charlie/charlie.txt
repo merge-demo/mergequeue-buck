@@ -31298,7 +31298,7 @@ curbstoner
 curcas
 curch
 curculio
-curculionidae
+curculionidae 1
 calvatia
 curculios
 cerebratulus
