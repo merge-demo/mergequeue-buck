@@ -2802,7 +2802,7 @@ gyne
 garni 1
 gershon
 guzzledom
-gyges
+gyges 1
 guemul
 garblings
 grandisonous 1
