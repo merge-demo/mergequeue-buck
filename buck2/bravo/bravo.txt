@@ -4254,7 +4254,7 @@ blattariae 1
 barest
 burlers
 burman
-burgonet
+burgonet 1
 beaverism
 bistoury
 bitypic
