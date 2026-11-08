@@ -14126,7 +14126,7 @@ epithamia
 electrooptic
 endosternite
 embusqu
-exegetical
+exegetical 1
 endosiphonal
 extensory
 episcopates
