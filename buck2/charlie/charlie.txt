@@ -29151,7 +29151,7 @@ courtman
 credit 1
 coelacanthini
 cacodorous
-crioceras
+crioceras 1
 crioceratite
 cinefaction
 crioceratitic
