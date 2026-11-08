@@ -179,7 +179,7 @@ enchantingness
 eugenetic
 ergogram
 exploration
-elaps
+elaps 1
 electromotion
 electrolier
 equipoising
