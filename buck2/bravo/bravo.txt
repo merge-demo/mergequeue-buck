@@ -3120,7 +3120,7 @@ baselevel
 biradiate
 bismarck
 bustards 1
-boswellize
+boswellize 1
 basella
 basellaceae
 bespattering
