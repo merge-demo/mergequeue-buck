@@ -1918,7 +1918,7 @@ glochids
 glommox 1
 gastrozooid
 glaikit
-gonadotrophic
+gonadotrophic 1
 globulet
 gunboat
 gaudless
