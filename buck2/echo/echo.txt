@@ -3701,7 +3701,7 @@ erythromycin
 expectant 1
 elec
 eluates
-effluvium
+effluvium 1
 epitheliosis
 enantiotropic
 elucidators
