@@ -13366,7 +13366,7 @@ disheartens
 distributively
 daguerreotypes 1
 disporting
-discanting
+discanting 1
 diasyrm
 doublehorned
 disquieted
