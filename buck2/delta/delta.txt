@@ -8547,7 +8547,7 @@ dethrone
 dewbeam
 didacts
 diaphanometric 1
-dampishness
+dampishness 1
 debateful
 daimonion
 dewfall
