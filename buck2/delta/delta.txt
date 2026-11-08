@@ -1229,7 +1229,7 @@ dulcinist
 dextrines
 dialyzers
 diapasonal
-dermatoskeleton
+dermatoskeleton 1
 dreggier
 daystars
 datebook
