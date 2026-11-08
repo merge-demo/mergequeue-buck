@@ -2041,7 +2041,7 @@ achape
 achaque
 acharya
 apatheia
-autoimmune
+autoimmune 1
 antimatrimonialist
 alopiidae
 acharne 1
