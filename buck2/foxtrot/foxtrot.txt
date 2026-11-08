@@ -10894,7 +10894,7 @@ forsworn
 falloffs
 fides
 fulleries
-finfish
+finfish 1
 fleets
 flivver
 fletched
