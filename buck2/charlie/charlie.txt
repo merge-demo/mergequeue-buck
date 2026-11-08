@@ -8917,7 +8917,7 @@ chrysophanus
 crenelet
 concisest
 cystose
-concyclic
+concyclic 1
 charco
 charcoal
 crutches
