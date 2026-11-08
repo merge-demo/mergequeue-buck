@@ -20111,7 +20111,7 @@ cincturing
 comminated
 commination
 conceited
-congealable
+congealable 1
 canewise
 comminative
 cloddish
