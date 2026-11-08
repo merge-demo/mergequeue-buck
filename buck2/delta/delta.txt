@@ -1429,7 +1429,7 @@ damnit
 dasht
 dawk
 diapering
-dioptrate 1
+dioptrate 2
 dogly
 dehydrogenates
 disassimilated
