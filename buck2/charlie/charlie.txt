@@ -7020,7 +7020,7 @@ cavort
 centals
 coolies
 chock
-centaur
+centaur 1
 centaurdom
 cuvette
 centaurea
