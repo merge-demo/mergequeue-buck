@@ -4969,7 +4969,7 @@ glamors 1
 geldable
 granddada
 granita
-gainst
+gainst 1
 growze
 gauziest
 ganancias
