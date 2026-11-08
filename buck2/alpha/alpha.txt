@@ -18030,7 +18030,7 @@ aquaria
 anguiform
 attrap
 appropriativeness
-antipodean
+antipodean 1
 archimandrites
 aprioristically
 atrazines
