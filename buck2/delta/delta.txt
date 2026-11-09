@@ -16934,7 +16934,7 @@ desterilizing 1
 doohinkey
 defenses
 dermatograph
-denaturize
+denaturize 1
 doorways
 drearihead
 depositories
