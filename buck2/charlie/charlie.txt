@@ -12127,7 +12127,7 @@ companionability
 cubans
 cyclonoscope
 crupper
-conjecturalist
+conjecturalist 1
 copeognatha
 chresmology
 chrestomathics
