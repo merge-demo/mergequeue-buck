@@ -50,7 +50,7 @@ enzyms
 excites
 exciton
 electroretinograph 1
-excursion
+excursion 1
 escarped
 eremite 1
 endothelium
