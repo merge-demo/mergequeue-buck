@@ -24803,7 +24803,7 @@ casketlike
 clausum
 costers
 chromic
-coquetry
+coquetry 1
 coquets
 chloragogen
 coquette
