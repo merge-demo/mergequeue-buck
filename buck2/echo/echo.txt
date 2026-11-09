@@ -6636,7 +6636,7 @@ enterogenous 1
 edificant
 eartagged
 excitator
-empyreumata
+empyreumata 1
 enantiomeric
 encraty
 elephantlike
