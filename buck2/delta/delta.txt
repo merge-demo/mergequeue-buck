@@ -15079,7 +15079,7 @@ dungeons
 doghead 1
 doghood
 doghouse
-dogie
+dogie 1
 doglegs
 dicycle
 deboshed
