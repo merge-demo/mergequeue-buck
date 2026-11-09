@@ -9199,7 +9199,7 @@ bipaschal
 buffin
 biped
 bipedal
-beggared
+beggared 1
 bogo
 backhauling
 bourbonesque
