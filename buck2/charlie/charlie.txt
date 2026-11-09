@@ -31939,7 +31939,7 @@ czarish
 chufa
 czaritza
 czaritzas
-crookback
+crookback 1
 czech 1
 czechish
 czechization
