@@ -16486,7 +16486,7 @@ clodpated
 cadential 1
 chromolysis
 cloes
-cloff
+cloff 1
 centripetalism
 clog
 clogdogdo
