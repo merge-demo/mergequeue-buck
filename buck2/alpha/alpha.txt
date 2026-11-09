@@ -14547,7 +14547,7 @@ arborean
 admass 1
 anthropomorphisms
 awanyu
-anthropomorphized
+anthropomorphized 1
 anthropomorphology
 atta 1
 anthropomorphously
