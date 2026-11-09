@@ -11894,7 +11894,7 @@ eumeromorphic
 entrepot
 emits
 except
-escheatment 1
+escheatment 2
 eppes
 encolure
 entomologise
