@@ -13599,7 +13599,7 @@ cimiciform
 chickens
 cimicifuga
 compressure
-cimicoid
+cimicoid 1
 conformableness
 calcaneonavicular
 cymiferous
