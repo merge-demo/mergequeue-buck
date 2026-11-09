@@ -7442,7 +7442,7 @@ allogamies
 assessor
 apertly
 adventitiously
-aestivator
+aestivator 1
 albitic
 augustly
 apts
