@@ -9935,7 +9935,7 @@ adagial
 artificious
 avoue
 alternator 1
-abandonee
+abandonee 1
 abu
 arachnoidean
 amaurosis
