@@ -3378,7 +3378,7 @@ decolor
 disrestore
 dynagraph
 dithionate
-deflagrator
+deflagrator 1
 deflating
 discommend
 drumslade
