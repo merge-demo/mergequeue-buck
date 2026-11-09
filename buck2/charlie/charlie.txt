@@ -30332,7 +30332,7 @@ chiragra
 cruorin
 counteracts
 carombolette
-crup
+crup 1
 cruppen
 crampfish
 cruppered
