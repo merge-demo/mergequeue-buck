@@ -1658,7 +1658,7 @@ focalises 1
 federate
 fuddledness
 fealty
-fumigates 1
+fumigates 2
 forebrace
 flacourtiaceous
 folksong
