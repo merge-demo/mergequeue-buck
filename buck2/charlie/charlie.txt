@@ -13900,7 +13900,7 @@ costive
 cinofoil
 cynogenealogy
 craping
-canonistic
+canonistic 1
 caviars
 cyathos
 cleek
