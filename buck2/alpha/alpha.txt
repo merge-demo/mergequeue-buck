@@ -14829,7 +14829,7 @@ antichreses
 antichrist
 antichristianism
 aforetime
-anglicisms
+anglicisms 1
 ascomycetes
 antepagmenta
 aiwain
