@@ -1314,7 +1314,7 @@ cloison
 catchwater
 calibrating
 calibre
-chromatophilia
+chromatophilia 1
 causative
 cyanohydrin
 catalects
