@@ -13838,7 +13838,7 @@ anorthose
 agglomerated
 afresh
 albumeniizer
-afterhend
+afterhend 1
 apparelling
 archsynagogue
 anoscope
