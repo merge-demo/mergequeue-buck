@@ -6973,7 +6973,7 @@ downfalls
 despiser 1
 decemvii
 dipleuric
-desertness
+desertness 1
 disqualifying
 distills
 demonisms
