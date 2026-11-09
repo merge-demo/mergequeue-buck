@@ -580,7 +580,7 @@ feeblish
 funerate
 fenugreek 1
 flagstaff
-frighteningly
+frighteningly 1
 furmety
 forelocks
 faufel
