@@ -26852,7 +26852,7 @@ cruzados
 counterfleury
 clodlike
 counterfoil
-counterforce
+counterforce 1
 cosmopolitanizing
 carrom
 chugs
