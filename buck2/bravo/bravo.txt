@@ -9318,7 +9318,7 @@ bindweb
 barcaroles
 birdbander
 blockholer
-beggaries
+beggaries 1
 belgian
 bespeed
 brendice
