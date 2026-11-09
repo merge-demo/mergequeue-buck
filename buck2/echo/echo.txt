@@ -8038,7 +8038,7 @@ epipanies
 endovasculitis
 exsanguious
 euthenist
-encoop
+encoop 1
 electrodentistry
 epibasal
 ergs
