@@ -22328,7 +22328,7 @@ algaeologist
 autopsychology
 astrobiologies 1
 adret
-alrighty
+alrighty 1
 afterdrops
 astrobotany
 astrochemistry
