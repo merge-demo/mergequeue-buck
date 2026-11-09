@@ -660,7 +660,7 @@ galeated
 gunkhole
 grihyasutra
 gallantries
-goodheartedly
+goodheartedly 1
 goury
 gilour
 galgulidae
