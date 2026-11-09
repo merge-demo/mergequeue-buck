@@ -19506,7 +19506,7 @@ anecdotal
 argonautid
 argonne
 argons
-argosy 1
+argosy 2
 archaizes
 acanthuses
 antimediaeval
