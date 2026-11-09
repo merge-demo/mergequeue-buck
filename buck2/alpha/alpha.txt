@@ -20393,7 +20393,7 @@ attroopment
 anchitherioid
 arses
 arsheen
-affirmance
+affirmance 1
 absinthian
 afterimage
 antioxygenic
