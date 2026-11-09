@@ -14004,7 +14004,7 @@ eustacy
 extraregarding 1
 endogen
 extraregularly
-expirers
+expirers 1
 exiling
 exsertile
 elderbrotherly
