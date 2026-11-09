@@ -4008,7 +4008,7 @@ forestalled
 friese
 flattish
 forfeited
-flunk
+flunk 1
 fingerprint
 ferric
 furazolidone
