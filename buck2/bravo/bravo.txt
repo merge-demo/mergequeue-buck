@@ -837,7 +837,7 @@ biniodide
 biochron
 bromodeoxyuridine 1
 burnishers
-billikin 1
+billikin 2
 bet
 bacillar
 bezique
