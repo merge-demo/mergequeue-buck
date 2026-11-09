@@ -9160,7 +9160,7 @@ dilettanteship 1
 divorceuse
 dy
 dido
-diaglyptic
+diaglyptic 1
 didodecahedron
 didoes
 didonia
