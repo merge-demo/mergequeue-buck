@@ -23235,7 +23235,7 @@ construe
 controversialize
 construer
 cyamus
-cardiatomy
+cardiatomy 1
 coalitionist
 cohobation
 construes
