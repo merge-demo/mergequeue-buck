@@ -9333,7 +9333,7 @@ geomagnetically
 grond
 gront
 gamodeme 1
-genuflect
+genuflect 1
 gangtide 1
 gradines
 geronomite
