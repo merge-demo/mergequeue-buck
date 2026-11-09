@@ -5672,7 +5672,7 @@ forbearant
 finite
 flancards 1
 friended
-fuzz
+fuzz 1
 firking
 fountains
 firebrands
