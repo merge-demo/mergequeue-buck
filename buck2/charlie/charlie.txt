@@ -10871,7 +10871,7 @@ chippewas
 chippy 1
 cobishop
 cometic
-chloralose
+chloralose 1
 canzoni
 chippie
 chippier
