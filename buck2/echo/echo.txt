@@ -10462,7 +10462,7 @@ etypic
 ensheath
 equiponderation
 elytrtra
-enoplan
+enoplan 1
 ethicalness
 effluviums
 ericius
