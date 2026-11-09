@@ -1897,7 +1897,7 @@ fumbling
 fustilarian 1
 foism
 fruitless
-feta
+feta 1
 fleeceless
 fremescent
 flitched
