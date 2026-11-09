@@ -11570,7 +11570,7 @@ expressman 1
 equipartisan
 evoking
 empetraceous
-evolute
+evolute 1
 embrute
 enlighten
 extensiveness
