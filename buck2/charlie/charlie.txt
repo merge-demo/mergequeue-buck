@@ -18312,7 +18312,7 @@ cogent
 centena
 canangium
 cleansed
-calorifically
+calorifically 1
 cogently
 cogged
 cisoceanic
