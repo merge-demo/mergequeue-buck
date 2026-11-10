@@ -2936,7 +2936,7 @@ elian
 enervated
 exacinate
 equicostate
-encystation
+encystation 1
 elias
 epitomiser
 epistomal
