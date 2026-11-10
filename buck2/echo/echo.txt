@@ -232,7 +232,7 @@ earwigginess
 exsiccation
 emmetrope
 environs
-enhaulse
+enhaulse 1
 exceptively
 earwigs
 exulcerated
