@@ -16930,7 +16930,7 @@ directive
 disbelieve 1
 drearies
 danseuse
-desterilizing 1
+desterilizing 2
 doohinkey
 defenses
 dermatograph
