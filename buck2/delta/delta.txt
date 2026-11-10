@@ -14788,7 +14788,7 @@ dockhand
 dockhouse
 dilambdodont 1
 deringers
-dockyards
+dockyards 1
 docking
 dockization
 dockland
