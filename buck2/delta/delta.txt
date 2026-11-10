@@ -16551,7 +16551,7 @@ draft
 dragee
 disputed
 dimensible
-dragger
+dragger 1
 draggers
 draggier
 diacritics
