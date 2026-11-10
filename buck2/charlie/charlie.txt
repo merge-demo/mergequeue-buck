@@ -19218,7 +19218,7 @@ collutory
 cimbia
 collutoria
 collutories
-cafeteria
+cafeteria 1
 collutorium
 colluvial
 chiffonade
