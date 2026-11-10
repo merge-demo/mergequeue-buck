@@ -1682,7 +1682,7 @@ fieldward
 finishing
 formularies 1
 falsies
-felonous
+felonous 1
 fearingly
 ferineness
 fearless
