@@ -1964,7 +1964,7 @@ cyprinodont
 camerae
 curbless
 cameral
-citizenship
+citizenship 1
 cameralism
 condominium
 cameralistics
