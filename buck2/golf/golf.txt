@@ -4611,7 +4611,7 @@ glycerizin
 griotte
 gufought
 gloggs
-galbulae
+galbulae 1
 galipoipin
 gamboge
 gnaphalium
