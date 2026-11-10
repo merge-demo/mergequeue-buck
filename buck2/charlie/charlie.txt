@@ -9508,7 +9508,7 @@ checkering
 consignifying
 cataphysical
 checkerist
-collet
+collet 1
 clavola
 checkers
 cabbalah
