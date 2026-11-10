@@ -363,7 +363,7 @@ eriophyidae
 eavedropping 1
 ephthianure
 endevil
-embouchement
+embouchement 1
 excentral
 eyestone
 erethistic
