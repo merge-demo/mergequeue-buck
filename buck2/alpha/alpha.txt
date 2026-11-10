@@ -10912,7 +10912,7 @@ amnionata
 acclamation
 absolution
 amosite
-anhydric
+anhydric 1
 availably
 airtight
 amnions
