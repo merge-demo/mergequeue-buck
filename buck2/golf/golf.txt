@@ -2750,7 +2750,7 @@ genoise 1
 gentiopicrin
 girths
 gorgers
-gunfire
+gunfire 1
 greenflies
 germanism
 gauger
