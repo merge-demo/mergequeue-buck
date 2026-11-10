@@ -8552,7 +8552,7 @@ debateful
 daimonion
 dewfall
 diaphanously
-douglas
+douglas 1
 diaphyseal
 discommodious
 dermographia
