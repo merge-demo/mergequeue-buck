@@ -5825,7 +5825,7 @@ beyonds 1
 bellicist
 bromometry
 belligerents
-buildress
+buildress 1
 boxcar
 bullsnake
 berseem
