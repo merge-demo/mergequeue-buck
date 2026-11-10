@@ -23809,7 +23809,7 @@ contravindication
 circumvascular
 contrawise
 contrecoup
-contredanse
+contredanse 1
 contredanses
 contreface
 coryphees
