@@ -6860,7 +6860,7 @@ fierasferidae
 foliose
 flachery
 flittingly 1
-foliot
+foliot 1
 floribunda
 fasces
 forthby
