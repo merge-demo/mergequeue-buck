@@ -25041,7 +25041,7 @@ craftmanship
 courteously
 crosscourt
 costiferous
-celotex
+celotex 1
 corduroying
 corduroys
 chiliadic
