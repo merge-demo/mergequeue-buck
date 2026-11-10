@@ -18859,7 +18859,7 @@ caddied
 cilioretinal
 colymbidae
 cloches
-coarcted
+coarcted 1
 colymbion
 colymbriformes
 chequy
