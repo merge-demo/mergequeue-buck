@@ -2656,7 +2656,7 @@ bimensal 1
 bellying
 bable
 bribeable
-barling
+barling 1
 bluestone
 bertholletia
 barghest
