@@ -7883,7 +7883,7 @@ flannelbush
 forerun
 fname
 factiousness 1
-franklinia
+franklinia 1
 foreruns
 flacket
 frightenable 1
