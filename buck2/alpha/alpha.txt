@@ -18954,7 +18954,7 @@ archiplasmic
 apopyle
 aristol
 alienages
-adoptious
+adoptious 1
 angiomyocardiac
 archisynagogue
 anthropophagistic
