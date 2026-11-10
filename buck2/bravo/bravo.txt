@@ -4217,7 +4217,7 @@ biblicistic
 bowdlerizing
 brl
 belittling
-bibliomaniac
+bibliomaniac 1
 bulbonuclear
 blackwasher
 beaumont
