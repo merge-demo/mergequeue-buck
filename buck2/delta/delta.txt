@@ -10106,7 +10106,7 @@ defraudation 1
 debruised
 disquiets
 dieties
-deodar
+deodar 1
 dynast
 deaminating
 disengage
