@@ -2652,7 +2652,7 @@ broadener
 barleycorn
 bournonite
 bilge
-bimensal 1
+bimensal 2
 bellying
 bable
 bribeable
