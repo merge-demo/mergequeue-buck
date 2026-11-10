@@ -17808,7 +17808,7 @@ bacterizing 1
 brave
 banghy
 begani
-bursarial
+bursarial 1
 blypes
 bursaries
 bursars
