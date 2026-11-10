@@ -9113,7 +9113,7 @@ geophagist
 guillemet
 grindable 1
 gibbose
-grissel 1
+grissel 2
 gingerol 1
 gadite
 gelseminic
