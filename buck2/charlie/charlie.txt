@@ -11256,7 +11256,7 @@ chlorimeter
 chlorimetric
 chlorinated
 chlorinating
-curly
+curly 1
 chlorination
 chlorinator
 chlorines
