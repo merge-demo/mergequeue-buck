@@ -12723,7 +12723,7 @@ exophthalmus
 euonymus
 emboweling 1
 engramma
-exopod
+exopod 1
 epigraphist
 embus
 exopterygotism
