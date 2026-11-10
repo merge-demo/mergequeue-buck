@@ -16876,7 +16876,7 @@ cyclas
 clucked
 crotonbug
 chinches
-cometoid
+cometoid 1
 cypselae
 compendiously
 clucky
