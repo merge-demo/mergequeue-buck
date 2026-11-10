@@ -27692,7 +27692,7 @@ cowiest
 carnage
 cowing
 carcinosarcomata
-cowinner
+cowinner 1
 cowish
 copsole
 circumdate
