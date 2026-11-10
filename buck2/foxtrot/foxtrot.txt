@@ -10468,7 +10468,7 @@ fluffs 1
 fidged
 frostfish
 forcite
-frostbitten
+frostbitten 1
 frosty
 feuillet
 fantasticality
