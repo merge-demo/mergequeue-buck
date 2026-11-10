@@ -21834,7 +21834,7 @@ cleaner
 confabs
 confabulate
 cimbal
-connivery
+connivery 1
 calcium
 claithes
 confabulator
