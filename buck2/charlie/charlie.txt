@@ -2969,7 +2969,7 @@ cingular
 capsulae
 cuthbert
 contradistinction
-cantholysis
+cantholysis 1
 commonable
 chaffers
 capriole
