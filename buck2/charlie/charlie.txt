@@ -11187,7 +11187,7 @@ chloralum
 chlorambucil
 contrasting
 chloramin
-chloramphenicol
+chloramphenicol 1
 caperwort
 chilopodous
 chloranemia
