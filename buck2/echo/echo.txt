@@ -512,7 +512,7 @@ ethnographies
 effeminated
 ecesic
 ectropometer 1
-ecgonin
+ecgonin 1
 ecgonine
 evenhandedness
 echappe
