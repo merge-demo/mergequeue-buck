@@ -16896,7 +16896,7 @@ abridged
 apigenin
 apii
 apikores
-apprehender
+apprehender 1
 alluringness
 apimanias
 acocanthera
