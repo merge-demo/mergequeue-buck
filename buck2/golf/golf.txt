@@ -5295,7 +5295,7 @@ genialize
 guardsmen
 guatemala
 gemitores 1
-gossoons
+gossoons 1
 glyoxilin
 glacialism
 granitical
