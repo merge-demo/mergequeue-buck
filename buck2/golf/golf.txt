@@ -5914,7 +5914,7 @@ goitrous
 gasogene
 goliardeys
 groveless
-goldarn
+goldarn 1
 gilgames 1
 gewgawish
 grackle
