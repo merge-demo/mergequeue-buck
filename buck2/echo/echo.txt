@@ -4663,7 +4663,7 @@ elasticizes
 epimerase
 epimerising
 eusuchian
-eddies
+eddies 1
 excretionary 1
 enrapting
 eustachian
