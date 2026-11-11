@@ -7425,7 +7425,7 @@ albinic
 antiphrastical
 ananias
 acetopyrine
-anura
+anura 1
 atmid
 albinisms
 albinos
