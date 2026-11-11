@@ -9849,7 +9849,7 @@ exhumated
 electorate
 emulsoid
 esters 2
-entomologizing
+entomologizing 1
 esth
 estherian
 eyebolt
