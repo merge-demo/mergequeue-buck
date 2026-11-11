@@ -13303,7 +13303,7 @@ boswellizing
 bescreening 1
 benzanalgen
 brachioradialis
-botanizes
+botanizes 1
 bulbless
 balsamed
 bacterially
