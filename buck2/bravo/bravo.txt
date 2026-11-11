@@ -8793,7 +8793,7 @@ biniou
 binitarianism
 beworm
 bubonic
-buffaloed
+buffaloed 1
 bink
 binna
 bowering
