@@ -10731,7 +10731,7 @@ fairing
 fingerless
 frustrative 1
 fohn
-feminized
+feminized 1
 furfuramid
 frustratory
 focuses
