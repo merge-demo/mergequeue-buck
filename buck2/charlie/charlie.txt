@@ -17607,7 +17607,7 @@ cayennes
 culrage
 coccochromatic
 coccogone
-coccogoneae
+coccogoneae 1
 concyclically
 coccoidal
 coccolite
