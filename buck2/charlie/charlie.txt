@@ -22971,7 +22971,7 @@ cookdom
 cetraria
 consitutional
 consociational
-corniculum
+corniculum 1
 chili
 cive
 cryptic
