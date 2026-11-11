@@ -7716,7 +7716,7 @@ evidentiary
 erythrine
 enfevered 1
 epidemiography
-elytroplastic
+elytroplastic 1
 epeirogeny
 equilibration
 expendability
