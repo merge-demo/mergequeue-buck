@@ -6784,7 +6784,7 @@ demoniacal
 daeva 1
 drafts
 detachments
-desinence
+desinence 1
 desinent
 dallying
 desinential
