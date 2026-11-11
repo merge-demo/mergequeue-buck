@@ -2277,7 +2277,7 @@ geisa
 gadoid
 geyserish
 genettes
-globelike
+globelike 1
 germanophilist
 garance
 geissoloma
