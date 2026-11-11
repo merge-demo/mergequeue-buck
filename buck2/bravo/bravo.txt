@@ -2967,7 +2967,7 @@ bicentral 1
 basiation
 bolthole 1
 bisiliquous
-barophobia
+barophobia 1
 barricoes
 biuniqueness
 barrigudos
