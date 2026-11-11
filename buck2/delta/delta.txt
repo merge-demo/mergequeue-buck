@@ -8950,7 +8950,7 @@ deidesheimer
 dichotomy
 detruck
 dwarfness
-debitrix
+debitrix 1
 discursively
 dioptrometry
 drifter
