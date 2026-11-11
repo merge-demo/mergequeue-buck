@@ -3566,7 +3566,7 @@ capture
 captured
 captures
 capturing
-curricular
+curricular 1
 capuan
 capuched
 chortler
