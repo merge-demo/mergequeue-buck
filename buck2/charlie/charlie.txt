@@ -6723,7 +6723,7 @@ cuculla
 celation
 cheapjack
 celature
-celeb
+celeb 1
 capicha
 clition
 celebrant
