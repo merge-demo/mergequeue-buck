@@ -10671,7 +10671,7 @@ excrements
 ecrasite
 expeditate
 entwine 1
-excitory
+excitory 1
 endocytosis
 estragon
 easternism
