@@ -463,7 +463,7 @@ expediteness
 evector
 ecclesia
 enumerable
-eucommia
+eucommia 1
 ecclesiarchy
 extoll
 ecclesiast
