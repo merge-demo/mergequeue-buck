@@ -16261,7 +16261,7 @@ deteriorate 1
 downface
 downstair
 duodenocystostomy
-dacryolite
+dacryolite 1
 dipsaceous
 denominationalist
 desiderant
