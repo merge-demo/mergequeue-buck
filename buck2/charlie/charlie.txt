@@ -11827,7 +11827,7 @@ chopins
 coinquinate
 converter
 choplogic
-choplogical
+choplogical 1
 choregi
 cryptomonad
 candider
