@@ -8589,7 +8589,7 @@ consumpt
 calenturing
 cablish
 cymaphen
-catanadromous
+catanadromous 1
 chandui
 countercross
 chandul
