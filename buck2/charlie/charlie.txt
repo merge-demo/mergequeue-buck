@@ -17031,7 +17031,7 @@ conoids
 confoundable
 cardiacs
 capernoity
-coabode
+coabode 1
 colliquative
 cynogale
 coabound
