@@ -25204,7 +25204,7 @@ codifiability
 cystidia
 cuffy
 creakingly
-chalastic
+chalastic 1
 corindon
 corynebacteria
 coreless
