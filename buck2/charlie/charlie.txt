@@ -7369,7 +7369,7 @@ cephaloid
 culminates
 cuticles
 crepuscle
-cephalology
+cephalology 1
 cryolites
 cephalom
 coquettishness
