@@ -31065,7 +31065,7 @@ cleanlier
 cumulatist
 choughs
 cumulative
-chervonets
+chervonets 1
 cumulativeness
 countersunk
 cumulene
