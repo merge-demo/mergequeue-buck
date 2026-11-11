@@ -2554,7 +2554,7 @@ candlers
 casework
 collaborated
 candleshine
-chaucerism
+chaucerism 1
 candleshrift
 capitalizations
 cecidiology
