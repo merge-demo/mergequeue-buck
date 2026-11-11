@@ -11597,7 +11597,7 @@ fussing
 fontinal
 fideicommissary
 forced
-fraternal
+fraternal 1
 febrifugal
 forlornly
 for
