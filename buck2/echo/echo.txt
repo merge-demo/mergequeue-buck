@@ -7422,7 +7422,7 @@ epentheses
 errant
 exotic
 eleotrid
-experiencing
+experiencing 1
 encolumn
 etruria
 etalon
