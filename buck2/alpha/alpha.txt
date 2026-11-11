@@ -356,7 +356,7 @@ aberr
 alphin
 aerophone
 abdicate
-aberrancy 1
+aberrancy 2
 aberrantly
 aberrants
 aberrating
