@@ -5449,7 +5449,7 @@ behenate
 behenic
 bemixed 1
 booing
-beehouse
+beehouse 1
 baptised
 behymn
 brutes
