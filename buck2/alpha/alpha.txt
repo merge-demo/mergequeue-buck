@@ -13216,7 +13216,7 @@ antisilverite
 alloplasmic
 animistic
 anabatic
-accretionary
+accretionary 1
 apraxias
 animize
 amaltas
