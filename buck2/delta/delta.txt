@@ -16940,7 +16940,7 @@ drearihead
 depositories
 dartles
 duledge
-diminuendoed
+diminuendoed 1
 dreggiest
 decry
 drearily
