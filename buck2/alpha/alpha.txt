@@ -11018,7 +11018,7 @@ alma
 amoritish
 aftersensation
 adenyl
-astounded
+astounded 1
 amorph
 athelia
 amorpha
