@@ -24135,7 +24135,7 @@ convexness
 convexo
 convexoconcave
 cadbote
-cretins
+cretins 1
 cooties
 compeers
 colascione
