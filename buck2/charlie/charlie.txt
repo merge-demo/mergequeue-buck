@@ -8302,7 +8302,7 @@ courtyard
 chalina
 coonskin 1
 complexity
-carbure
+carbure 1
 corallet
 choyroot
 chalinitis
