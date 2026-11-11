@@ -10672,7 +10672,7 @@ aminate 1
 amines
 avoy
 asok
-autogenously
+autogenously 1
 amphistylar
 amino
 aminoacetic
