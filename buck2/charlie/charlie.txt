@@ -5243,7 +5243,7 @@ cultist
 carthorse
 custodiam
 crwth
-champacs
+champacs 1
 cassan
 cyans
 chefdom
