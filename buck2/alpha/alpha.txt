@@ -13293,7 +13293,7 @@ anisognathism
 anisoiconia
 amphodelite
 alcoholometry
-anorexia
+anorexia 1
 archiater
 abstemiously
 anisoles
