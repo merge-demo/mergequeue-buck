@@ -18114,7 +18114,7 @@ depetticoat
 dammed
 demythologizations
 duplicate
-deterrer
+deterrer 1
 devisors
 debatable
 driveboat
