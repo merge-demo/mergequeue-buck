@@ -4813,7 +4813,7 @@ edwardsia
 enneahedra
 electroionic
 etymologize 1
-executioners
+executioners 1
 eventides
 encolour
 excrementitiousness
