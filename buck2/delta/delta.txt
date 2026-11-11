@@ -10941,7 +10941,7 @@ disacquaint
 dayglows
 dampishly
 datolite 1
-diallist
+diallist 1
 deuterocone
 dispenses
 disforestation
