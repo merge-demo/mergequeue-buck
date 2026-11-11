@@ -1672,7 +1672,7 @@ grungiest
 gastrocoel
 gamuts
 gamelion
-gorkiesque
+gorkiesque 1
 gif
 gastrodermal
 gastrodermis
