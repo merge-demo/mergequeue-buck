@@ -1679,7 +1679,7 @@ entrusting
 eyebalm
 estraying 1
 electromotograph
-entarthrotic
+entarthrotic 1
 eyeberry
 envassal
 essentialist
