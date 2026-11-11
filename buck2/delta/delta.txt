@@ -5920,7 +5920,7 @@ demagnetizer
 depressional
 dulia
 depressions 1
-dotard
+dotard 1
 dissipations 1
 dolerin
 demonstration
