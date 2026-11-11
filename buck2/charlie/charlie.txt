@@ -31577,7 +31577,7 @@ coho
 curtate
 curtein
 chilion
-curteous
+curteous 1
 curter
 curtesies
 curtilage
