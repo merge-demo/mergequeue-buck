@@ -16957,7 +16957,7 @@ drearness 1
 decimalist
 drecks
 dermatherm
-demihorse
+demihorse 1
 dullness
 downcurve
 dredgeful
