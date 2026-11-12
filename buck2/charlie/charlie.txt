@@ -20862,7 +20862,7 @@ compossible 1
 cataleptically
 cassalty
 composted
-composting
+composting 1
 composts
 compot
 compotationship
