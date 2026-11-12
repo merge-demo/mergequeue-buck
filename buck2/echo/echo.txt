@@ -6875,7 +6875,7 @@ epidermoidal
 educability 1
 entomologist
 entomologize
-entrap
+entrap 1
 entomologized
 enstatolite
 exaugurate
