@@ -9409,7 +9409,7 @@ already
 alreadiness
 anthill
 alruna
-adverts
+adverts 1
 alsike
 actinolite 1
 aspersoir
