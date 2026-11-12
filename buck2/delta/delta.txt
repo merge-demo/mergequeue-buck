@@ -880,7 +880,7 @@ dummerer
 diagnostication
 dori
 dermotherm
-daguerrean 1
+daguerrean 2
 dripproof
 dieting
 demency
