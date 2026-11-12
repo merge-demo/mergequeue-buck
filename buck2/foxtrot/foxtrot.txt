@@ -9676,7 +9676,7 @@ fraising
 fustle 1
 fallalishly
 formulating
-facty
+facty 1
 femoral
 fingerroot
 functorial
