@@ -4741,7 +4741,7 @@ diethylaminoethanol
 democracies
 democrat 1
 dawdles
-douar
+douar 1
 dogbody
 depraves
 dsnames
