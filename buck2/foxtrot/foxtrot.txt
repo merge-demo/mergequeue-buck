@@ -8865,7 +8865,7 @@ fot
 florideous
 foreshorten
 fictious 1
-freeholder
+freeholder 1
 folia
 fleuron
 fibrinoplastic
