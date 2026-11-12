@@ -1646,7 +1646,7 @@ eichhornia
 eichwaldite
 eide
 excommunications
-enactors
+enactors 1
 eyewashes
 eider
 ectomorphism
