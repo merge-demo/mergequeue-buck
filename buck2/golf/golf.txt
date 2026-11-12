@@ -6856,7 +6856,7 @@ grandpa
 gonorrhoeal 1
 gremmie
 gobonee
-gnomonic
+gnomonic 1
 gloryingly
 gypsied
 glauconite
