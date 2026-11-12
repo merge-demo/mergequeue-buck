@@ -1239,7 +1239,7 @@ epit
 enneastyle 1
 eel
 electrosherardizing
-escalade
+escalade 1
 externity
 eelboat
 eudendrium
