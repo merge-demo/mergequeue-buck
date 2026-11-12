@@ -10350,7 +10350,7 @@ chronaxy
 chicqued
 chicquer
 chicquest
-cooperite 1
+cooperite 2
 chicquing
 colly
 cystinuria
