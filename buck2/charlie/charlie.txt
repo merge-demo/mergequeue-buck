@@ -28180,7 +28180,7 @@ crankle
 cima
 crankless
 contiguities
-crink
+crink 1
 cromfordite
 crankling
 crankpin
