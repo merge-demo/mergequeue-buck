@@ -5070,7 +5070,7 @@ garland
 ganged
 gret
 glassful
-gonotocont 1
+gonotocont 2
 grapplers
 gloxinia
 glasshouses
