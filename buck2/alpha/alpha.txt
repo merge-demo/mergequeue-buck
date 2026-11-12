@@ -11766,7 +11766,7 @@ autonomies
 anosphrasia
 ablepharon
 anchietea
-antarctica
+antarctica 1
 analcimite
 aerophilic
 aggrieved
