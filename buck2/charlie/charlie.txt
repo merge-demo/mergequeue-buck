@@ -27192,7 +27192,7 @@ chait 1
 cacotrophic
 circumgyration
 countertraction
-countertransference
+countertransference 1
 cystonectous
 collen
 coparent
