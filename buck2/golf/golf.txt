@@ -7735,7 +7735,7 @@ graecophil 1
 guilfat
 gittern
 grassroots
-gloea
+gloea 1
 gutturopalatine
 grenelle
 gauloiserie
