@@ -4990,7 +4990,7 @@ foraminate 1
 fact
 forestcraft
 fadeaway
-fringiest
+fringiest 1
 focused
 frappeed
 flibbertigibbety
