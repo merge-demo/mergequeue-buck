@@ -24491,7 +24491,7 @@ copaivic 1
 copaliferous
 copalite
 copalm
-coparcenar
+coparcenar 1
 coparcenary
 cyclopropane
 comic
