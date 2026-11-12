@@ -7575,7 +7575,7 @@ dilute
 djellaba
 deuton 1
 deutonymph
-danli
+danli 1
 distingu
 dancy
 debated
