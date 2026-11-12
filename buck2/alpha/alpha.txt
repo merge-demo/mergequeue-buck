@@ -13444,7 +13444,7 @@ alod
 apikoros
 antidogmatic
 anormal
-anneal
+anneal 1
 artlessly 1
 arraignments
 annealer
