@@ -1373,7 +1373,7 @@ cavernitis
 calyculated
 coercing
 cuminseed 1
-counterband
+counterband 1
 calicut
 calid
 calydonian
