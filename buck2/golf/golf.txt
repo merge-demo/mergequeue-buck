@@ -1422,7 +1422,7 @@ gashing 1
 grandgore
 geneva
 glazen 1
-gallinazo
+gallinazo 1
 gnamma
 gothicism
 grapenuts
