@@ -11682,7 +11682,7 @@ exaggerate
 electrize
 etiotropic
 epitra
-exaggerated
+exaggerated 1
 eccentricity
 electrocautery
 epididymectomy
