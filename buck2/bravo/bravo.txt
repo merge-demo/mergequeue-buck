@@ -8698,7 +8698,7 @@ blackly 1
 bullethead 1
 betoss
 brachycephalies
-bottomry
+bottomry 1
 backlashed
 brule
 barhopping
