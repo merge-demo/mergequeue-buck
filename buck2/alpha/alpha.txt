@@ -2583,7 +2583,7 @@ acridinic
 acquaint
 acquaintanceship
 acidophilus
-acquisible
+acquisible 1
 aggeration
 acquaintanceships
 asymmetrocarpous
