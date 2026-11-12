@@ -21795,7 +21795,7 @@ assertum
 agricolous
 acanaceous
 asak
-apparencies
+apparencies 1
 alloeotic
 asses
 appetibility
