@@ -10987,7 +10987,7 @@ freesilverism
 fumbled
 farde
 forecatharping
-fausen
+fausen 1
 frostiest
 flintiest
 foreproffer
