@@ -3942,7 +3942,7 @@ adjures
 aspersorium
 autotyphization
 acanthine
-absinthes
+absinthes 1
 adjust
 animalculum
 abdal
