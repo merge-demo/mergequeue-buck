@@ -4027,7 +4027,7 @@ anastomus
 allegiantly
 administrates
 antihemolytic
-administrational
+administrational 1
 administrative
 affixion
 administratively
