@@ -14529,7 +14529,7 @@ anthropomophitism
 antiphrastic
 antipestilence
 accompanist
-adjutage
+adjutage 1
 ammino
 arizonian
 aphototropic
