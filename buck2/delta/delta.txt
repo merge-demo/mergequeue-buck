@@ -6879,7 +6879,7 @@ desmoscolecidae
 drossless 1
 desmosite
 desemer
-dispositor
+dispositor 1
 desoeuvre
 dewlight
 drailed
