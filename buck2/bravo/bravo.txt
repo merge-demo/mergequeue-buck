@@ -17328,7 +17328,7 @@ bore
 bathochromatism
 benzotrifluoride
 bopyrus
-boutel
+boutel 1
 bucoliast
 bunchy
 bunchier
