@@ -4882,7 +4882,7 @@ ambitionist
 allochirally
 astonisher
 anthroposophist
-amaranthine
+amaranthine 1
 auslaut
 airphobia
 adelochorda
