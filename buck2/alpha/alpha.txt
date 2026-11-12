@@ -11145,7 +11145,7 @@ amphibial
 anfractuous
 amphibians
 arette
-ashkenazi
+ashkenazi 1
 antisun
 amphibiety
 azimuthally
