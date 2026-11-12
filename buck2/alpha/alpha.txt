@@ -1672,7 +1672,7 @@ acculturated
 acculturates
 astr
 anorganic 1
-alkalimeter
+alkalimeter 1
 arank
 ambiguously
 aphidid
