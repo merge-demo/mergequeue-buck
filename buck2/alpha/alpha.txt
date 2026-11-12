@@ -14897,7 +14897,7 @@ ateleological
 antliate
 angeles
 anticyclically
-anticity
+anticity 1
 anticytolysin
 almsgiving
 alphorn
