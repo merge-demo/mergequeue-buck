@@ -10470,7 +10470,7 @@ frostfish
 forcite
 frostbitten
 frosty
-feuillet
+feuillet 1
 fantasticality
 frostily
 fluorate
