@@ -12772,7 +12772,7 @@ erwinia
 employable 1
 exorcizement
 encodings
-elasmobranchiate
+elasmobranchiate 1
 enmask
 exorcizer
 epiceratodus
