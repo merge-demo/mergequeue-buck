@@ -9572,7 +9572,7 @@ delatinization
 desterilize
 drachm
 departisanize
-deglazes 1
+deglazes 2
 dignitary
 dignitarian
 demophoon
