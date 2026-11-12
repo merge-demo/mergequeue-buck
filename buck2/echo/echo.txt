@@ -65,7 +65,7 @@ estuarine
 earlier
 einkorns
 empaneling
-earliest
+earliest 1
 enfilading
 eastness
 etiam
