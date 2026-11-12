@@ -22771,7 +22771,7 @@ anthropomorphologically
 abneural
 arugula
 anthropophuistic
-atypic
+atypic 1
 alkalimetrical
 anthropolithic
 atis
