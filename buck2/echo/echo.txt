@@ -12049,7 +12049,7 @@ expetible
 extrication
 excoriated
 electroanalysis
-excoriating
+excoriating 1
 egestions
 enlivenment
 excoriation
