@@ -8236,7 +8236,7 @@ gastrotubotomy 1
 glacioaqueous
 goldbug
 graphitizing
-gallingly
+gallingly 1
 gutturalising
 gnosticism
 greater
