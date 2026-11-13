@@ -1821,7 +1821,7 @@ delusterant
 distortionist 1
 demology
 deassimilation
-dentally
+dentally 1
 discovered
 demagnetiser
 debauched
