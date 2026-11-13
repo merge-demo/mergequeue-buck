@@ -1672,7 +1672,7 @@ bawdyhouse
 bagnios
 babbishly
 besottingly
-bowsing
+bowsing 1
 balneology
 breechesless
 balneological
