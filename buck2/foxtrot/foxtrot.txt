@@ -11452,7 +11452,7 @@ flic
 frayedly
 furcule
 flaffer
-furfurylidene
+furfurylidene 1
 furrowy
 facecloth 1
 flap
