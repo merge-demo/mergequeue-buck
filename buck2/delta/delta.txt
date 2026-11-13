@@ -8420,7 +8420,7 @@ deflower
 dysphasic
 drowned
 diallings
-dovefoot
+dovefoot 1
 deliracy
 disciplines
 deliveror
