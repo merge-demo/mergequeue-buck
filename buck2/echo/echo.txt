@@ -12338,7 +12338,7 @@ emanators
 exerted
 encumbrous
 excepable 1
-eaning
+eaning 1
 eviscerations
 evectant
 exertionless 1
