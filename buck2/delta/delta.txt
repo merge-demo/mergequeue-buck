@@ -15880,7 +15880,7 @@ daikers
 documentor
 deadpanning
 dosed
-deiseal
+deiseal 1
 deboning
 delighting
 discounts
