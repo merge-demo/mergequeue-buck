@@ -1775,7 +1775,7 @@ guberla
 gynopara
 geminately
 glycolipin
-gomerils
+gomerils 1
 germinance 1
 goodless
 golliwogs 1
