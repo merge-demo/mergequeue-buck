@@ -6643,7 +6643,7 @@ flacianism 1
 foder
 forkwise
 frontes
-flees
+flees 1
 flintily
 formaldehydesulphoxylate
 footpath
