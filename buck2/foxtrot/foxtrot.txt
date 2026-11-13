@@ -10457,7 +10457,7 @@ ferruling
 farrant 1
 frontiersmen
 flnerie
-foregoer 1
+foregoer 2
 forbodes
 fosterland
 fibroin
