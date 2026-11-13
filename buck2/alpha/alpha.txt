@@ -4563,7 +4563,7 @@ atypicality
 advice
 advices
 atomatic
-antas
+antas 1
 advisableness
 amidon
 anicca
