@@ -12724,7 +12724,7 @@ euonymus
 emboweling 1
 engramma
 exopod
-epigraphist
+epigraphist 1
 embus
 exopterygotism
 eurypygae
