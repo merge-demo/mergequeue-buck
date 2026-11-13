@@ -700,7 +700,7 @@ delinquently 1
 dusio
 dolefish
 drynesses
-danaine
+danaine 1
 danaite
 detainer
 deltaic
