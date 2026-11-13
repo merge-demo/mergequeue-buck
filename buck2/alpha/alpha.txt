@@ -16047,7 +16047,7 @@ aldehol
 acinacious
 astelic
 adviceful 1
-antirepublicanism
+antirepublicanism 1
 ampulla
 antireservationist
 actionize
