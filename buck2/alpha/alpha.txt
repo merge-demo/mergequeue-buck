@@ -14837,7 +14837,7 @@ antichrists
 amphichrome 1
 acalephs
 appendence
-antichronically
+antichronically 1
 amphibola
 antitragal
 associates
