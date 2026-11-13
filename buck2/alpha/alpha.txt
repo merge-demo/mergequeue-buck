@@ -19973,7 +19973,7 @@ abdat
 armplate
 agamas
 angkhak 1
-azans
+azans 1
 aborsement
 afterclap
 armseye
