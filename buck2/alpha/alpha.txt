@@ -10790,7 +10790,7 @@ ammeter
 ammeters
 amplexuses 1
 alboin
-aminogen
+aminogen 1
 anticonstitutionalist
 ammiaceous
 acidosis
