@@ -3411,7 +3411,7 @@ gerontocrat
 gigglish
 grains
 gregarinian
-greenwing
+greenwing 1
 gulpiest
 greco
 gynaeolatry 1
