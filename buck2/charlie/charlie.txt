@@ -5910,7 +5910,7 @@ creeled
 catfish
 catfoot
 catfooted
-chhatri
+chhatri 1
 catgut
 chancellorism
 cath
