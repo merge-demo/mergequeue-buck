@@ -7587,7 +7587,7 @@ frankheartedness 1
 flightworthy 1
 fatuity
 footslogs
-forestaller
+forestaller 1
 flacherie
 forjudgment
 fatimid
