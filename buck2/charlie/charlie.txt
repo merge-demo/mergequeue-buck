@@ -27360,7 +27360,7 @@ coursing
 court
 courtage
 climacterics 1
-courtal
+courtal 1
 courtbred
 chattelization
 courtcraft
