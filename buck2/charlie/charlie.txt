@@ -12964,7 +12964,7 @@ catamenial
 continentality
 cyanides
 cyanidrosis
-clothes 1
+clothes 2
 cyanids
 cyanimide
 cyanine
