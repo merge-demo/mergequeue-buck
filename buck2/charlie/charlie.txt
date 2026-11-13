@@ -31504,7 +31504,7 @@ currying
 curricla
 currijong
 curring
-currock
+currock 1
 clupeoids
 cisrhenane
 culiciform
