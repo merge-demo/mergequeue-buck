@@ -24050,7 +24050,7 @@ converges
 converging
 conversable
 conversableness
-conversancy 1
+conversancy 2
 camarillas
 cosmonautic
 circularise
