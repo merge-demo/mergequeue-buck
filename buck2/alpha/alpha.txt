@@ -13642,7 +13642,7 @@ ampollosity 1
 antituberculous
 anticum
 anesthesia
-abeam
+abeam 1
 automa
 abolition
 annuler
