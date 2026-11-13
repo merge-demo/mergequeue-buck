@@ -575,7 +575,7 @@ convokes
 colloque
 confort
 caduac
-cruiseway
+cruiseway 1
 commilitant
 catalineta
 caducean
