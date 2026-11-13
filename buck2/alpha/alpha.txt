@@ -13027,7 +13027,7 @@ anhelose
 anhemitonic 1
 aborting
 amulla
-anhyd
+anhyd 1
 allodially
 anhydraemia
 antikinase
