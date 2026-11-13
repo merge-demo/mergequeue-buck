@@ -1999,7 +1999,7 @@ fogging 1
 fedora
 fide
 feere
-flipper
+flipper 1
 fautor
 fours
 feeze
