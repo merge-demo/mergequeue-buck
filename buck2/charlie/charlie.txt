@@ -13148,7 +13148,7 @@ crackability
 cicatrising
 cystoflagellata
 cicatrisive
-cicatrizate
+cicatrizate 1
 caudicle
 canalize
 craniographer
