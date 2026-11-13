@@ -2421,7 +2421,7 @@ ganton
 gyrolith
 glaury
 gazel 1
-goaled
+goaled 1
 guiac
 gummose
 gratification
