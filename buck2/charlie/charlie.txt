@@ -17784,7 +17784,7 @@ coddy
 coddle
 coddler
 calculous
-coddlers
+coddlers 1
 coddles
 codebooks
 codebreaker
