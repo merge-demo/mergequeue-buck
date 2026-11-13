@@ -19309,7 +19309,7 @@ areologist
 autumnity
 administratress 1
 areometry
-awm
+awm 1
 areometrical
 adventurers
 arbutus
