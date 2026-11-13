@@ -16242,7 +16242,7 @@ downcastness
 delenda
 disabling
 doubter 1
-downcome
+downcome 1
 dogtail
 downcoming
 deke
