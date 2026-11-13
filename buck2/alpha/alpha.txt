@@ -21938,7 +21938,7 @@ aphakial
 associatively
 aquiver
 aeriest
-anatripsis
+anatripsis 1
 austerus
 associativeness
 amplify
