@@ -10008,7 +10008,7 @@ cosmotron
 coronavirus
 celeries
 condescension
-cherry
+cherry 1
 cherryblossom
 cherried
 cumbu
