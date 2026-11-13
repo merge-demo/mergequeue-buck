@@ -7698,7 +7698,7 @@ cadere
 combustively
 cerithiidae
 cerithium
-ceriums
+ceriums 1
 corambis
 chloroplatinite
 cermet
