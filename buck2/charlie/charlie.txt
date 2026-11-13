@@ -11311,7 +11311,7 @@ candace
 chlorodizing
 cradlers
 chloroethene
-chlorofluorocarbon
+chlorofluorocarbon 1
 chlorofluoromethane
 ceylanite
 chloroformate
