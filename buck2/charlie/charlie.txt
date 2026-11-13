@@ -8824,7 +8824,7 @@ crouchingly
 chara
 charabanc
 compensativeness
-clitoridectomies
+clitoridectomies 1
 characeae
 clabbered
 characids
