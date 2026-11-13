@@ -7749,7 +7749,7 @@ dayton
 domiciliary 1
 diplotegia
 defeasance
-devised
+devised 1
 decongests
 diphosphoric
 denicotinized
