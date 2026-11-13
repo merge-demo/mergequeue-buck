@@ -3249,7 +3249,7 @@ erects
 enclitical
 encephalotomy
 eyesore
-entrench 1
+entrench 2
 episcleral
 emancipates
 esophagospasm
