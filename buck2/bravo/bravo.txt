@@ -18097,7 +18097,7 @@ burgage
 butanol
 bonked 1
 bibliopegistical
-butanols
+butanols 1
 bind
 bergander
 bouderie
