@@ -29539,7 +29539,7 @@ critic 1
 criticality
 criticalness
 coendured
-centervelic
+centervelic 1
 colophonist
 crabbed
 criticaster
