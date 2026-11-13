@@ -1699,7 +1699,7 @@ foreshape
 feased 1
 folic 1
 fumigant
-fingrigo
+fingrigo 1
 forprise
 fibrinoalbuminous
 forestep
