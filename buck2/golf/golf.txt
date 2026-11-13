@@ -2134,7 +2134,7 @@ gen
 glumiferous
 galla
 globosity 1
-gaudete
+gaudete 1
 graced
 glycoluric
 gazellelike
