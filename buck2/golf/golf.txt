@@ -7191,7 +7191,7 @@ galactophorous
 grattoirs 1
 grizzlies
 gutterwise
-gripman
+gripman 1
 gainlessness
 gentoo
 grayest
