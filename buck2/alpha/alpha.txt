@@ -2610,7 +2610,7 @@ amygdalotomy 1
 accrescent
 atheist
 agapeic
-allocated
+allocated 1
 auxoflore
 abutters
 acquire
