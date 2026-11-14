@@ -11654,7 +11654,7 @@ fusus
 feedlot 1
 fanion
 filoselle
-forcingly
+forcingly 1
 farasula
 fut
 futhorc
