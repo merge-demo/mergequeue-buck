@@ -11284,7 +11284,7 @@ chloroamine
 chloroaurate
 chloroaurite
 chlorobenzene
-centripetency
+centripetency 1
 chlorocalcite
 chlorochromates
 construing
