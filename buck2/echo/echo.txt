@@ -7081,7 +7081,7 @@ enumeration
 elsholtzia
 eggroll 1
 euphone
-efficiency
+efficiency 1
 enlinked
 enshell
 entoiling
