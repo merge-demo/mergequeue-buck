@@ -6862,7 +6862,7 @@ annoyingness
 ava
 airmark
 attention
-astomatous
+astomatous 1
 aphorises
 apanages
 antiagglutinative
