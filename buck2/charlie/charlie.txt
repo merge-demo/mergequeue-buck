@@ -23922,7 +23922,7 @@ conumerous
 conundrums
 conurbation
 cricke
-conus
+conus 1
 cypris
 cytometer
 chirl
