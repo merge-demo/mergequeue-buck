@@ -16740,7 +16740,7 @@ aphemia
 attal
 athenaeum
 aphemic
-aphengoscope
+aphengoscope 1
 apheresis
 apheses
 asclepius
