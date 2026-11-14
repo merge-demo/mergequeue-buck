@@ -3288,7 +3288,7 @@ gothite
 gahnites 1
 gunrack
 geriatrician
-geriatrist
+geriatrist 1
 goxes
 german
 geckos 1
