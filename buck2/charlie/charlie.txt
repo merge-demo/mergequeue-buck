@@ -29091,7 +29091,7 @@ crinatory
 crinel
 cringeling 1
 cringes
-cringing
+cringing 1
 compter
 chookie
 chlorophylliferous
