@@ -1101,7 +1101,7 @@ groat
 grooviness 1
 grannies
 gonangium
-gregorianize 1
+gregorianize 2
 ganja
 generatively
 gashouses
