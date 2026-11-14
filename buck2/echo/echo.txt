@@ -2269,7 +2269,7 @@ electrets
 esophagogastrostomy
 exploitive
 electrically 1
-extensometer
+extensometer 1
 enciente
 embryony
 embraceable
