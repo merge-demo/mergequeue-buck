@@ -3395,7 +3395,7 @@ fishermen 1
 frivols
 filipinos 1
 follicles
-flokite
+flokite 1
 frameableness
 floramour
 fuller
