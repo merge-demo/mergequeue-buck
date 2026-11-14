@@ -10814,7 +10814,7 @@ apparentement
 activizing
 assized
 aits
-apprised
+apprised 1
 anywise
 affricates
 anack
