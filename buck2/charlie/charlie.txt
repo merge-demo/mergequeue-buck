@@ -19135,7 +19135,7 @@ crojiks
 collocative
 collock
 cowfish
-compartmentalizes
+compartmentalizes 1
 collocutor
 cogitations
 collodion
