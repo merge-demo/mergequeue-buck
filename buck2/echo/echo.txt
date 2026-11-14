@@ -11590,7 +11590,7 @@ extorted
 earringed
 ectromelic
 encephalosepsis
-evolutoid
+evolutoid 1
 elegize
 enchiridion
 explicating
