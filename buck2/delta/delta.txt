@@ -10695,7 +10695,7 @@ deferring
 diiodide 1
 deepen
 dipnoans
-danelaw
+danelaw 1
 doublewords
 dipodic
 dipodid
