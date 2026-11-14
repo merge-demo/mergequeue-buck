@@ -16711,7 +16711,7 @@ dramme
 drammed
 dottler
 disharmonised
-digenic
+digenic 1
 dramming
 dioecious
 debridement
