@@ -16272,7 +16272,7 @@ clinopodium
 conterminous
 constrainment
 curvilinear
-civilise
+civilise 1
 citronize
 copsewooded
 clint
