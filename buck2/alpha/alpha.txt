@@ -19497,7 +19497,7 @@ afforestational 1
 antimodernization
 alphabetize
 accessoriness
-assaults
+assaults 1
 adenotomy
 aitchpiece
 acad
