@@ -6702,7 +6702,7 @@ dubonnets
 desman
 desiderable
 diascopy
-deadhead
+deadhead 1
 desiderata
 debagged
 digamists
