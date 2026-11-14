@@ -3459,7 +3459,7 @@ bovarism
 basuto
 bancos
 buphaga
-bander
+bander 1
 barkpeeler
 boobook
 bugling
