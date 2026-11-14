@@ -659,7 +659,7 @@ exprobration
 extimulate
 epigonos
 enshrouding
-extracondensed
+extracondensed 1
 electrophysiology
 emaculate
 estheses
