@@ -10670,7 +10670,7 @@ amin
 antimonarchial
 aminate 1
 amines
-avoy
+avoy 1
 asok
 autogenously
 amphistylar
