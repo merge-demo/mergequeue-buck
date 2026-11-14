@@ -4668,7 +4668,7 @@ excretionary 1
 enrapting
 eustachian
 exinanite
-eristalis
+eristalis 1
 epidermophyton
 enchorial
 echinoderm
