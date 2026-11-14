@@ -14072,7 +14072,7 @@ entoplastral
 epigastral
 equilibrative
 ebonize
-explicits
+explicits 1
 entwinement
 extremeless
 extremely
