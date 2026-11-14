@@ -1224,7 +1224,7 @@ excursionists
 epitrite
 edwardean 1
 easternly
-edwardsiidae
+edwardsiidae 1
 edwin
 exorcismal
 endoplastular
