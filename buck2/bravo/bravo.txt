@@ -5519,7 +5519,7 @@ bobowler
 benefactive
 begnawn
 blotted
-beisance
+beisance 1
 bouvier
 broadloom
 bejant
