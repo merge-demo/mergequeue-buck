@@ -1879,7 +1879,7 @@ gleir
 graptolithina
 graveled
 gambles 1
-gazehound
+gazehound 1
 growlery
 guffaw
 gilgai
