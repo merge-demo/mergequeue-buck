@@ -10869,7 +10869,7 @@ chippers
 coefficient
 chippewas
 chippy 1
-cobishop
+cobishop 1
 cometic
 chloralose
 canzoni
