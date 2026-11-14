@@ -8843,7 +8843,7 @@ girrit
 gastral
 grandparenthood
 gardenlike
-girsle
+girsle 1
 guanay 1
 gablelike 1
 graecized
