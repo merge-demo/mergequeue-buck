@@ -1005,7 +1005,7 @@ foreorder
 fenester 1
 flustrating
 factorability
-forweend
+forweend 1
 flashes
 fluorapatite
 fluoborid
