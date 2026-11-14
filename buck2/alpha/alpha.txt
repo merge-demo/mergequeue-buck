@@ -4534,7 +4534,7 @@ ami
 amniota
 annotativeness
 artesonados
-adversifoliate
+adversifoliate 1
 antimythic
 arrogance
 amania
