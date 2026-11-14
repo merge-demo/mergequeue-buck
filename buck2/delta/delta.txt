@@ -17560,7 +17560,7 @@ drumloidal
 drummer
 duckhearted
 deathlike
-disavowal
+disavowal 1
 distained
 domesticates
 duteousness
