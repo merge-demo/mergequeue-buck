@@ -2494,7 +2494,7 @@ attemperance
 alexin
 alabastrons
 amoebicidal
-acolyth
+acolyth 1
 aculei
 acolythate
 ardella
