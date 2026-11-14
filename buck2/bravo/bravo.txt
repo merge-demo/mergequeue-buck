@@ -17182,7 +17182,7 @@ bullnut
 beetroot
 bullock
 brachialgia
-bullocker
+bullocker 1
 brachydodrome
 beduins
 blastulae
