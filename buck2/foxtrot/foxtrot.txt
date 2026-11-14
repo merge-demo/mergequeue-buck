@@ -7157,7 +7157,7 @@ flimflammery 1
 footfolk
 ficklewise
 fruticulture
-flabel
+flabel 1
 flumerin
 fictionised
 fused
