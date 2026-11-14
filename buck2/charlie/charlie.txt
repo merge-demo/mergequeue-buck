@@ -8510,7 +8510,7 @@ championize
 caesium
 champions
 cytotaxonomic
-championships
+championships 1
 champleve
 chiselled
 chams
