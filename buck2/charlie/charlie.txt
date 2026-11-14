@@ -15389,7 +15389,7 @@ cen
 clappe
 conidiiferous
 clapper
-clapperclaw
+clapperclaw 1
 cloragen
 clappered
 chitchatting
