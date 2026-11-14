@@ -29970,7 +29970,7 @@ ctenocyst
 crayonstone
 cuarenta
 crosswise
-cerebrology
+cerebrology 1
 coccygotomy
 crisle
 crosswiseness
