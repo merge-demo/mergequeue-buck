@@ -13703,7 +13703,7 @@ anomalon
 antipasto
 auxochromism
 auriculariaceae
-anomalotrophy
+anomalotrophy 1
 anomalousness
 antilles
 antisyndicalist
