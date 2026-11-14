@@ -13242,7 +13242,7 @@ cyclodiene
 cycloganoid
 cummin
 crossbencher
-climbable
+climbable 1
 cycloganoidei
 cyclogenesis
 calking
