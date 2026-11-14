@@ -2323,7 +2323,7 @@ fritter 1
 fensive
 faulkland
 favoring
-flippest
+flippest 1
 furner
 falbalas
 frillings
