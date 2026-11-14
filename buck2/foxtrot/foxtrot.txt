@@ -6080,7 +6080,7 @@ funker
 fizzling 1
 frecken
 faculty
-fingerhook
+fingerhook 1
 forgeman
 figurial
 foxhounds
