@@ -6312,7 +6312,7 @@ gastriloquous
 gastrocele
 gymnorhininae
 goblin
-gettable
+gettable 1
 gullible
 gigartinaceous
 gunmen
