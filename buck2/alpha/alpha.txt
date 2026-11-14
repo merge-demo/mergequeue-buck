@@ -7321,7 +7321,7 @@ arzava
 alembicate
 aerobating
 antipetalous
-ankylosed
+ankylosed 1
 adlegiare
 archlecher
 appropriative
