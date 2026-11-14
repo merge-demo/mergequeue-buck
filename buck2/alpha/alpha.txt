@@ -14877,7 +14877,7 @@ asway
 anticipant
 alveolary
 anticipatable 1
-anodic
+anodic 1
 anomorhomboidal
 anticipates
 azoxy
