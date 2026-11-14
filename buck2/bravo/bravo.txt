@@ -13243,7 +13243,7 @@ boanergean
 bosselation 1
 bolti
 barysphere
-buffbar
+buffbar 1
 bedevil
 broadest
 bogomil
