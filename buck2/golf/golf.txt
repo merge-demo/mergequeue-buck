@@ -1986,7 +1986,7 @@ glut
 gripes 1
 grudged
 ghastlier
-guttable
+guttable 1
 gonif
 galician
 goschens
