@@ -20745,7 +20745,7 @@ ambach
 artificialism
 amesaces 1
 artificialities
-artillery
+artillery 1
 artilleries
 avodire
 achillein
