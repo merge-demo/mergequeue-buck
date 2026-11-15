@@ -7299,7 +7299,7 @@ beachlamar
 buccolingual
 brazera 1
 bufidin
-bursters
+bursters 1
 borides
 betear
 betel
