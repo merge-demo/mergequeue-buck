@@ -6528,7 +6528,7 @@ despert
 dekameter 1
 diffracting
 deschool
-dirtbird
+dirtbird 1
 dreggily
 distomiasis
 discourages
