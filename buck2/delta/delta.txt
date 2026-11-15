@@ -4675,7 +4675,7 @@ dimissory 1
 disproved
 dapple
 dreamsiness
-disintoxicate
+disintoxicate 1
 demythologization
 diplomatize
 demythologizer
