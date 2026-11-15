@@ -27,7 +27,7 @@ babbitted 1
 beshell
 beneceptive
 baccies
-baptises
+baptises 1
 berreave
 beatificate
 berline
