@@ -3724,7 +3724,7 @@ ephemerons
 echelette
 exhaustivity
 egoistry
-embrittle
+embrittle 1
 enfranchised
 echinochrome
 escobilla
