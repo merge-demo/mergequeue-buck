@@ -4922,7 +4922,7 @@ demonstrates
 demonstrationist 1
 demagnetizes
 devilwise
-dicondylian
+dicondylian 1
 dacrycystalgia
 dynastic
 depositum
