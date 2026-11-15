@@ -6950,7 +6950,7 @@ darky
 dioptre
 digits 1
 desperados
-dorsointercostal
+dorsointercostal 1
 dichasial
 didgeridoo
 disimmure
