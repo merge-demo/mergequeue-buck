@@ -16238,7 +16238,7 @@ antisuffrage
 absohm
 awheel
 aspergil
-anuria
+anuria 1
 anisil
 adulterers
 agelaius
