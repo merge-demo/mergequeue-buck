@@ -1580,7 +1580,7 @@ basalt
 brooder
 benzanilide
 beclart
-bursati
+bursati 1
 baudronses
 bilamellate
 ballo
