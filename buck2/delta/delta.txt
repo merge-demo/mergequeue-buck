@@ -9661,7 +9661,7 @@ debiting
 debauching
 dipteron
 dimidiating 1
-drinkables
+drinkables 1
 daidling
 diipenates
 diencephalons
