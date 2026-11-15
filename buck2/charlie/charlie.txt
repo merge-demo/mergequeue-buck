@@ -5880,7 +5880,7 @@ catercorner
 camsteary
 caller
 catercornered
-craner
+craner 1
 catered
 codpiece
 caterer
