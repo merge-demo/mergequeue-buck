@@ -18893,7 +18893,7 @@ csnet
 countermoving
 cornulite
 collabent
-collaborates
+collaborates 1
 collaborating
 celibataire
 collaborationists
