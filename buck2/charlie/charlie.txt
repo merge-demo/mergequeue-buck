@@ -25400,7 +25400,7 @@ corniced
 collaud
 creamery
 centrifuged
-coarsish
+coarsish 1
 crotcheted
 cornicles
 corniculer
