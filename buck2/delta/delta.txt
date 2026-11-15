@@ -12182,7 +12182,7 @@ disfeaturement
 dialogised
 declensional
 decertifying
-depressible
+depressible 1
 dejections
 disfigure
 draughter
