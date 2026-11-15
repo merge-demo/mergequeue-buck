@@ -3080,7 +3080,7 @@ enshrine
 equilater
 emetia 1
 exhaustible
-equated
+equated 1
 excreters
 eardrop
 ellfish
