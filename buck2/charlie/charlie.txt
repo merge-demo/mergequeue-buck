@@ -5356,7 +5356,7 @@ castaways
 casted
 crankled
 creditabilities
-criminol
+criminol 1
 casteisms
 concessive
 casteless
