@@ -1470,7 +1470,7 @@ calisthenics
 calite
 calyx
 coecal
-continents
+continents 1
 careening
 calkers
 chowse
