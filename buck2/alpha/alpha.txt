@@ -1442,7 +1442,7 @@ atocha
 anagignoskomena
 acclaimer
 afterwrist
-acclamator
+acclamator 1
 acclimatable
 autecologically
 acclimatement
