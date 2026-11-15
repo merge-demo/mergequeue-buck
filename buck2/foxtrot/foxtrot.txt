@@ -4712,7 +4712,7 @@ fancify 1
 fizziest
 friand
 fluidram
-forefeels
+forefeels 1
 forlese
 fucales
 fathomless
