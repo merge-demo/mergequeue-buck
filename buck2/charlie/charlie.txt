@@ -5049,7 +5049,7 @@ carves 1
 carvestrene
 carving
 curses
-carvoeira
+carvoeira 1
 carvoepra
 carwash
 clamatorial
