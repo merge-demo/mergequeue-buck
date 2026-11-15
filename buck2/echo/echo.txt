@@ -2849,7 +2849,7 @@ elymi
 eliza
 eosins
 europhium
-eagre
+eagre 1
 escars
 elephantoid
 elephantoidal
