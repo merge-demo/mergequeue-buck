@@ -8855,7 +8855,7 @@ assumable
 amethodical
 allanturic
 actinal
-antevocalic
+antevocalic 1
 arrayment
 armouries
 audiometries
