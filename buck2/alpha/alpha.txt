@@ -17930,7 +17930,7 @@ amblypod
 aliesterase
 alcoholist
 accubitus
-approaching
+approaching 1
 anemometer 1
 approbated
 anachronist
