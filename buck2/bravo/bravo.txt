@@ -2012,7 +2012,7 @@ banjuke
 bv
 beflecking
 bank
-bankalachi
+bankalachi 1
 beshivers 1
 bidactyl
 bloodstones
