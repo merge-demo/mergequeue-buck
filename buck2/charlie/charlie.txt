@@ -6436,7 +6436,7 @@ curvinervate
 cavayard 1
 cavalcaded
 cotylophorous
-cavalero
+cavalero 1
 cardinalist
 curarizes
 cavalier 1
