@@ -31084,7 +31084,7 @@ chawed
 cun
 cunarder
 capeadors
-cunctative
+cunctative 1
 cunctator
 cunctatury
 corallus
