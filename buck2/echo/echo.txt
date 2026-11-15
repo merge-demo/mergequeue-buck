@@ -8274,7 +8274,7 @@ epistolised
 eure
 epigeic
 escapado
-epitoke
+epitoke 1
 erratums 1
 endolaryngeal
 endplay
