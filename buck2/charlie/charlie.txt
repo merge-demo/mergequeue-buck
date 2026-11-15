@@ -6618,7 +6618,7 @@ ceboids
 chondritis
 ceratitic
 creesh
-cebollite
+cebollite 1
 cebur
 cecal
 checkmated
