@@ -125,7 +125,7 @@ exanthemata
 enantiomorphous 1
 engaol
 enigmatized
-ethnological
+ethnological 1
 exterminable
 evolate
 erosionist
