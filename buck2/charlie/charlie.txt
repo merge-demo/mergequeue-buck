@@ -14318,7 +14318,7 @@ connectivity
 circumscribable
 condescend
 circumscribed
-collapsed
+collapsed 1
 circumsession
 circumsinous 1
 circumsolar
