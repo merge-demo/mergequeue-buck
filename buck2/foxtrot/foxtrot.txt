@@ -998,7 +998,7 @@ fontanges
 filmsets 1
 foreshop
 fulmina
-fucuses
+fucuses 1
 foreplan
 formate
 foreorder
