@@ -1115,7 +1115,7 @@ guillotining 1
 gwyniad
 grivet
 granet 1
-giddier
+giddier 1
 gesith
 grotesco
 grope
