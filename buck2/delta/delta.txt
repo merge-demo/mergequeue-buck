@@ -12136,7 +12136,7 @@ deescalates
 dorbie
 disparager
 delusion 1
-dognaps
+dognaps 1
 dysesthesia
 disestimation
 deferential
