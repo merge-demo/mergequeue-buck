@@ -5479,7 +5479,7 @@ deuterostomatous 1
 dissipates
 dyakisdodecahedron
 deoxycorticosterone
-dandically
+dandically 1
 dismounting
 diprotodontia
 dreadlessly
