@@ -12462,7 +12462,7 @@ chamaenerion
 candelabra
 cerebralize
 chromoleucite
-chromolipoid
+chromolipoid 1
 clayen
 choleinic
 clarioned
