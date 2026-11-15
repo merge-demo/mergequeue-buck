@@ -1690,7 +1690,7 @@ eddoes
 elaioleucite
 eyebright 1
 electrotheraputics
-extemporaneous
+extemporaneous 1
 eyecup
 emollescence
 experimently
