@@ -6105,7 +6105,7 @@ dictyostele
 diatheses
 decompound
 dizened
-deraigning
+deraigning 1
 divest
 dispirits
 derailing
