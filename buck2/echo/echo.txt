@@ -5002,7 +5002,7 @@ earthgall
 exencephalia
 ebonises
 exiguous
-essentia
+essentia 1
 exul
 effuses 1
 enschedule
