@@ -350,7 +350,7 @@ disinsection
 dropling
 daybreaks
 diplostichous
-dreamt
+dreamt 1
 daygoing
 desiccation
 daiker
