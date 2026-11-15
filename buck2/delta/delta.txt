@@ -6783,7 +6783,7 @@ demultiplex
 demoniacal
 daeva 1
 drafts
-detachments
+detachments 1
 desinence
 desinent
 dallying
