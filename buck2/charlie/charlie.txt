@@ -4383,7 +4383,7 @@ carinae
 carinal
 cavum
 carinas
-chrysene
+chrysene 1
 carinate
 carinated
 chologenetic
