@@ -12594,7 +12594,7 @@ embrawn
 epsomite
 etymologist 1
 euphon
-ethion
+ethion 1
 eunuchry
 exocoelar
 exocoele
