@@ -18470,7 +18470,7 @@ aclidian
 appetent
 arteriogram
 acquirements
-aruspices
+aruspices 1
 aljamado
 abracadabra
 antitobacco
