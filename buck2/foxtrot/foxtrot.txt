@@ -4196,7 +4196,7 @@ flickertail
 fishet 1
 fibrocaseous
 foliating
-foliar
+foliar 1
 fanions
 flummadiddle
 federals
