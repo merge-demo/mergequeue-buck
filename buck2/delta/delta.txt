@@ -13652,7 +13652,7 @@ dequantitate
 diedral
 dissimilate
 depletion
-disacquaintance
+disacquaintance 1
 dissimilative 1
 dangered
 decentralizationist
