@@ -2319,7 +2319,7 @@ fens
 fluctuates
 furrowless
 frangipane
-fritter 1
+fritter 2
 fensive
 faulkland
 favoring
