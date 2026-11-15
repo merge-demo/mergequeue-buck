@@ -7615,7 +7615,7 @@ edelweiss
 epiclinal
 ecstaticize
 enteric 1
-epicoele
+epicoele 1
 elkesaite
 extolment
 espinos
