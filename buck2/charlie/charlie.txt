@@ -3618,7 +3618,7 @@ caraboid
 carabus 1
 caracara
 carack
-caracks
+caracks 1
 cumanagoto
 curtaxe
 caracol
