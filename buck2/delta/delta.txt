@@ -10568,7 +10568,7 @@ davach
 dermatomycosis
 digammate
 dashiki
-denote
+denote 1
 dislikes
 disequilibrium
 disslander
