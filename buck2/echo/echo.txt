@@ -10754,7 +10754,7 @@ excystation
 extrasystolic
 elderbush 1
 euphonic
-enid
+enid 1
 ephemerae
 enclaret
 endorsee

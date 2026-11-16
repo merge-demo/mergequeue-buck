@@ -7214,7 +7214,7 @@ gape
 gorgosaurus
 galenism 1
 gorillalike
-gamesters
+gamesters 1
 grimliness
 gloze
 grater
