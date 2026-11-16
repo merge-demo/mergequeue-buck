@@ -2811,7 +2811,7 @@ gazettal
 grigris
 gormless
 glottalite
-gloiopeltis 1
+gloiopeltis 2
 gentiobiose
 guardianess
 gait
