@@ -4099,7 +4099,7 @@ eugenical
 electrotonize 1
 emil
 entries
-ethmophysal
+ethmophysal 1
 entoilment
 emplaster
 enantiomer
