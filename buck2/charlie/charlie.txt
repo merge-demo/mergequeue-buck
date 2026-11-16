@@ -2371,7 +2371,7 @@ compliments
 canapina
 canards
 canari
-canary
+canary 1
 crowberry
 cogs
 companator
