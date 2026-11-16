@@ -3415,7 +3415,7 @@ greenwing
 gulpiest
 greco
 gynaeolatry 1
-gerontotherapy
+gerontotherapy 1
 gibraltar
 galleting
 gyromancy
