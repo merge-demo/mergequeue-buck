@@ -6999,7 +6999,7 @@ entreatful
 eclipsing
 endjunk
 entreaties
-excavatorial
+excavatorial 1
 enfuddle
 eager
 entreats
