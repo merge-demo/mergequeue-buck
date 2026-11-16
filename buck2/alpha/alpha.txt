@@ -6153,7 +6153,7 @@ agnatical
 amoreuxia
 addressor
 antistaphylococcic
-abatable
+abatable 1
 agnation
 azotised
 aus
