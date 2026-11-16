@@ -4228,7 +4228,7 @@ externship
 emptor
 eccyclema
 eggeater 1
-evagination
+evagination 1
 emotionalize
 extrathecal
 emprizes
