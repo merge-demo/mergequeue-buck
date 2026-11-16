@@ -2581,7 +2581,7 @@ escapeful
 ethchlorvynol 1
 everest
 evaporator
-enhaloed
+enhaloed 1
 eliasite
 embryonate
 epitomising
