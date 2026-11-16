@@ -7612,7 +7612,7 @@ gripsack 1
 gigolo 1
 gerenda
 garpike
-gilbertite
+gilbertite 1
 gubernacula
 glacialist
 gracefuller
