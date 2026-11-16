@@ -3491,7 +3491,7 @@ gilts
 grudger
 gynandromorphism
 gemul 1
-gewgawry
+gewgawry 1
 gyrfalcon
 gigantological
 gestatory
