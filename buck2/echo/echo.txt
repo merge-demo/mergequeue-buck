@@ -13789,7 +13789,7 @@ entomogenous
 elachista
 ethnicism
 exacuate
-egyptologist
+egyptologist 1
 extortions
 establishmentarianism
 extortive
