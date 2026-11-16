@@ -6413,7 +6413,7 @@ benzopyrylium 1
 backcourt
 breastweed
 bluestem
-benzoquinoxaline
+benzoquinoxaline 1
 balau
 benzosulfimide
 biophysiologist

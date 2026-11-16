@@ -4814,7 +4814,7 @@ enneahedra
 electroionic
 etymologize 1
 executioners
-eventides
+eventides 1
 encolour
 excrementitiousness
 encolpia
