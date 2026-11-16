@@ -3517,7 +3517,7 @@ fraternity
 fleches 1
 falcones
 fastigiate
-futtock 1
+futtock 2
 fulgorid
 fusicladium
 figurer
