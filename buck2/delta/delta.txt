@@ -16351,7 +16351,7 @@ downslip
 decibel
 downslope
 disappendancy
-desmognathism 1
+desmognathism 2
 devout
 douras
 dispersal
