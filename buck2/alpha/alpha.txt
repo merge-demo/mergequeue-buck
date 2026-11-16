@@ -3127,7 +3127,7 @@ actins
 abstractness 1
 archigonocyte
 ascendance
-antimonous
+antimonous 1
 action
 albiflorous
 antagonizer
