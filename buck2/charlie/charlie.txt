@@ -19548,7 +19548,7 @@ columbaria
 columbaries
 clours
 columbate
-columbeion
+columbeion 1
 climath
 columbiad
 columbid
