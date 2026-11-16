@@ -21634,7 +21634,7 @@ cocciform
 calcaneofibular
 condiction
 chosing
-condictious
+condictious 1
 condiddle
 cynocephalic
 cooly
