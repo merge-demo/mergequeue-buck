@@ -414,7 +414,7 @@ ebriose
 elumbated
 entrenching
 extruct
-erythrinus
+erythrinus 1
 espanol
 echowise
 ebulliate
