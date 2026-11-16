@@ -20891,7 +20891,7 @@ compradore
 comprecation
 compregnate
 coart
-cosmognosis
+cosmognosis 1
 colonnades
 carbarn
 cheesiness
