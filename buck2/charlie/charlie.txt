@@ -9596,7 +9596,7 @@ cheekiness
 cheeking
 claustrophobiac
 cheekless
-cheeney
+cheeney 1
 cheep
 courtierism
 cheeped
