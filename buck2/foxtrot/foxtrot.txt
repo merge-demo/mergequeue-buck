@@ -10749,7 +10749,7 @@ frutage
 faithlessly
 footraces 1
 frutex
-fruticetum
+fruticetum 1
 fecklessness
 foreinclined
 fileting
