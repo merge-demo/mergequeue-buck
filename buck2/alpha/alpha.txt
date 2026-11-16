@@ -10737,7 +10737,7 @@ antaphrodisiac
 agrammaphasia
 alevins
 anthophorous
-amire
+amire 1
 anthracometric
 amyris
 abattis
