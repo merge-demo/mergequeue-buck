@@ -3739,7 +3739,7 @@ chromoxylography
 caravanserial
 companeros
 caravel
-confuse
+confuse 1
 caravels
 cosen
 caraway
