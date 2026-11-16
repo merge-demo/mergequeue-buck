@@ -9822,7 +9822,7 @@ fennoman
 freudist
 foretrysail 2
 friar
-fremitus
+fremitus 1
 filchingly
 fellated
 firings
