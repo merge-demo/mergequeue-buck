@@ -10779,7 +10779,7 @@ deportee
 dipterocarpous
 dipterocarpus
 delay 1
-divas
+divas 1
 dependent
 dipterus
 dotterel
