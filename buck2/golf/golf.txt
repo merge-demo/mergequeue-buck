@@ -1977,7 +1977,7 @@ garnishments
 glamor
 gallamine
 gnomonical
-gimbal
+gimbal 1
 geology
 geranic
 goring
