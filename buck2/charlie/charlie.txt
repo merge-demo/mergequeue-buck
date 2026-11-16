@@ -26047,7 +26047,7 @@ coshers
 cholralosed
 coshes
 coshing
-cosy
+cosy 1
 caulicule
 cosie
 cosier
