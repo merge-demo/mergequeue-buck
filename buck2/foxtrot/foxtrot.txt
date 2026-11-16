@@ -4834,7 +4834,7 @@ firepower
 flinthead 1
 fleay
 fainer
-foil
+foil 1
 finlet
 fatagaga
 factorylike
