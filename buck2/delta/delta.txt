@@ -396,7 +396,7 @@ divineness
 dehydrogenization
 dainchas 1
 daynet
-dihalid
+dihalid 1
 dainteous
 dainty
 decentralise
