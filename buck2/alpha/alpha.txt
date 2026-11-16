@@ -19856,7 +19856,7 @@ agnoetae
 attributives
 abhenries 1
 armiger
-aweto
+aweto 1
 armigeros
 armigerous
 autotomized
