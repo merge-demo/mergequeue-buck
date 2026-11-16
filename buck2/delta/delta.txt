@@ -10628,7 +10628,7 @@ dysporomorph
 drawfile 1
 diphtheritic
 diplonema 1
-deuteric
+deuteric 1
 detritus
 dunnaged
 diplont
