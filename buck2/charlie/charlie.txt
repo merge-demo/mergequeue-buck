@@ -1377,7 +1377,7 @@ counterband
 calicut
 calid
 calydonian
-chaped
+chaped 1
 coquetted
 caliduct
 calif
