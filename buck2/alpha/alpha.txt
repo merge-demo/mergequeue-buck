@@ -13632,7 +13632,7 @@ anatomist
 addressee
 anodically 1
 anodyne
-anaphroditous
+anaphroditous 1
 anodized
 abaisance
 anodizes
