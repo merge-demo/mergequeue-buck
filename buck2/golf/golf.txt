@@ -403,7 +403,7 @@ galatea
 galateas
 glucogenesis 1
 galbula
-gelding
+gelding 1
 glidewort
 gimleted
 galaxes
