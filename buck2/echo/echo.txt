@@ -13252,7 +13252,7 @@ explicanda
 enneacontahedral
 explicate 1
 enterectomies
-exult
+exult 1
 evasiveness 1
 entomological
 equiliria
