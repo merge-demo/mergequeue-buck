@@ -16339,7 +16339,7 @@ biovular
 beflower
 bowels
 broadswords
-bicarb
+bicarb 1
 bleatingly
 bdft
 bothies 1
