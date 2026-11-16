@@ -3377,7 +3377,7 @@ bootable
 brythonic
 baculum
 benzilic
-bassanite
+bassanite 1
 biotechnics
 bassetta
 blockbuster
