@@ -568,7 +568,7 @@ falling
 flichtering
 faradized
 famine
-fussed
+fussed 1
 folklorism
 forjudger
 falloff
