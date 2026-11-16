@@ -11053,7 +11053,7 @@ chisled
 clarkeites
 conichalcite
 chistka
-chit
+chit 1
 chitak
 cordoba
 chuckled
