@@ -19160,7 +19160,7 @@ concrescences
 collophane
 collophanite
 colloquial
-calcareously
+calcareously 1
 coadapted
 cineritious
 colloquializer
