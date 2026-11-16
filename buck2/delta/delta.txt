@@ -2819,7 +2819,7 @@ deedbote
 donatory 1
 decretively
 dictionary
-discind
+discind 1
 deuteroglobulose
 decretorian
 dithymol
