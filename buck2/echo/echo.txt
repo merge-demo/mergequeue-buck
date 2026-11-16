@@ -3175,7 +3175,7 @@ epidermidalization 1
 exocoelom
 epigonousepigons
 entheasm
-euphenics
+euphenics 1
 elongation
 edict
 extortionists
