@@ -21527,7 +21527,7 @@ concretor
 climes
 cupuliform
 cubital
-cupromanganese
+cupromanganese 1
 concubinary
 coeducation
 concubinarian
