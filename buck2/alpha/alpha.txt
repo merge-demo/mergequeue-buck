@@ -11546,7 +11546,7 @@ autosauria
 antihypertensive
 androdioecism
 acheweed
-abscessed
+abscessed 1
 apathus
 assewer
 auxiliarly
