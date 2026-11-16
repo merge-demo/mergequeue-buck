@@ -962,7 +962,7 @@ entailments
 emanator
 euchrone
 effronteries
-epencephalic
+epencephalic 1
 erythroblastotic
 enhearse
 eudiagnostic
