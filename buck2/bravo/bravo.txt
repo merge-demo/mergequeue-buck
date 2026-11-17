@@ -6853,7 +6853,7 @@ bigener 1
 buicks
 bioluminescent
 bescourge
-baboos
+baboos 1
 buckeroos 1
 bust
 bescramble
