@@ -7849,7 +7849,7 @@ aburst
 americomania
 adenology
 antimonopolist
-affecter
+affecter 1
 archimandrite
 accorders
 alecost
