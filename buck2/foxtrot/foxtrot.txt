@@ -8230,7 +8230,7 @@ fluidize 1
 floroscope
 fluidally
 forficula
-fathomableness
+fathomableness 1
 fetors
 ferrated
 forficulidae
