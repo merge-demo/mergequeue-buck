@@ -16573,7 +16573,7 @@ darwinian
 diplostemony 1
 dragline
 dragman
-durant
+durant 1
 dragoman
 dissimilarities
 diatonically
