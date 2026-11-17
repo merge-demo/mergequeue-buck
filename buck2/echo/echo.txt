@@ -9013,7 +9013,7 @@ erythric
 eteocretes
 edriophthalma
 erythrite 1
-emaciating
+emaciating 1
 enfeeblement
 echappee
 exponent
