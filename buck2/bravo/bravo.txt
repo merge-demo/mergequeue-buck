@@ -10298,7 +10298,7 @@ bladewise
 bladygrass
 baluchithere
 bisme
-blennostasis
+blennostasis 1
 biffs 1
 bucayo
 blae
