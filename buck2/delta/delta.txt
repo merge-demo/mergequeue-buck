@@ -3812,7 +3812,7 @@ describes 1
 diarrhoea
 drivelers
 disunities
-deigned
+deigned 1
 diwan
 durani 1
 dihalogen
