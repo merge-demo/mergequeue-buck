@@ -1340,7 +1340,7 @@ annealers
 alabamians
 accelerates 1
 alinotum
-accelerative
+accelerative 1
 aboiteaux
 adiaphanousness
 azote
