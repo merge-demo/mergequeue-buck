@@ -6566,7 +6566,7 @@ glaziest
 gemminess 1
 ganowanian
 gnatty
-grovelingly
+grovelingly 1
 gleditsia
 gandoura
 goumier
