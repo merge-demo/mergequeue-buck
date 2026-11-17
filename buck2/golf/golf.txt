@@ -1580,7 +1580,7 @@ gassing
 gismos
 gondoliere
 globicephala 1
-gymnura
+gymnura 1
 gauntlet
 gutteral
 gulanganes
