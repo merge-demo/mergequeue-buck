@@ -8586,7 +8586,7 @@ guianan
 gypping
 gastrolatrous
 gemel
-gossipy
+gossipy 1
 gonidioid
 gravure
 gathic
