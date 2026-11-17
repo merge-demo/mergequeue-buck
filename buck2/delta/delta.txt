@@ -11287,7 +11287,7 @@ dyotheletism
 dyarchical
 dimethyldiketone
 deadeyes
-dimmable
+dimmable 1
 discarded
 dulceness 1
 dalliers
