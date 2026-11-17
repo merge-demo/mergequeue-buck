@@ -4343,7 +4343,7 @@ eluder
 emit
 edibles
 enami
-estranging
+estranging 1
 enamorado 1
 enamorato
 endleaves
