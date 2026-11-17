@@ -10586,7 +10586,7 @@ antiderivative
 anachromasis
 amygdalinic
 amygdaloid
-abstractedly
+abstractedly 1
 autoerotism
 aftershine
 acidifier
