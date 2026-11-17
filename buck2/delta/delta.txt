@@ -15381,7 +15381,7 @@ demicivilized
 deipara
 dorical
 demoralisation 1
-digestif
+digestif 1
 domiciled
 dissipator
 dearn
