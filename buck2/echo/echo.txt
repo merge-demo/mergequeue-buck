@@ -6337,7 +6337,7 @@ ens
 emmenagogue
 elenchtic
 ensanguine
-eloquent
+eloquent 1
 enlargingly
 emporium
 ergotin
