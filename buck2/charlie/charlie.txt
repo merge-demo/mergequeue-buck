@@ -17620,7 +17620,7 @@ catamite
 coxofemoral
 coccosteid
 conducibleness
-cisalpinism
+cisalpinism 1
 curstly
 creativeness
 coccosteus
