@@ -11194,7 +11194,7 @@ droich
 devocalise
 dazingly 1
 dratted
-disbelieves
+disbelieves 1
 disavowals
 doughfeet
 dendropogon
