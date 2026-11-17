@@ -15059,7 +15059,7 @@ desmic
 delightable
 dimply 1
 doggish
-doggishness
+doggishness 1
 doggle
 drownings
 doggo
