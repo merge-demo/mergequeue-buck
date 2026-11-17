@@ -13712,7 +13712,7 @@ boused
 balija
 bouldery
 bouser 2
-bousouki
+bousouki 1
 bousoukia 1
 brunswick
 boustrophedon
