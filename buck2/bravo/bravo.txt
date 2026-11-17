@@ -2323,7 +2323,7 @@ blatancies
 bromite
 briber
 barbita
-barbital
+barbital 1
 brighteners
 barbiton
 bloodworm
