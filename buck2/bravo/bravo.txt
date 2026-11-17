@@ -11549,7 +11549,7 @@ beatifying
 basotho
 beauteously
 borane
-blurriness 1
+blurriness 2
 bloodlust
 blurringly
 blurter
