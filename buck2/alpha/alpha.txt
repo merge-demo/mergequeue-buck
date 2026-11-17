@@ -24220,7 +24220,7 @@ automates 1
 agronomist
 aphetism
 argumentative
-automaticity
+automaticity 1
 aperu
 antidogmatically
 automatin
