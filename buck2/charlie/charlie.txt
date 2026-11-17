@@ -12971,7 +12971,7 @@ cyanine
 commemorators
 chaldrons
 contingent
-cyanitic
+cyanitic 1
 columnating
 cretonnes
 cyanize
