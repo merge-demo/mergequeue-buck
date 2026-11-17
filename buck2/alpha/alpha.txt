@@ -3274,7 +3274,7 @@ amyloids
 acutances 1
 anisoptera
 adornos
-acute
+acute 1
 acutely
 ascomycetal
 acutest
