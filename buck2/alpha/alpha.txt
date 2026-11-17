@@ -19205,7 +19205,7 @@ ardellae
 ardency
 abenteric
 ascogonium
-anisopetalous
+anisopetalous 1
 acervative
 anchoritic
 accidency
