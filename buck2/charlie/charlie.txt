@@ -5762,7 +5762,7 @@ cate
 catechesis
 catechetic
 congenator
-chapatti 1
+chapatti 2
 cottony
 concinnating
 catechin
