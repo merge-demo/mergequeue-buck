@@ -31451,7 +31451,7 @@ curragh 1
 clearminded
 centavo
 currajong
-currans
+currans 1
 currant
 completions
 chresards
