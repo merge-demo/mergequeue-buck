@@ -18664,7 +18664,7 @@ cointerest 1
 cointerred
 cointerring
 cointersecting
-cointreau
+cointreau 1
 coinvolve
 coyo
 coyol
