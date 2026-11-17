@@ -12562,7 +12562,7 @@ bonk
 begrudging
 bagpiping
 bonne
-bubbly
+bubbly 1
 bonnet
 brachelytra
 bonnethead
