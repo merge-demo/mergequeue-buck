@@ -13563,7 +13563,7 @@ decussation
 dissension
 dichotomising 1
 dogmatisation
-dyas
+dyas 1
 dissensualize
 dissentation
 dissented
