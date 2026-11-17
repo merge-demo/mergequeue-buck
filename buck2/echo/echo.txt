@@ -1928,7 +1928,7 @@ endearance
 euhemerized
 excite
 evertebral
-envenomed
+envenomed 1
 erotogeneses
 ecdysial
 ejaculations
