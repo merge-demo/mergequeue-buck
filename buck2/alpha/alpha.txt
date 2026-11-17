@@ -1080,7 +1080,7 @@ abune
 acromimia
 ausubo
 aburton
-artemisia
+artemisia 1
 atestine
 amphioxidae
 abused
