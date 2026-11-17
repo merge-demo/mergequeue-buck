@@ -14722,7 +14722,7 @@ antibilious
 antibiont
 antibiosis 1
 anaglyphic
-antibiotic
+antibiotic 1
 antimonopolism
 acousmatic
 antibiotically
