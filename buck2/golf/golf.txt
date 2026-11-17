@@ -4974,7 +4974,7 @@ growze
 gauziest
 ganancias
 goldic
-gymnogen
+gymnogen 1
 gawker 1
 galling
 glew
