@@ -3043,7 +3043,7 @@ ecblastesis 1
 enraging
 exhortatory
 elixiviate
-excerptor
+excerptor 1
 ensheathes
 epiphenomenal
 esophagoscope
