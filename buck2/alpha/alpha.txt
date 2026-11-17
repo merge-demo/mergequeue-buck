@@ -2461,7 +2461,7 @@ acnemia
 argumentum 1
 adiaphoral
 acnes
-amperemeter
+amperemeter 1
 acnida
 arabizes
 airily
