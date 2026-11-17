@@ -1458,7 +1458,7 @@ faubourgs 1
 focussing
 fistulose
 featly
-faulds
+faulds 1
 faultfind
 fasciculite
 flittern
