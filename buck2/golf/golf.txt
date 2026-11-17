@@ -7708,7 +7708,7 @@ girning
 galvanized
 gunpowderous
 globus
-geomyid
+geomyid 1
 grizzliest
 goldworker
 gamins
