@@ -16947,7 +16947,7 @@ aplace
 aplacentaria
 anton
 aminization
-aftertan
+aftertan 1
 affectedness
 angliae
 amphorette
