@@ -575,7 +575,7 @@ falloff
 flamier 1
 fdubs
 frequentative
-frappe
+frappe 1
 feeblish
 funerate
 fenugreek 1
