@@ -17983,7 +17983,7 @@ claymores
 coelom
 coeloma
 coelomata
-companies
+companies 1
 conservatrix
 coelomatous
 coelome
