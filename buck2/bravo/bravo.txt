@@ -17804,7 +17804,7 @@ bursae
 bursary
 bassine
 backstroked
-bacterizing 1
+bacterizing 2
 brave
 banghy
 begani
