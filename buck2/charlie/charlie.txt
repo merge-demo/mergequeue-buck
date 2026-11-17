@@ -8672,7 +8672,7 @@ chantership
 chanteur
 chanteuse
 chanticleer
-chanticleers
+chanticleers 1
 chantier
 curiousness
 capreomycin
