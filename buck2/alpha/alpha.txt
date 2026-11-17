@@ -19585,7 +19585,7 @@ aryanism
 askari 1
 arianist
 arianistic
-ampullaceous
+ampullaceous 1
 alas
 affirmer
 antiphonies
