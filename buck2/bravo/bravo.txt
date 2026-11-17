@@ -12603,7 +12603,7 @@ beshag 1
 beaproned
 buttresses
 bonspiel 1
-bookbind
+bookbind 1
 boruca
 bronchocele
 beatniks
