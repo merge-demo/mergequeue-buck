@@ -228,7 +228,7 @@ fluorotype
 faculous
 firelock
 filibranch 1
-fermenting
+fermenting 1
 facultatively
 faculties
 faunistically
