@@ -18364,7 +18364,7 @@ claypan
 chenevixite
 conterminant 1
 cognac
-curdier
+curdier 1
 crookeries
 centime
 cognacs
