@@ -19140,7 +19140,7 @@ anisidin
 anaerobes
 accompany
 anthropogony
-antiars
+antiars 1
 antisepticize
 arclike
 arcocentrum
