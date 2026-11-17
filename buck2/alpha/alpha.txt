@@ -19855,7 +19855,7 @@ agnoetism
 agnoetae
 attributives
 abhenries 1
-armiger
+armiger 1
 aweto
 armigeros
 armigerous
