@@ -7992,7 +7992,7 @@ enterocholecystostomy
 evolutionary
 epineurium 1
 enormousness
-enclaving
+enclaving 1
 ergotinine
 endostea
 eczematization
