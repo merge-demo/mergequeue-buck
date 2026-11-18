@@ -1351,7 +1351,7 @@ dipentine
 demissive
 diploid
 draftsperson 1
-dompt 1
+dompt 2
 damagement
 dart
 dauntingness
