@@ -1353,7 +1353,7 @@ diploid
 draftsperson 1
 dompt 1
 damagement
-dart
+dart 1
 dauntingness
 discerners
 duelli
