@@ -1785,7 +1785,7 @@ grx
 guanine 1
 grouchiest
 gastropulmonic
-granitic
+granitic 1
 globously
 gambados
 guiba 1
