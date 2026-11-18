@@ -3092,7 +3092,7 @@ bonitas
 boithrin 1
 butylene
 basculation
-bulbils
+bulbils 1
 bromobenzyl
 bambuk
 blindfold
