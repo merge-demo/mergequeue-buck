@@ -4428,7 +4428,7 @@ antirevisionist
 awonder 1
 abductores
 ap
-adumbrating
+adumbrating 1
 adumbrations
 asthenias
 agrypnode
