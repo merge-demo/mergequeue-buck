@@ -16339,7 +16339,7 @@ admittable
 aperitive
 antiuratic
 antiurease
-acetazolamide
+acetazolamide 1
 autotrepanation
 anatexis
 autophytography
