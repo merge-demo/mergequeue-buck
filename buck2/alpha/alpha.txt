@@ -4004,7 +4004,7 @@ advect
 aphaeresis
 admerveylle
 admi
-anhydrously 1
+anhydrously 2
 apopemptic
 anticontagious
 apokatastasis
