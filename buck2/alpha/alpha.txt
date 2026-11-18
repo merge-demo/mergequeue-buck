@@ -10887,7 +10887,7 @@ ammonolytic
 aitches
 anticult
 allonymously 1
-amphib
+amphib 1
 afrits
 ammonolyzing
 athwarthawse
