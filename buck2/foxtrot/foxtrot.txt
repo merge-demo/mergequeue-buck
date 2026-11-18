@@ -6125,7 +6125,7 @@ faraway
 faciata
 flourish 1
 fermion
-fjorgyn
+fjorgyn 1
 foully
 freudians
 formamide
