@@ -8521,7 +8521,7 @@ autocoids
 astronautics
 actinotrocha
 atabal
-aborts
+aborts 1
 aphthae
 anabolin
 acheilia
