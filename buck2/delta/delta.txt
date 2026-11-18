@@ -9840,7 +9840,7 @@ dynamometamorphism
 diluvia
 disarmament
 disillusionizer
-deviancies
+deviancies 1
 dissected
 diamicton
 deadlines
