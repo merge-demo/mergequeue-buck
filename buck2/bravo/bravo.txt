@@ -6771,7 +6771,7 @@ busying
 berrichonne
 bosquet
 berrier 1
-berries
+berries 1
 bitterbur
 beaut
 buhls
