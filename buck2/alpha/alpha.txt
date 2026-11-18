@@ -8655,7 +8655,7 @@ apasttra
 adobes
 annulosan
 africanization
-alienee
+alienee 1
 archigenesis
 askeses
 australoid
