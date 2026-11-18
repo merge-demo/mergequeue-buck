@@ -14673,7 +14673,7 @@ baned 1
 brasils
 brasque
 bloc
-bullwhack
+bullwhack 1
 brassages
 brassard
 briefing
