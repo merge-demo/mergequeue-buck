@@ -24502,7 +24502,7 @@ civilizations
 compartmentation
 coparents
 caroigne
-copartiment
+copartiment 1
 circles
 commandrie
 copartnership
