@@ -5526,7 +5526,7 @@ departer 1
 devastated
 dehistoricize
 drama
-dematiaceous
+dematiaceous 1
 denotement
 directionality
 drought
