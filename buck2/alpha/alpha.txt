@@ -24766,7 +24766,7 @@ alitrunk
 aromadendrin
 alternators
 aviculturist
-antistrike
+antistrike 1
 avidin
 abacot
 angioasthenia
