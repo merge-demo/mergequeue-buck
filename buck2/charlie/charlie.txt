@@ -9188,7 +9188,7 @@ chassepots
 chiarooscurist
 chasseurs
 creatine
-chassignite
+chassignite 1
 coachful
 chastacosta
 chattel
