@@ -13974,7 +13974,7 @@ bozo
 basher
 bonesetter
 brittlest 1
-brontops
+brontops 1
 bismuthic
 bemeal
 brabanter
