@@ -12042,7 +12042,7 @@ chaunters
 champlev
 choruses
 chorusing
-chanceries
+chanceries 1
 crisp
 countermachination
 crusca
