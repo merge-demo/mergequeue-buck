@@ -689,7 +689,7 @@ gastronomer
 gallying
 gonfalon
 goniotropous
-gratillity 1
+gratillity 2
 gynandromorphous
 greeters
 gaspereaus
