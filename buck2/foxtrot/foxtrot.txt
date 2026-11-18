@@ -6144,7 +6144,7 @@ fecials
 flouted
 fulminations
 fretish
-frondigerous
+frondigerous 1
 fontinalaceae 1
 foxfish
 frustration 1
