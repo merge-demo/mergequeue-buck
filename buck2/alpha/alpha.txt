@@ -1230,7 +1230,7 @@ antiproductiveness
 acarapis
 asaphic
 acarari
-ardelia
+ardelia 1
 acarian
 apothece
 acarid
