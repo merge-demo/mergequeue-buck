@@ -1838,7 +1838,7 @@ foreign
 febricant 1
 frilly
 febricitant
-frictions
+frictions 1
 fore
 feastless
 febrific
