@@ -25183,7 +25183,7 @@ calorics
 corycavidine
 corydalin
 corydine
-consolate
+consolate 1
 corylaceae
 corylaceous
 corylus
