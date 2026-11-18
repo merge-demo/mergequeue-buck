@@ -19920,7 +19920,7 @@ arkansawyer
 armorican
 albescence
 adenofibrosis
-anagnorisis
+anagnorisis 1
 apperceived
 animalculism
 astrocytomata
