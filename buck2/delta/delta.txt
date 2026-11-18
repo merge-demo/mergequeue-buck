@@ -841,7 +841,7 @@ danielle
 dalbergia
 demonetizes
 demicylindrical
-delignate
+delignate 1
 danism
 disheartenment
 dreamtime
