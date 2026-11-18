@@ -3891,7 +3891,7 @@ dissect
 disp
 dyscrasite 1
 deerdog
-demihogshead
+demihogshead 1
 dewy
 damone
 deityship
