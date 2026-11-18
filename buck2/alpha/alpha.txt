@@ -5272,7 +5272,7 @@ acromiodeltoid
 affines
 arthron
 anthomedusae 1
-alemanni
+alemanni 1
 aggerate
 affinities
 affinition
