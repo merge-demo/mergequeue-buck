@@ -5053,7 +5053,7 @@ flaperon
 flippantly
 flappable
 frankalmoin
-flappet
+flappet 1
 fermions
 figlike
 fishline
