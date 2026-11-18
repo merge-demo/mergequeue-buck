@@ -6858,7 +6858,7 @@ buckeroos 1
 bust
 bescramble
 bescreen
-barit
+barit 1
 brutalize
 belleek
 beggarman
