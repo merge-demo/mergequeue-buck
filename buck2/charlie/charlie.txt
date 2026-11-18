@@ -23363,7 +23363,7 @@ cumulating
 colibert 1
 cleistothecium
 contagions
-contagiosity
+contagiosity 1
 contagiousness
 contagium
 contain
