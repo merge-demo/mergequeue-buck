@@ -10267,7 +10267,7 @@ everblooming
 ethiodide
 excides 1
 excluded
-epilogist
+epilogist 1
 enspangle
 effodientia
 elasticizer
