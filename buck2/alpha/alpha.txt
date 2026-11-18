@@ -17064,7 +17064,7 @@ aeolicism
 aerophotography
 agranulocyte
 apodal
-arvel
+arvel 1
 aphorism
 apodedeipna
 acrotarsium
