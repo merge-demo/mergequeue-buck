@@ -19512,7 +19512,7 @@ camoufleurs
 colporrhexis
 colportage
 colporter
-colporteurs
+colporteurs 1
 colposcopy
 crocodiles
 cornstook
