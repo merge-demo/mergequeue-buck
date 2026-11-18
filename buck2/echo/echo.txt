@@ -2981,7 +2981,7 @@ epistasy
 eligibles
 entrecotes
 equipede
-elbowchair
+elbowchair 1
 enjoining
 encephalopsychesis
 exister
