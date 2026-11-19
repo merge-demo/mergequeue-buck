@@ -13889,7 +13889,7 @@ bowline
 bombinating
 bacalaos
 baptizee
-bowsman
+bowsman 1
 botanomancy
 bows
 bootlessness
