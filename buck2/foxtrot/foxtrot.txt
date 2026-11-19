@@ -3442,7 +3442,7 @@ forwards 1
 frederica
 foreside
 fieriness
-fierte
+fierte 1
 fifed
 flerried 1
 frontals
