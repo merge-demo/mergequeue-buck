@@ -7251,7 +7251,7 @@ eohippuses
 electronegativity
 eoith
 eoiths
-entamebae
+entamebae 1
 eradicably
 enterally
 eolian
