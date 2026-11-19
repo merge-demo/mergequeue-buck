@@ -9248,7 +9248,7 @@ ejido 1
 engraftation
 errancies
 endospermous
-entrapments
+entrapments 1
 egressing
 electra
 exonerative
