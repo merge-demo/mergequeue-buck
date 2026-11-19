@@ -10669,7 +10669,7 @@ echolocation
 enarbor
 excrements
 ecrasite
-expeditate
+expeditate 1
 entwine 1
 excitory
 endocytosis
