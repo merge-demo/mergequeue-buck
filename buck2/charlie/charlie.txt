@@ -1940,7 +1940,7 @@ camelopards
 cotterite
 constant
 camelopardus
-cloghad
+cloghad 1
 counterflashing
 camelry
 camelus
