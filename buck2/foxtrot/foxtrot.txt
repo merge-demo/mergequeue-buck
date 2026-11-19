@@ -5668,7 +5668,7 @@ frumenties
 fibrine
 freckles
 funeration 1
-forbearant
+forbearant 1
 finite
 flancards 1
 friended
