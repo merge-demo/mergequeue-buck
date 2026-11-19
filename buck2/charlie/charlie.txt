@@ -16685,7 +16685,7 @@ calathian
 clothesbag
 clothesyard
 codesign
-clamberer
+clamberer 1
 cirrus
 clotheslines
 clothesman
