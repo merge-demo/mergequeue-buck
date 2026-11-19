@@ -21539,7 +21539,7 @@ asphyxied
 achlorhydric
 anticritique
 ampulating
-auricyanic
+auricyanic 1
 assuaged
 asialia
 aristarchies

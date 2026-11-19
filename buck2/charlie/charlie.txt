@@ -8873,7 +8873,7 @@ characterization
 characterizing
 characterless
 characterlessness
-characterology
+characterology 1
 coffle
 crosshead
 confirming
