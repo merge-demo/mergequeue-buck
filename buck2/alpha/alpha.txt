@@ -9441,7 +9441,7 @@ angiosclerotic
 autocinesis
 alterable
 acatery
-alterably
+alterably 1
 anchylose
 archaeocyte
 abetter
