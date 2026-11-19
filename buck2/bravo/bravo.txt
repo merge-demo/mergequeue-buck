@@ -1240,7 +1240,7 @@ barrowful
 bendy
 barleys
 bottomer 1
-brimmed
+brimmed 1
 bromochlorophenol
 bucketsful
 balaenidae
