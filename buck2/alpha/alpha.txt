@@ -8683,7 +8683,7 @@ almes
 alternationist
 allelomorphic
 allelotropy
-allelotropic
+allelotropic 1
 attendantly
 aldehydase
 allelotropism
