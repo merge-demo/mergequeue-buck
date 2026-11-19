@@ -6070,7 +6070,7 @@ exhusband
 elastin 1
 evittate
 eddaic
-enlargeable
+enlargeable 1
 eigenvectors
 echinorhinus
 eoanthropus
