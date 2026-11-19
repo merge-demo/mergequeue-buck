@@ -8475,7 +8475,7 @@ deciares
 demioctagonal
 dispatchers
 diametral
-diametric
+diametric 1
 diamide
 diamides
 descanter
