@@ -9731,7 +9731,7 @@ dermatoplastic
 deceive
 desugarize
 dudley
-diffracts
+diffracts 1
 days
 dilatedness
 dreamtide
