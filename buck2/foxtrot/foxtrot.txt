@@ -2636,7 +2636,7 @@ foreshoulder
 figuratively
 fastidious 1
 frumentation
-familiarisation
+familiarisation 1
 forcipulata
 farmyardy
 fabric
