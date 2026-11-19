@@ -17935,7 +17935,7 @@ anemometer 1
 approbated
 anachronist
 adorner
-approbating
+approbating 1
 approbations
 arghel
 approbative
