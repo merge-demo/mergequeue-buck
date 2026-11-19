@@ -5857,7 +5857,7 @@ gymnosporangium 1
 gynoecium
 glucate 1
 gorevan
-gibelite
+gibelite 1
 gastrostomies
 glucinums
 gangflower
