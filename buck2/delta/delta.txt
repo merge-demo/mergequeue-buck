@@ -10980,7 +10980,7 @@ dermococcus
 dayberry 1
 dissyllabising
 deepwaterman
-decapoda
+decapoda 1
 dulcinea
 disafforestment
 dispiece
