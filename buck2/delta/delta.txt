@@ -7470,7 +7470,7 @@ dodgery
 detrusion
 detumescence
 dynasticism
-deposal
+deposal 1
 detune
 detuning
 diastrophic
