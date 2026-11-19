@@ -2294,7 +2294,7 @@ almagest
 allogamous
 axminster
 aurigid
-adustiosis
+adustiosis 1
 adjournments
 azerbaijanese
 avives
