@@ -5202,7 +5202,7 @@ economists
 entocoele
 ergotist 1
 enterovirus
-eastings
+eastings 1
 electroballistician
 epilithic
 endogenae 1
