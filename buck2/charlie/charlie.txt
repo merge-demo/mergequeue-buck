@@ -2176,7 +2176,7 @@ corgi
 camphoroyl
 clerkliest
 camporee
-camphorone
+camphorone 1
 camphorweed
 camphorwood
 cotan
