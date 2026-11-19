@@ -3631,7 +3631,7 @@ antral
 arcade
 aggelation
 attic
-amerindian
+amerindian 1
 adenographical
 adenohypersthenia
 atry
