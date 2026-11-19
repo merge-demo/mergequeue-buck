@@ -16047,7 +16047,7 @@ doubloon
 doublures
 diaphote
 doaty
-dopinesses
+dopinesses 1
 doubters 1
 demi
 decorability
