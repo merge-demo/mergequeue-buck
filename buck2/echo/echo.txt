@@ -13604,7 +13604,7 @@ extraspinal
 extemporized 2
 escallonia
 emendation
-epencephal
+epencephal 1
 experientially
 esopgi
 englishwomen
