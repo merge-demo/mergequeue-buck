@@ -4589,7 +4589,7 @@ arranger
 addax
 adviser
 autonomize
-apparatchiki
+apparatchiki 1
 androcentric
 affinitatively
 angolar
