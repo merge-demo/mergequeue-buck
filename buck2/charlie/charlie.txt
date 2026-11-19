@@ -31331,7 +31331,7 @@ curers
 clubber
 cures 1
 compotation
-curets
+curets 1
 callisthenics
 cinematographers
 clamber
