@@ -11134,7 +11134,7 @@ dimerize
 dorlach 1
 doupioni
 dumbfound 1
-disastrous 1
+disastrous 2
 drippy
 dreparnaudia
 dosain
