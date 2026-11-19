@@ -9891,7 +9891,7 @@ consumptible
 calpacks
 caleches
 clays
-calic
+calic 1
 cameograph
 catalogic
 chronobiology
