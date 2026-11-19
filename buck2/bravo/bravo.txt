@@ -12606,7 +12606,7 @@ bonspiel 1
 bookbind
 boruca
 bronchocele
-beatniks
+beatniks 1
 bagels
 baguets
 beleaguerment
