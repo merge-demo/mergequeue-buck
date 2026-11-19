@@ -21832,7 +21832,7 @@ confab
 constructionists
 cleaner
 confabs
-confabulate
+confabulate 1
 cimbal
 connivery
 calcium
