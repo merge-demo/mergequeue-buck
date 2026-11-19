@@ -9004,7 +9004,7 @@ earing
 eves 1
 eunuchized
 etiolize
-equiponderous
+equiponderous 1
 ebcasc
 effund
 erythremia
