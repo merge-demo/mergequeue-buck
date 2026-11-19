@@ -7954,7 +7954,7 @@ gymnospermy
 glumness
 getmjlkost
 gametogonium
-glimmerite
+glimmerite 1
 gregaloid
 gyniolatry
 gloucester 1
