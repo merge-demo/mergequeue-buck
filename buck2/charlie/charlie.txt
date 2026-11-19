@@ -18661,7 +18661,7 @@ corporales
 cointensity
 cointer
 cointerest 1
-cointerred
+cointerred 1
 cointerring
 cointersecting
 cointreau
