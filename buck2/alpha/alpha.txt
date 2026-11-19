@@ -13198,7 +13198,7 @@ anteva
 animes
 alienship
 animi
-anabiosis
+anabiosis 1
 alchymy
 acoustical
 archbeacon
