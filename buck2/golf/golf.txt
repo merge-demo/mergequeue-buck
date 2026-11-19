@@ -9960,7 +9960,7 @@ gigadoid
 greably
 gritless 1
 guarrau
-gogglers
+gogglers 1
 glegness
 glyptic
 googols
