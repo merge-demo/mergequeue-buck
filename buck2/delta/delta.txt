@@ -7513,7 +7513,7 @@ deutencephalon
 dumfounding
 dehgan
 deuteranomaly
-deuteranope 1
+deuteranope 2
 deuterate
 deuteration
 denucleate
