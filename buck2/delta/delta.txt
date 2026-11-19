@@ -16932,7 +16932,7 @@ drearies
 danseuse
 desterilizing 1
 doohinkey
-defenses
+defenses 1
 dermatograph
 denaturize
 doorways
