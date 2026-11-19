@@ -12465,7 +12465,7 @@ enthronization 1
 elegiac
 enclosure
 exchequer
-entreaty
+entreaty 1
 emotionalism
 ependyme
 ext
