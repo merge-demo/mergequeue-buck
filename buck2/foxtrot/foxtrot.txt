@@ -1895,7 +1895,7 @@ fingerflower
 fontanelle
 fumbling
 fustilarian 1
-foism
+foism 1
 fruitless
 feta
 fleeceless
