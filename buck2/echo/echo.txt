@@ -6398,7 +6398,7 @@ euskarian
 egested
 eyemark
 ethmoids
-elaboration
+elaboration 1
 enrobed 1
 encrinitical
 epist
