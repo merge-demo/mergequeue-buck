@@ -13670,7 +13670,7 @@ dissymmetrically
 danseurs
 discoursive
 dissymmettric 1
-dissympathize
+dissympathize 1
 drupal
 dictatorialism
 diligency
