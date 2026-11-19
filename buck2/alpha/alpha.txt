@@ -14464,7 +14464,7 @@ anthratriol
 asymmetry
 anthraxylon
 anthrenus
-aphasia
+aphasia 1
 atwitch
 anthribidae 1
 antipharisaic
