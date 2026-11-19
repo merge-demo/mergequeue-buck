@@ -5919,7 +5919,7 @@ gilgames 1
 gewgawish
 grackle
 grogshops
-goofs
+goofs 1
 gambirs
 glamourizer
 gluepot
