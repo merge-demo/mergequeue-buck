@@ -31519,7 +31519,7 @@ cutaneous
 cursen
 conoclinium
 curser
-cursers
+cursers 1
 curship
 coadjuvant
 cornutin
