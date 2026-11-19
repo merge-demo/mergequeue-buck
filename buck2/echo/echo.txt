@@ -9571,7 +9571,7 @@ euglenineae
 ecotypes
 escapeless
 edestan
-ecphoria 1
+ecphoria 2
 expressing
 emigrated
 emptory
