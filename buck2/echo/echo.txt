@@ -10439,7 +10439,7 @@ evaluator
 eurypteroid
 eviscerated
 eloinment
-embryoniferous
+embryoniferous 1
 etymon 1
 ectocondyle
 equalities
