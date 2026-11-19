@@ -8111,7 +8111,7 @@ continent 1
 carcer
 chaffron
 clavicornia
-chaffs
+chaffs 1
 chaffseed
 costlessly
 carnifying
