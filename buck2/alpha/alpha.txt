@@ -15140,7 +15140,7 @@ antiempiric
 apothecia
 aggrandiser
 absents
-antiapoplectic
+antiapoplectic 1
 aquilon
 antienthusiastic
 afterfame

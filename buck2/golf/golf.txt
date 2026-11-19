@@ -1582,7 +1582,7 @@ gondoliere
 globicephala 1
 gymnura
 gauntlet
-gutteral
+gutteral 1
 gulanganes
 galleria
 gunlock
