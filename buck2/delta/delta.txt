@@ -3123,7 +3123,7 @@ dowering
 dipygus
 diseaseful
 daubing
-dentated
+dentated 1
 dislade 1
 defamed
 dilogical
