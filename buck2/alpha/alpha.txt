@@ -12809,7 +12809,7 @@ angioparesis
 ambassadorship
 awarder
 angiopathy
-agnosis
+agnosis 1
 aeneolithic
 angioplasty
 androgyn
