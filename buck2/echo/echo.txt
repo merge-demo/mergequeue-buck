@@ -8345,7 +8345,7 @@ eland
 eucarpic
 enslaved
 endocyemate
-epithetic
+epithetic 1
 effortlessness
 encumberingly
 epithetically 1
