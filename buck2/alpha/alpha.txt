@@ -13686,7 +13686,7 @@ anomalies
 anomaliped
 afferent
 avatar
-anomalism
+anomalism 1
 anomalist
 aromatite
 anomalistic
