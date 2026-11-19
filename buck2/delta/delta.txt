@@ -13504,7 +13504,7 @@ dustrag
 doubleleaf
 dinitrile 1
 dysphoria
-destain
+destain 1
 deadwood
 demiglobe
 dermatopathophobia
