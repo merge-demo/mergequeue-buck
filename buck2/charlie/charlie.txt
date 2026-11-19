@@ -10296,7 +10296,7 @@ cachoeira
 clactonian 1
 cyanidation
 circuting
-comfortable
+comfortable 1
 chickamauga
 chickasaw
 catechumenically
