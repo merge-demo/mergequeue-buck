@@ -20944,7 +20944,7 @@ ascaridae
 ascarides
 authoresses
 appertains
-adipometer
+adipometer 1
 altaic
 acclimated
 arter
