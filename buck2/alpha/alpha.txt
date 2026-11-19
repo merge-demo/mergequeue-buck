@@ -526,7 +526,7 @@ abjurers
 abkari
 amerism
 abkhasian
-ashtrays 1
+ashtrays 2
 abl
 asperities
 ablated
