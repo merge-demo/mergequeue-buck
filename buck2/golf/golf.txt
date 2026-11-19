@@ -7213,7 +7213,7 @@ geocratic
 gape
 gorgosaurus
 galenism 1
-gorillalike
+gorillalike 1
 gamesters
 grimliness
 gloze
