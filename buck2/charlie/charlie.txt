@@ -23595,7 +23595,7 @@ continuum
 contise
 compendiate
 cognoscenti 1
-contoise
+contoise 1
 contorniates
 castrater
 caboose
