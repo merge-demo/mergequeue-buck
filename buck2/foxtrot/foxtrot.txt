@@ -2922,7 +2922,7 @@ fantastical
 flutiest
 fanciable
 fumigations
-fortressing
+fortressing 1
 footmark
 frontogenesis
 flock
