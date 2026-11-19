@@ -19633,7 +19633,7 @@ affricative
 abwatts
 appending
 arillus
-ampere
+ampere 1
 aecioteliospore
 arils
 acmesthesia
