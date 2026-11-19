@@ -17452,7 +17452,7 @@ dopas
 delphacid
 desectionalize
 drouthier
-defame 1
+defame 2
 definitude
 datums
 deertongue
