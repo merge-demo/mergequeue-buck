@@ -25513,7 +25513,7 @@ craniometer
 cavitates
 coronagraph
 cataphonics
-controversionalism
+controversionalism 1
 confervous
 coronaled
 coronalled
