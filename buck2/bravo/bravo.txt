@@ -1108,7 +1108,7 @@ bairnly
 branky
 barkstone
 bromines 1
-bedimmed
+bedimmed 1
 boatload
 brindled
 bluethroat
