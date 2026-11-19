@@ -17943,7 +17943,7 @@ approbativeness
 absorbents
 apprompt
 aloud
-appropinquate
+appropinquate 1
 adactyl
 appropinquation
 amalgamation
