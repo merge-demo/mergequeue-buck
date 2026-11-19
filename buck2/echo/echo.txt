@@ -456,7 +456,7 @@ explicated
 engager
 escapements
 erf
-eunuchal
+eunuchal 1
 eveners
 enanthesis
 expediteness
