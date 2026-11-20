@@ -12863,7 +12863,7 @@ cutling
 cathodic
 chummily
 chilliwack
-curried
+curried 1
 churchwardenism
 columbines
 churchwardenize
