@@ -10685,7 +10685,7 @@ fibriform 1
 foretelling
 frumenty
 fungals
-footband
+footband 1
 fastidiously
 forecar
 finnier
