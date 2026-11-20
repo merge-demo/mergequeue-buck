@@ -3979,7 +3979,7 @@ exilarch 1
 embroglio
 empale 1
 empalers
-eyepit
+eyepit 1
 empall
 excurvation
 empanelling
