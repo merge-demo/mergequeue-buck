@@ -3583,7 +3583,7 @@ greekling
 glumella 1
 gourmandize
 galvanisation
-gausses
+gausses 1
 gharnao
 glossa
 gambolled
