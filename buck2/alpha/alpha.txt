@@ -14102,7 +14102,7 @@ ablegates
 archwench
 antemarginal
 aphodius
-ambiguous
+ambiguous 1
 airmail
 are
 airbill
