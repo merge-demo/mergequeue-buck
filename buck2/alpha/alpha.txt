@@ -10361,7 +10361,7 @@ aerobacteriology
 antihemoglobin
 academician
 aethers
-americanisms
+americanisms 1
 americanistic
 alhagi
 aftertax
