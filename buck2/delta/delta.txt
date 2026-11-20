@@ -8548,7 +8548,7 @@ dewbeam
 didacts
 diaphanometric 1
 dampishness
-debateful
+debateful 1
 daimonion
 dewfall
 diaphanously
