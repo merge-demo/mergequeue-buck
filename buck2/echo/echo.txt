@@ -7713,7 +7713,7 @@ epidemically
 exalt
 escurialize
 evidentiary
-erythrine
+erythrine 1
 enfevered 1
 epidemiography
 elytroplastic
