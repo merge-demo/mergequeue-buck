@@ -2137,7 +2137,7 @@ globosity 1
 gaudete
 graced
 glycoluric
-gazellelike
+gazellelike 1
 gaviae
 gentianaceae
 goodyism
