@@ -9745,7 +9745,7 @@ enodal
 equisonance
 everyplace
 eddo
-emerick
+emerick 1
 enneahedron
 euhedral
 ectogenesis
