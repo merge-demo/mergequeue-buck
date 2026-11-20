@@ -16573,7 +16573,7 @@ cloned
 cloner
 clanning
 caps
-collateralize
+collateralize 1
 contraparallelogram
 complicities
 clonic
