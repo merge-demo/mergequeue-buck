@@ -2498,7 +2498,7 @@ gaucher
 golds
 gradienter 1
 gotch
-glunches
+glunches 1
 geyan
 gastroalbuminorrhea
 gerontoxon
