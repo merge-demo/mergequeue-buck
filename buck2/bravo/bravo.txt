@@ -8813,7 +8813,7 @@ buckbean
 bari 1
 banalities
 battery
-bedrivels
+bedrivels 1
 bummalos
 bakelize
 barfed
