@@ -17696,7 +17696,7 @@ cockaigne
 cunjer
 cockal
 carboloy
-counternoise
+counternoise 1
 cockpit
 couched
 comaking
