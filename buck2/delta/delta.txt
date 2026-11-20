@@ -5555,7 +5555,7 @@ debilitate
 dorper
 departmentally
 discomfits
-depancreatize
+depancreatize 1
 drawrod
 drainermen 1
 deoxygenized
