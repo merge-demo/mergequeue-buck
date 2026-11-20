@@ -9666,7 +9666,7 @@ guipures 1
 gamogony
 gibuses
 gowdie
-gastroscopy
+gastroscopy 1
 gascons
 gowaned
 gorgonaceous 1
