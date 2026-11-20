@@ -2741,7 +2741,7 @@ acroamatical
 ammonation 1
 acroasphyxia
 acroatic
-acrobacy
+acrobacy 1
 askr
 attent
 alfurese
