@@ -3885,7 +3885,7 @@ glumpy
 glazed
 gloweringly
 gigahertzes
-galloperdix
+galloperdix 1
 gigaherz
 gymnarchidae
 genips
