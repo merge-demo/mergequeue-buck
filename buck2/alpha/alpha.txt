@@ -7916,7 +7916,7 @@ afforestation
 appropriates
 alembic
 automatontons
-abolishes
+abolishes 1
 arylamino
 alnus
 apogamy
