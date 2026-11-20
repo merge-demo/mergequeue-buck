@@ -4960,7 +4960,7 @@ decate
 demosthenean
 drabbletail
 deradenitis 1
-demote
+demote 1
 demoted
 demotes
 disomus 1
