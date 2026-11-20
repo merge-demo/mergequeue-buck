@@ -1084,7 +1084,7 @@ artemisia
 atestine
 amphioxidae
 abused
-alkalescence
+alkalescence 1
 antilynching
 accommodateness
 agra
