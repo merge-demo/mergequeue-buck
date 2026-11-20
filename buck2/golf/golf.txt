@@ -5453,7 +5453,7 @@ griphosaurus
 gephyrean
 gingivitis
 gaea
-glyptolith 1
+glyptolith 2
 galvanocontractility
 grotesques
 girsle
