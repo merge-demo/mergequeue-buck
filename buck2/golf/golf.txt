@@ -4933,7 +4933,7 @@ gorse
 glauberite
 glair
 glaire
-glosses
+glosses 1
 gigger
 gradual
 growliness
