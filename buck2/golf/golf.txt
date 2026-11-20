@@ -4729,7 +4729,7 @@ gumshoe
 glucosuria
 grudgingly
 garnisheeing 1
-genista
+genista 1
 galeae
 gowland
 gitanos
