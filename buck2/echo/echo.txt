@@ -7274,7 +7274,7 @@ eorhyolite
 extinguishable 1
 eos
 earshot
-embetter
+embetter 1
 etonian
 ectozoon
 eosate
