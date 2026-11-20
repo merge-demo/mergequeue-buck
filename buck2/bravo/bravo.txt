@@ -9572,7 +9572,7 @@ bromides 1
 bumbledom
 bronchomycosis
 bahut
-blastomata
+blastomata 1
 biscutate
 bisdiapason
 binary
