@@ -16544,7 +16544,7 @@ bruteness
 befilleted
 brutify 1
 basic
-bathorse
+bathorse 1
 bargeese
 barbarianize
 brownish
