@@ -14570,7 +14570,7 @@ blatterer
 branding
 brandiron
 buddle
-bimaculate
+bimaculate 1
 billhooks
 blume
 buri
