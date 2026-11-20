@@ -2709,7 +2709,7 @@ ephippial
 emulsoidal 1
 exteriorise
 essed
-ericolin
+ericolin 1
 elderwort 1
 electrophoresing
 endomycetaceae
