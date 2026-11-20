@@ -1665,7 +1665,7 @@ antitank
 attiwendaronk
 aphonias
 ainsells
-arriccios 1
+arriccios 2
 accueil
 acculturate
 acculturated
