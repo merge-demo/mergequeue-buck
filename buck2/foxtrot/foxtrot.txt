@@ -1033,7 +1033,7 @@ flourishing
 farinosel
 foussa
 fulfill
-farmeress
+farmeress 1
 fireling
 flerrying
 farmerly
