@@ -7505,7 +7505,7 @@ bardelle
 biathlon
 bedgery
 bevenom 1
-bever
+bever 1
 barleducs
 blemishment
 burses
