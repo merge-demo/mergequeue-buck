@@ -5771,7 +5771,7 @@ citharoedic
 catechised
 criminalistician
 cylindrophis
-chumming
+chumming 1
 chevesne
 calibred
 codicillary
