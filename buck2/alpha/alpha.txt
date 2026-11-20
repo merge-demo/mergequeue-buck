@@ -19778,7 +19778,7 @@ armadilla 1
 acetylide
 antimedievalist
 anhydridize
-adjudger
+adjudger 1
 archplotter
 armadillos
 astrocyte
