@@ -25994,7 +25994,7 @@ chn
 cose
 capsized
 creatorrhea
-cranioscopical
+cranioscopical 1
 contextual
 clumbers
 coseasonal
