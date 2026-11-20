@@ -3221,7 +3221,7 @@ defeminized
 dipsadine
 dryth
 drool
-dens
+dens 1
 dolichocnemic
 demoniac
 defenceable
