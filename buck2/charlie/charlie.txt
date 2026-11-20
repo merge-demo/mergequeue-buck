@@ -17100,7 +17100,7 @@ crystals
 cyclohexane
 chemotherapeutic
 coccygalgia
-cohesive
+cohesive 1
 ctenophoric
 copiable
 coadjudicator
