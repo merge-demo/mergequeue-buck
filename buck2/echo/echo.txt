@@ -8540,7 +8540,7 @@ equatable
 eudaemons 1
 ecclesiasticize
 essentializing
-echinated 1
+echinated 2
 embezzling
 eastlin
 etherify
