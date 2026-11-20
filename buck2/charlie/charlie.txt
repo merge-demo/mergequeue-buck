@@ -3788,7 +3788,7 @@ carbide
 classicize
 carbyl
 catchy
-carbimide
+carbimide 1
 cenacle
 clouters
 carbineer
