@@ -9919,7 +9919,7 @@ donatistical
 descents
 descendingly
 dentins
-diplodocuses
+diplodocuses 1
 ductilely
 dermatoptic
 drear
