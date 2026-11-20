@@ -12845,7 +12845,7 @@ anagram
 athenaea
 aquarter
 anathematizes
-asemia
+asemia 1
 awardable
 antefuture
 angiotonic
