@@ -3106,7 +3106,7 @@ antimartyr
 alphonso
 agrionia
 antifeudal
-actinost
+actinost 1
 auctioned
 actinostereoscopy
 azthionium
