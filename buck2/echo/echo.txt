@@ -12770,7 +12770,7 @@ exam
 eyesights
 erwinia
 employable 1
-exorcizement
+exorcizement 1
 encodings
 elasmobranchiate
 enmask
