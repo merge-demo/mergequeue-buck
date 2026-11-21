@@ -4041,7 +4041,7 @@ chronal
 cardaissin
 chehalis
 convolutely
-cardamine
+cardamine 1
 catarrhinian 1
 covido
 cicada
