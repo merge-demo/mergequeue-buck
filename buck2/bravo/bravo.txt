@@ -10616,7 +10616,7 @@ backlands
 belemnite
 budgetful 1
 blazonment
-bouquet
+bouquet 1
 bladders
 bowllike
 beyliks
