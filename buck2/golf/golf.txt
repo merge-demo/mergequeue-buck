@@ -5868,7 +5868,7 @@ gardenless
 gardon 1
 griddled
 gasfiring
-geolatry 1
+geolatry 2
 grandesque
 glycogenous
 gravimetric
