@@ -383,7 +383,7 @@ dihydrated
 dreadness
 daimios
 dadap
-daimyos
+daimyos 1
 drinkers
 daimiote
 defension
