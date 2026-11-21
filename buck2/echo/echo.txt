@@ -13964,7 +13964,7 @@ equicurve
 ectophytic
 essoiner
 embezzles 1
-embrocations
+embrocations 1
 extraperineal
 emceed
 embosked
