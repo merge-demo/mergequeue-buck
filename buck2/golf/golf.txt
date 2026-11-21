@@ -6283,7 +6283,7 @@ gobbledygook
 gelatinised
 graecian 1
 gyroidal
-grundyist
+grundyist 1
 galop
 governessy
 gid
