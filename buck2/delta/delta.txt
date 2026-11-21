@@ -885,7 +885,7 @@ dripproof
 dieting
 demency
 disincrustant
-decrescendo
+decrescendo 1
 dandling
 deliberative
 dansy
