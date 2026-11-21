@@ -9289,7 +9289,7 @@ ataxiameter
 alongships
 alongshore
 archbishops
-alemana
+alemana 1
 alongshoreman
 autonetics
 antisymmetric
