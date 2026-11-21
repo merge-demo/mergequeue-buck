@@ -3413,7 +3413,7 @@ bulletmaker
 bastardism
 blather
 bastardized 1
-bastardizes
+bastardizes 1
 bastardliness
 birimose
 bullfoot
