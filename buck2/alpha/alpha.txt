@@ -4647,7 +4647,7 @@ aedeagi
 assyriologist
 aedeagus
 aviculture
-aedicule
+aedicule 1
 attraction
 autem 1
 aedile
