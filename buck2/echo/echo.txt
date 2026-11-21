@@ -10582,7 +10582,7 @@ esprits
 elpidite
 euphroes
 enteria 1
-escallops
+escallops 1
 eocarboniferous
 elixation
 earthiness
