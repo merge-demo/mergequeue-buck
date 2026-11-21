@@ -6913,7 +6913,7 @@ deficit 1
 desorption
 drollist
 discomposes
-desoxalic
+desoxalic 1
 dichromasy
 decanter
 dialled
