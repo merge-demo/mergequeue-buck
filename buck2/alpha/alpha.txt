@@ -1175,7 +1175,7 @@ applauses
 adjustor
 acanthia
 anthropogenetic 1
-apocryphally
+apocryphally 1
 acanthion
 atrosanguineous
 acanthocephalous
