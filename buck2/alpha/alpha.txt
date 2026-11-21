@@ -22491,7 +22491,7 @@ aristarchy
 asweve
 alchemistic
 aswirl
-ammoniacum
+ammoniacum 1
 at
 adenohypophysial
 alangin
