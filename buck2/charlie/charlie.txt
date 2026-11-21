@@ -20616,7 +20616,7 @@ coregonine
 clastic
 complacence
 chlorella
-complacency
+complacency 1
 complacent
 cantor
 citrate
