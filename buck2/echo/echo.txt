@@ -10668,7 +10668,7 @@ easeless
 echolocation
 enarbor
 excrements
-ecrasite
+ecrasite 1
 expeditate
 entwine 1
 excitory
