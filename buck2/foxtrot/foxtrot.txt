@@ -7626,7 +7626,7 @@ fester 1
 fabular
 funfest
 foolhardy
-flaxy
+flaxy 1
 flashlights
 fortyish
 frankmarriage
