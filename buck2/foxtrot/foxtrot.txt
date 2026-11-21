@@ -3189,7 +3189,7 @@ frigostable
 federalese
 frithwork 1
 feazings
-friezes
+friezes 1
 fibulae
 floodcock
 furanoses
