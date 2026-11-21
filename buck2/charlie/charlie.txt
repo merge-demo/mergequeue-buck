@@ -10654,7 +10654,7 @@ constructional
 calcaemia
 chime
 chimer
-chimeral
+chimeral 1
 chanteys
 chimeric
 coptic
