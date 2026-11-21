@@ -3051,7 +3051,7 @@ fritillary
 formolite
 federalists 1
 franchising
-forficiform
+forficiform 1
 fetichize
 forceput
 fibred
