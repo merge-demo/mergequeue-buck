@@ -8289,7 +8289,7 @@ chalybes
 chalybite
 chalice
 chancelry
-chaliced
+chaliced 1
 chalicosis
 chalicothere
 chalicotheriid
