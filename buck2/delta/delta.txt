@@ -15832,7 +15832,7 @@ dorsimeson
 devolatilization
 disyllabize
 deducibly
-dorsipinal
+dorsipinal 1
 diablerie
 dorsocaudad
 dorsocentral
