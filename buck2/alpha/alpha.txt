@@ -13834,7 +13834,7 @@ anorthophyre
 adrenocorticotrophin
 autocratship
 augean
-anorthose
+anorthose 1
 agglomerated
 afresh
 albumeniizer
