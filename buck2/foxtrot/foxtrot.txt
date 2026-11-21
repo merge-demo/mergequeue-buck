@@ -2393,7 +2393,7 @@ foreordinating
 freakpot
 fantods
 fervidor
-formicivorous
+formicivorous 1
 filtrable 1
 fingernail
 flanged
