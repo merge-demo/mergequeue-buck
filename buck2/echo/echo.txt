@@ -5226,7 +5226,7 @@ euryalida
 endorser
 empathizing
 endolymphatic 1
-ectobatic
+ectobatic 1
 eskers
 electromagnetic
 eluviums
