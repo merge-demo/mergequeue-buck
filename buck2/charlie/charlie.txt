@@ -4046,7 +4046,7 @@ catarrhinian 1
 covido
 cicada
 cowpox
-catechism
+catechism 1
 cardamom
 cicatrise
 cardamon
