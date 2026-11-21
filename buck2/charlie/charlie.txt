@@ -8378,7 +8378,7 @@ chamaebatia
 chamaecranial
 cogons
 centry
-compinge
+compinge 1
 corkir
 chamaelirium
 chamaepericlymenum
