@@ -2423,7 +2423,7 @@ fermail
 flabellifoliate
 fobbed
 festivities 1
-fatigate
+fatigate 1
 freemasons
 fractur
 frizzle
