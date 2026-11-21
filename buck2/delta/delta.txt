@@ -14434,7 +14434,7 @@ dioptrometer
 dasyphyllous
 disraeli
 defunctionalization 1
-disdeify
+disdeify 1
 depicturing
 daltonian
 diverters
