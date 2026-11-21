@@ -10151,7 +10151,7 @@ desilicating
 danai
 dusks 1
 dislip 1
-devulgarize
+devulgarize 1
 diluvian
 duckbills
 deadly
