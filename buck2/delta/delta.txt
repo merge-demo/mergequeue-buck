@@ -10544,7 +10544,7 @@ dipleurulas
 disbowels
 dialyzate
 demipagan
-disserviceableness
+disserviceableness 1
 ddname
 derate
 doorsills
