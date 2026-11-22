@@ -7508,7 +7508,7 @@ bevenom 1
 bever
 barleducs
 blemishment
-burses
+burses 1
 beverse
 barbets
 bluebirds

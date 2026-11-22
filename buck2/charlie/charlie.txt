@@ -12014,7 +12014,7 @@ chorographer
 continuately
 chorographical
 criticizable
-cyanacetic
+cyanacetic 1
 chinless
 chorographically
 commissural
