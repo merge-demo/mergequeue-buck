@@ -13967,7 +13967,7 @@ embezzles 1
 embrocations
 extraperineal
 emceed
-embosked
+embosked 1
 enwreathed
 endears
 exundance
