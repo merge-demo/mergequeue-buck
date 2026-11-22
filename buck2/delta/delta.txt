@@ -13264,7 +13264,7 @@ demogenic
 daidly
 domines
 deleerit
-dolichohieric
+dolichohieric 1
 deutomerite
 daphnoid
 dementate
