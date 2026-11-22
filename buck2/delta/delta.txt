@@ -15771,7 +15771,7 @@ dornicks
 datival
 dornock
 dornocks
-desanded
+desanded 1
 diffugient
 demolishes
 dumka
