@@ -23962,7 +23962,7 @@ algicides
 antidotally
 asepticizing
 autoassimilation
-antarchistic
+antarchistic 1
 aubergistes
 anisopleurous
 allayer
