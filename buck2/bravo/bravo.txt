@@ -9630,7 +9630,7 @@ blatti
 bryozoum
 baizes
 batiste
-bisyllabic
+bisyllabic 1
 benefactions
 burao 1
 braize
