@@ -2274,7 +2274,7 @@ demotion
 dominiums
 decemplex
 dissocialize
-decempunctate
+decempunctate 1
 doused
 decemstriate
 dowsers
