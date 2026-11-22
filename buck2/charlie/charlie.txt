@@ -17239,7 +17239,7 @@ coenzymatically
 coalify
 caperer 1
 coalification
-cephalostyle
+cephalostyle 1
 clinopinacoidal
 coalifies
 coalifying
