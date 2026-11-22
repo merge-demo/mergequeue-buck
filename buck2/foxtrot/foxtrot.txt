@@ -1392,7 +1392,7 @@ fibrocaseose 1
 ferkin
 filmy
 fabronia
-fermatas
+fermatas 1
 frith
 figitidae
 freezer
