@@ -5390,7 +5390,7 @@ drumbeating
 deceptory
 dribbler
 downless
-decorative
+decorative 1
 dentistical
 dentistry 1
 detribalizing
