@@ -12920,7 +12920,7 @@ ango
 angoise
 angolese
 arbitral
-assertoric
+assertoric 1
 ascitb
 angouleme
 armored
