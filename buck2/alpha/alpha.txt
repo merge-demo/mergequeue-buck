@@ -19666,7 +19666,7 @@ alines
 aleyrodid
 albolite
 attercrop 1
-apl
+apl 1
 aristae
 affirmatively
 aerobacteriological
