@@ -27299,7 +27299,7 @@ calked
 concernment
 czarowitch
 couping
-couple
+couple 1
 couplement
 coupler
 couples
