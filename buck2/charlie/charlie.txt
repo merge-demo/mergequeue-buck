@@ -3809,7 +3809,7 @@ cardiotrophia
 cysticarpic
 carbohydraturia
 chalkier
-chorioid
+chorioid 1
 carbohydride
 carbohydrogen
 carboy
