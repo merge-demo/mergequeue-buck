@@ -20905,7 +20905,7 @@ alexandrianism
 associative
 ambulating
 alveolar
-acetifies
+acetifies 1
 arthrogastra
 asbolane
 asbestoid
