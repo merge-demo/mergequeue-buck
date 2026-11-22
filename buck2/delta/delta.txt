@@ -7519,7 +7519,7 @@ deuteration
 denucleate
 demarcator
 desulfurized 1
-digitalizing
+digitalizing 1
 disenchain
 dittos
 dearnesses
