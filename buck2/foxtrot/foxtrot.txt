@@ -3274,7 +3274,7 @@ foppery
 flaught 1
 filbert
 freit
-furciferine
+furciferine 1
 fifteenthly
 fireburn
 fomenting 1
