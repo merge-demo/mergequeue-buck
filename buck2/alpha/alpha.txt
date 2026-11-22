@@ -22781,7 +22781,7 @@ amated
 accomodate
 akepiros
 atlantic
-assists
+assists 1
 asteroidean
 amphistylic
 animikite
