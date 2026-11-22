@@ -13127,7 +13127,7 @@ bornitic 1
 berob
 borofluohydric
 boroglycerine
-bilgy
+bilgy 1
 branchiopulmonata
 blebby
 borophenylic
