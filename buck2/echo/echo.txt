@@ -13499,7 +13499,7 @@ etruscologist
 evaporite
 eristic
 endangeitis
-epitomic
+epitomic 1
 epigrapher 1
 expanses
 elinor
