@@ -13270,7 +13270,7 @@ anisocercal
 acetifying
 anisocytosis
 aval
-apograph
+apograph 1
 allwhere
 appetit
 anisocotyledonous
