@@ -6400,7 +6400,7 @@ benzophenothiazine
 benzophloroglucinol
 betting
 benedight
-bewake
+bewake 1
 benzophthalazine
 breakup
 benzil
