@@ -30325,7 +30325,7 @@ crunodes
 clifflet
 countervairy
 chantors
-confrater
+confrater 1
 consonantizing
 constructions
 chiragra
