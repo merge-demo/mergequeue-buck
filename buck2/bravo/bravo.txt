@@ -4877,7 +4877,7 @@ brimmingly
 backsplicing 1
 beaded
 bedeswomen
-belavendered
+belavendered 1
 blanket
 boucl
 ballot
