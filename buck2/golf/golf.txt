@@ -1881,7 +1881,7 @@ graveled
 gambles 1
 gazehound
 growlery
-guffaw
+guffaw 1
 gilgai
 goofy
 geodic
