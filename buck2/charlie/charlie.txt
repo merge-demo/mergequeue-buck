@@ -27820,7 +27820,7 @@ contraire 1
 craquelures
 chelonin
 citharista
-counterquery
+counterquery 1
 curcuma
 chariotee
 circaea
