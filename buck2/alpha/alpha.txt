@@ -8127,7 +8127,7 @@ algerienne
 alizarins
 algerines
 algerite
-aciduric
+aciduric 1
 algernon
 assassinator
 algesiometer
