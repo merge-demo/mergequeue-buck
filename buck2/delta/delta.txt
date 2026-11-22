@@ -15776,7 +15776,7 @@ diffugient
 demolishes
 dumka
 dorp
-diphthongalize
+diphthongalize 1
 dorpers
 dorr
 doomage
