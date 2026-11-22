@@ -154,7 +154,7 @@ enzygotic
 earthkin 1
 emargination
 envoys
-exorcise
+exorcise 1
 expired
 effervescent
 erotopath
