@@ -10790,7 +10790,7 @@ exflagellate
 endosporic 1
 eumycete
 eulogiums
-elaborating
+elaborating 1
 emoting
 euskera
 esterases
