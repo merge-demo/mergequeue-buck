@@ -3580,7 +3580,7 @@ dolman 1
 dakoities
 dissociative
 degage
-degames
+degames 1
 deganglionate
 dystome
 degasify
