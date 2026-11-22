@@ -28700,7 +28700,7 @@ crenic
 contin
 creephole
 calcining
-clung 1
+clung 2
 crenothrix
 crenula
 connectible
