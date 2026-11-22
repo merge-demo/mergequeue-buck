@@ -3713,7 +3713,7 @@ alliteration
 antiquity 1
 anchorhold
 aligreek
-autere
+autere 1
 alcoothionic
 agillawood
 adversative
