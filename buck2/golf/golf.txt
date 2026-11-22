@@ -1153,7 +1153,7 @@ genitors
 gantlet
 grocer
 gled
-gantleted
+gantleted 1
 gripier
 grouses
 goninidia
