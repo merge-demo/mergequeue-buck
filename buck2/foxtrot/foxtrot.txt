@@ -10067,7 +10067,7 @@ fetalism
 flammability
 fellowed
 friskin
-friskiness
+friskiness 1
 frisking
 frisch
 friskingly
