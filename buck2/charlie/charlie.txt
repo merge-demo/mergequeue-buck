@@ -25570,7 +25570,7 @@ corp
 corpn
 corpora 1
 corporacy
-corporacies
+corporacies 1
 calcic
 corporalcy
 corporale
