@@ -6560,7 +6560,7 @@ caws
 cholecystorrhaphy
 caxiri
 clannish
-commissaries
+commissaries 1
 caxon
 cretaceous
 caxton
