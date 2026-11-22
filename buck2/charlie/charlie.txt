@@ -26420,7 +26420,7 @@ cotylophora
 collide
 cotylopubic
 catatonics
-criminalist
+criminalist 1
 cotylosacral
 cotylosaur
 coinferring
