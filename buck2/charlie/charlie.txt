@@ -23759,7 +23759,7 @@ contrapunto 1
 contraregularity
 centrisciform
 conductimeter
-contraremonstrance
+contraremonstrance 1
 contrariant
 contraries
 contrarily
