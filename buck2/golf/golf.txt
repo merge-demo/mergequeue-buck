@@ -6499,7 +6499,7 @@ goaltenders
 georgiadesite 1
 glaciologist
 germinatively
-gonapophysial
+gonapophysial 1
 glyoxal
 gabert
 goll
