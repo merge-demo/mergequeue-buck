@@ -11620,7 +11620,7 @@ androgametophore
 ailette
 atonal
 anaclastics
-asteriated
+asteriated 1
 andromede
 agglutinationist
 araneina
