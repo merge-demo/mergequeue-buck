@@ -10803,7 +10803,7 @@ gewgawy
 granolite
 gestonie 1
 gibberella
-gabbroitic
+gabbroitic 1
 gibli
 guttlers
 gainly
