@@ -8717,7 +8717,7 @@ dodecylene
 disenfranchisements
 dorsonuchal
 diathermy
-decastere
+decastere 1
 demonstrate
 decorousness
 demoting
