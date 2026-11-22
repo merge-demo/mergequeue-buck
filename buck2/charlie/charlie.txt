@@ -4525,7 +4525,7 @@ carbine 1
 cephalogenesis
 carnallite
 colluvies
-churchshot
+churchshot 1
 carnalness
 conidial
 carnaptious
