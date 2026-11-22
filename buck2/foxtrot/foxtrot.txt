@@ -5863,7 +5863,7 @@ formidableness
 furanes 1
 filanders
 feminology
-funebre
+funebre 1
 farding
 fastigia
 fdtype
