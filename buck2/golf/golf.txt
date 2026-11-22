@@ -5660,7 +5660,7 @@ goodbye
 gratefuller
 glasses 1
 glassrope 1
-glorifications
+glorifications 1
 garefowls
 gentlefolks
 gnatlike 1
