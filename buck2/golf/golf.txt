@@ -8548,7 +8548,7 @@ geodetical 1
 gusla
 gilo
 germaneness
-gasolene
+gasolene 1
 gemuti
 geonoma
 gravicembalos
