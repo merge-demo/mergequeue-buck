@@ -6433,7 +6433,7 @@ cloister
 cav
 corah
 curvinervate
-cavayard 1
+cavayard 2
 cavalcaded
 cotylophorous
 cavalero
