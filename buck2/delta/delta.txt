@@ -3281,7 +3281,7 @@ duodecillionth 1
 doublethought
 dominie
 departs
-defibrillated
+defibrillated 1
 dominants
 dalles
 doty 1
