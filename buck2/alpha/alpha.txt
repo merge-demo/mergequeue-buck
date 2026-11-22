@@ -20943,7 +20943,7 @@ ascarid
 ascaridae
 ascarides
 authoresses
-appertains
+appertains 1
 adipometer
 altaic
 acclimated
