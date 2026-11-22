@@ -9290,7 +9290,7 @@ korbt
 kordhrmbir 1
 kordunu
 kore
-korean
+korean 1
 koredygdrp
 korefequdlop
 korekww
