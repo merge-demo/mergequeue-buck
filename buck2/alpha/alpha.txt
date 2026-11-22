@@ -16970,7 +16970,7 @@ aplitic
 angering
 aplodontiidae
 aplomb
-amygdaliferous
+amygdaliferous 1
 astond
 amends
 aplome
