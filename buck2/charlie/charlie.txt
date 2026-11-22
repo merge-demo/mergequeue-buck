@@ -6438,7 +6438,7 @@ cavalcaded
 cotylophorous
 cavalero
 cardinalist
-curarizes
+curarizes 1
 cavalier 1
 choregic
 cation
