@@ -10378,7 +10378,7 @@ entropion
 ethology 1
 ethnogeographer
 ethologies
-electrocataphoretic
+electrocataphoretic 1
 explains
 eternize
 epiphenomenalist
