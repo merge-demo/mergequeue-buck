@@ -8234,7 +8234,7 @@ grisard
 graphitize
 gastrotubotomy 1
 glacioaqueous
-goldbug
+goldbug 1
 graphitizing
 gallingly
 gutturalising
