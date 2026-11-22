@@ -18326,7 +18326,7 @@ brightens 1
 brewst
 botherheaded
 buttons
-bescratch
+bescratch 1
 breviaries 1
 buttonwood
 baragouin
