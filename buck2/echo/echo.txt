@@ -9572,7 +9572,7 @@ ecotypes
 escapeless
 edestan
 ecphoria 1
-expressing
+expressing 1
 emigrated
 emptory
 expediente
