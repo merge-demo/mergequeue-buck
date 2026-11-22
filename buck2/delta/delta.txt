@@ -2828,7 +2828,7 @@ defi
 deferred
 dossers
 declarator
-decried
+decried 1
 desistive
 deerflys
 disulphonate
