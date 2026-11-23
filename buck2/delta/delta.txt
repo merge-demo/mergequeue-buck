@@ -3172,7 +3172,7 @@ discharges
 dunnock
 dyothelete 1
 dipsas
-defecator
+defecator 1
 daneflower
 defect
 degusting
