@@ -8423,7 +8423,7 @@ diallings
 dovefoot
 deliracy
 disciplines
-deliveror
+deliveror 1
 dialog
 ditties
 dialogers
