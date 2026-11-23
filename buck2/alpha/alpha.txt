@@ -4705,7 +4705,7 @@ aegithognathae
 anguillule
 aegophony
 aegrotant
-acanthopomatous
+acanthopomatous 1
 acichlorid
 alabastron
 archiving
