@@ -10568,7 +10568,7 @@ alphamerical 1
 amygdal
 aludels
 affectate
-amygdala
+amygdala 1
 antirobin
 amygdalaceous
 animated
