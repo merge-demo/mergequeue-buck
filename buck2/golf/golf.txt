@@ -10040,7 +10040,7 @@ gargoyles
 greasing
 granitoidal 1
 gisler
-guerdoner
+guerdoner 1
 gasterozooid 1
 greatheart
 grandnephew
