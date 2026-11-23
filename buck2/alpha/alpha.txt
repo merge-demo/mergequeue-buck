@@ -14873,7 +14873,7 @@ armer
 anticyclones
 abaculi 1
 anticynical
-asway
+asway 1
 anticipant
 alveolary
 anticipatable 1
