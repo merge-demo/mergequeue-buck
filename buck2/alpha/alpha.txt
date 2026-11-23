@@ -19014,7 +19014,7 @@ azelate
 archmocker
 agricolist
 anastomosed
-auctionary
+auctionary 1
 autochthonic
 authorial
 algol
