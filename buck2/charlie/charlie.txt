@@ -19216,7 +19216,7 @@ collusory
 collution 1
 collutory
 cimbia
-collutoria
+collutoria 1
 collutories
 cafeteria
 collutorium
