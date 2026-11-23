@@ -3505,7 +3505,7 @@ bogging
 bitterhearted
 bateau
 bateleur
-barbered
+barbered 1
 bowerwoman
 bovista
 bouchal
