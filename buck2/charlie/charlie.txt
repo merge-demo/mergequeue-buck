@@ -3654,7 +3654,7 @@ chromatography
 caraibe
 caraipa 1
 chronometrical
-caraipi
+caraipi 1
 carlish
 cucumiform
 caraja
