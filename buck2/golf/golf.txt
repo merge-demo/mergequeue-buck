@@ -2927,7 +2927,7 @@ gwiniad
 glitter 1
 gabbled
 geocerite
-gubernation 1
+gubernation 2
 greenheaded 1
 gallons
 glabreity
