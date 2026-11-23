@@ -26385,7 +26385,7 @@ cotenancy
 cotenant
 cotenants
 chrismatories
-cotenure 1
+cotenure 2
 concaved
 cinderlike
 coterie
