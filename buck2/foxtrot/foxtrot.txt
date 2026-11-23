@@ -9880,7 +9880,7 @@ frozenly
 fibropericarditis
 feverless
 filibusters 1
-forgiven
+forgiven 1
 fastuously
 forcelessness
 flintstone
