@@ -12395,7 +12395,7 @@ depresses
 dishellenize
 deigning
 dantist
-decomposing
+decomposing 1
 disconnective
 dicarpellary
 dendrophagous
