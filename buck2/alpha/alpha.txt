@@ -23088,7 +23088,7 @@ adjoiningness
 acetol
 adenoma
 attaints
-archsatrap
+archsatrap 1
 amitotically
 almirah
 aumoniere
