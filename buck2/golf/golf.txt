@@ -6500,7 +6500,7 @@ georgiadesite 1
 glaciologist
 germinatively
 gonapophysial
-glyoxal
+glyoxal 1
 gabert
 goll
 gravelled
