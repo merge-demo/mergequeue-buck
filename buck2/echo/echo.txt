@@ -1100,7 +1100,7 @@ edifying
 ectoblastic
 egolatrous 1
 edile
-estonian
+estonian 1
 epiphyseal
 eliquating
 ediles
