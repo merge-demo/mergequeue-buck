@@ -2043,7 +2043,7 @@ grunion 1
 givenness
 gyroscopics
 gerocomia
-gavelocks
+gavelocks 1
 gattine
 gasometrically
 goaf
