@@ -4172,7 +4172,7 @@ escaloped
 echiurida
 enacted 1
 etuve
-editorializes
+editorializes 1
 epitheliolysin
 emanant
 encallow
