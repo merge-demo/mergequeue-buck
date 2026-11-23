@@ -4914,7 +4914,7 @@ bilimbis 1
 blackheartedly
 brig
 bonnne
-border 1
+border 2
 brevets
 beefburgers
 backchat
