@@ -10333,7 +10333,7 @@ grammaticism
 greenwax
 gelatinigerous
 globulicide 1
-gnattiest
+gnattiest 1
 grasslike
 guland
 grubstaking
