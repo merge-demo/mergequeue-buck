@@ -6170,7 +6170,7 @@ gazetteers
 groveling 1
 goal
 griffithite
-galactophore
+galactophore 1
 goniatite
 gigantolite
 gunmanship
