@@ -27165,7 +27165,7 @@ countersurprise
 chrotta
 countersway
 countersworn
-countertack
+countertack 1
 countertally
 countertaste
 camarine
