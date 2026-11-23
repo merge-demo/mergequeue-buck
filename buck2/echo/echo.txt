@@ -4810,7 +4810,7 @@ ergasterion
 enbusshe
 epicrisis 1
 edwardsia
-enneahedra
+enneahedra 1
 electroionic
 etymologize 1
 executioners
