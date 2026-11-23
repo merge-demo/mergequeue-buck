@@ -9780,7 +9780,7 @@ ambolic
 adjutory
 antimonarchical
 anamesite
-ampelopsin
+ampelopsin 1
 amalgamationist
 amalgamative
 amalgamatize
