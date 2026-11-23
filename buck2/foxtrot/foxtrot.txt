@@ -1839,7 +1839,7 @@ febricant 1
 frilly
 febricitant
 frictions
-fore
+fore 1
 feastless
 febrific
 flaccid
