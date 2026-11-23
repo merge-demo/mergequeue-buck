@@ -9006,7 +9006,7 @@ geosynchronous
 glagah 1
 gargarism
 grantedly
-glovemaking
+glovemaking 1
 griffonage
 gynandry
 girned
