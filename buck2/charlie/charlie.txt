@@ -18399,7 +18399,7 @@ clypeal
 compactedness 1
 cognition
 cucullated
-conclude
+conclude 1
 canmaking
 componentry
 cognitional
