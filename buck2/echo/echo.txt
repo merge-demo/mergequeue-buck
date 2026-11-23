@@ -162,7 +162,7 @@ enunciations
 earthly
 enriched 1
 exequy
-earmarked
+earmarked 1
 eelbobber
 expiring
 expressive
