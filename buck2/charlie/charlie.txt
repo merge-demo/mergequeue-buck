@@ -11682,7 +11682,7 @@ cholones
 cholophaein
 coven
 cholophein
-cotemporarily
+cotemporarily 1
 chatterer
 chervils
 castane
