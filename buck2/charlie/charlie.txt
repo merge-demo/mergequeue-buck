@@ -23231,7 +23231,7 @@ carquaise 1
 canelos
 calumniations
 constructorship
-construe
+construe 1
 controversialize
 construer
 cyamus
