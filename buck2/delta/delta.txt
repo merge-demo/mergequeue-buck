@@ -14441,7 +14441,7 @@ diverters
 disillusionized
 defaulter
 disjointing
-duopolist
+duopolist 1
 denies
 dindymene
 divertibility
