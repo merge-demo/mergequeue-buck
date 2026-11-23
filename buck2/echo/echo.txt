@@ -12282,7 +12282,7 @@ everlasting
 eggplant
 enfoul 1
 exemplificator
-egypt
+egypt 1
 exemplified
 extradites
 ellagitannin 1
