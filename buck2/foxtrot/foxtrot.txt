@@ -10178,7 +10178,7 @@ fastings
 fleishig
 formalism 1
 feebly
-farce
+farce 1
 foxchop
 fetologies
 furdel
