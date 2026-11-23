@@ -19121,7 +19121,7 @@ archvillainy
 assuages
 algorithm
 anisylidene
-aphoristic
+aphoristic 1
 archwag
 archways
 arceuthobium
