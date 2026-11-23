@@ -12351,7 +12351,7 @@ chromatype
 chromatist
 chemotic
 coracohyoid
-cholent
+cholent 1
 crack
 chloroanaemia
 caudiform
