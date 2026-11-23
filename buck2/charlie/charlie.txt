@@ -9331,7 +9331,7 @@ chartometer
 chaunted
 chaunter
 capillaritis
-chaunts
+chaunts 1
 catamarans
 chaus
 cabbalistical
