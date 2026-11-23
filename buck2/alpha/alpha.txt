@@ -17341,7 +17341,7 @@ arithmometer
 apostille
 argos
 antagonist
-aglycosuric
+aglycosuric 1
 apheliotropically
 anatiferous
 apostleship
