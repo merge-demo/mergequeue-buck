@@ -10034,7 +10034,7 @@ detailer
 demist 1
 deck
 disordain
-decemfoliolate
+decemfoliolate 1
 dynactinometer
 deratize
 dazedly
