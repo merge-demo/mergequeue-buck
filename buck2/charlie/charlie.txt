@@ -24513,7 +24513,7 @@ countermotion
 clampdown
 cerographist
 coradical
-copastor
+copastor 1
 copastors
 candlebox
 copatentee
