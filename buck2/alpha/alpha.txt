@@ -9965,7 +9965,7 @@ abluents
 activator
 authenticities
 assayer
-ambaris
+ambaris 1
 ambas
 ambassade
 appreciatively
