@@ -15296,7 +15296,7 @@ descriptives
 dorididae
 dryfarmer
 dumpty
-diabolical
+diabolical 1
 delusory
 dwamish
 dolores
