@@ -18560,7 +18560,7 @@ coeducate 1
 conner
 catheptic
 canonists
-coigne
+coigne 1
 cader
 cutted
 coigny
