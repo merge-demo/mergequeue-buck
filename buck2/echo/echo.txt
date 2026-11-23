@@ -9246,7 +9246,7 @@ errable
 existences
 ejido 1
 engraftation
-errancies
+errancies 1
 endospermous
 entrapments
 egressing
