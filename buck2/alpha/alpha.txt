@@ -19972,7 +19972,7 @@ azlons
 abdat
 armplate
 agamas
-angkhak 1
+angkhak 2
 azans
 aborsement
 afterclap
