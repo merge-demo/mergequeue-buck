@@ -4350,7 +4350,7 @@ endleaves
 extraordinariness 1
 enamorment
 endoute
-economize
+economize 1
 enterointestinal
 exceeders
 exothermous
