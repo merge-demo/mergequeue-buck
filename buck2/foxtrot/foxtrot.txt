@@ -6150,7 +6150,7 @@ foxfish
 frustration 1
 fetidity
 fantom
-frequented
+frequented 1
 foredoor 1
 fraughts
 furiosity
