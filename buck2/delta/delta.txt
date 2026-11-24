@@ -8604,7 +8604,7 @@ dewan
 dissatisfied 1
 driller
 dispunitive
-donatio
+donatio 1
 diapophysis
 decigramme
 dibatis
