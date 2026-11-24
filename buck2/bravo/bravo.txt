@@ -5063,7 +5063,7 @@ beeswax
 bodger
 biloculine
 beferned
-befetished
+befetished 1
 bandoline 1
 bilingual
 balefire
