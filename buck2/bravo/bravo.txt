@@ -3298,7 +3298,7 @@ basipetal
 basipodite
 blank
 basipterygium
-baratheas 1
+baratheas 2
 believe
 brisant
 basiradial
