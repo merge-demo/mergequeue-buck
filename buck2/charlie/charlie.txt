@@ -4995,7 +4995,7 @@ chevrony
 cartulary
 cartularies
 carapache
-cabbagelike
+cabbagelike 1
 collaring
 cartware
 cabossed
