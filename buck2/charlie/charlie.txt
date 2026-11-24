@@ -29563,7 +29563,7 @@ criticship
 criticule
 critique
 cultivatable
-cabals
+cabals 1
 chopine
 critiqued
 critize
