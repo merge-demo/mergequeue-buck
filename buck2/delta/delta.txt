@@ -12758,7 +12758,7 @@ domesticize
 deer
 dysneuria
 dislodgement
-desertress
+desertress 1
 disestablishmentarianism
 distasted
 drogher
