@@ -15037,7 +15037,7 @@ achyrodes
 anticrisis
 anticritic
 anaglyptics
-anticritical
+anticritical 1
 astrose
 anasarcas
 attestant
