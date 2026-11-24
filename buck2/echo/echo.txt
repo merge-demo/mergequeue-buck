@@ -1448,7 +1448,7 @@ emblazons
 ejectivity
 etypical
 entoparasite
-extensile
+extensile 1
 existential
 engineeringly
 euphuisms
