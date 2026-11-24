@@ -31782,7 +31782,7 @@ collicle
 cutaneously
 counterlighting
 circumspectively
-collegiality
+collegiality 1
 cutaways
 cutback
 cutbacks
