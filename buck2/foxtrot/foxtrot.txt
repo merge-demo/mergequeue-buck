@@ -3279,7 +3279,7 @@ fifteenthly
 fireburn
 fomenting 1
 flatware 1
-feelings
+feelings 1
 ficoidal
 fiddlecome
 fracedinous
