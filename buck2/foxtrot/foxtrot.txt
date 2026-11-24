@@ -6548,7 +6548,7 @@ flagrate
 fluttering
 forswears
 feedboard
-flensing 1
+flensing 2
 flutterment
 flimflammed
 fluviolacustrine
