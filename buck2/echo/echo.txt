@@ -10442,7 +10442,7 @@ eloinment
 embryoniferous
 etymon 1
 ectocondyle
-equalities
+equalities 1
 etiolated
 etiology
 europeanism

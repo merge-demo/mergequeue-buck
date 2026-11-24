@@ -5999,7 +5999,7 @@ depth
 dispraise
 droopy
 devitation
-domajigger
+domajigger 1
 diagraphics
 diamagnetize
 diagrammitically
