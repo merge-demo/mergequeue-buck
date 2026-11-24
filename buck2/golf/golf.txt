@@ -3502,7 +3502,7 @@ graphonomy
 genipaps 1
 gnathotheca
 gussied
-gynospore
+gynospore 1
 gestical
 gesticulant
 gesticulations
