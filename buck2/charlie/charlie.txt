@@ -8404,7 +8404,7 @@ colloquist
 calyciferous
 comport
 chambrays
-chambranle
+chambranle 1
 caressive
 confected
 counterattractively
