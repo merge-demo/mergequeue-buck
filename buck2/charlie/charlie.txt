@@ -31094,7 +31094,7 @@ conjecturality
 cundeamor
 cundum
 cundums
-cundurango
+cundurango 1
 cuneal
 cuneately
 cuneatic
