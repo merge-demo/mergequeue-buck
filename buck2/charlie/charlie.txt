@@ -1084,7 +1084,7 @@ calche
 cordials
 creeling
 calcicolous
-calcicosis
+calcicosis 1
 collyrie
 calciferol
 calcified
