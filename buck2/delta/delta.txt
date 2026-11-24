@@ -4927,7 +4927,7 @@ dacrycystalgia
 dynastic
 depositum
 demonstrations 1
-doctrinary
+doctrinary 1
 derotreme
 decrescence
 daktylon
