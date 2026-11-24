@@ -10947,7 +10947,7 @@ dispenses
 disforestation
 doublethinking
 dorsoradial
-digressions
+digressions 1
 disadvance
 dreamingful
 disadvancing
