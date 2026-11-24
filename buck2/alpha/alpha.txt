@@ -2462,7 +2462,7 @@ argumentum 1
 adiaphoral
 acnes
 amperemeter
-acnida
+acnida 1
 arabizes
 airily
 antiperthite
