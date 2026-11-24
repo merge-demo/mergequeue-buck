@@ -24517,7 +24517,7 @@ aloins
 ayubite
 auxeses
 altercative 1
-antispreader
+antispreader 1
 aoristic
 ascaron
 auxetic
