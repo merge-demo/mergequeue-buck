@@ -12722,7 +12722,7 @@ exenterating
 exophthalmus
 euonymus
 emboweling 1
-engramma
+engramma 1
 exopod
 epigraphist
 embus
