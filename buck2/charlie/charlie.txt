@@ -14542,7 +14542,7 @@ cistercianism
 cisternae
 cariocas
 cisternal
-cornier
+cornier 1
 compotier
 cystic
 cabuja
