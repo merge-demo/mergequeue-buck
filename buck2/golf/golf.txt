@@ -9406,7 +9406,7 @@ guatoan
 glissandi
 gymel 1
 glycerolize
-grottoes 1
+grottoes 2
 gelatose
 gaywings
 geryonidae
