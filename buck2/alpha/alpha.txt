@@ -14005,7 +14005,7 @@ ante
 avener
 adenoviral
 alameda
-anteact
+anteact 1
 acajou 1
 achloropsia
 anteater
