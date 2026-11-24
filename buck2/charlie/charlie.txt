@@ -9072,7 +9072,7 @@ cardplayer
 coleophora
 charophyta
 courantes
-cannily
+cannily 1
 cabala
 charoses
 charoseth
