@@ -2276,7 +2276,7 @@ embraceable
 encoach
 ethnarchies 1
 endothys
-electricize
+electricize 1
 emphasizes
 electriferous
 energumen
