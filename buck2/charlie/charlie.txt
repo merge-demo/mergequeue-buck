@@ -10861,7 +10861,7 @@ cordwain
 chippendale
 chemiatrist
 chippered
-cardosanto
+cardosanto 1
 carpetbaggers
 counterinsult
 connectedness
