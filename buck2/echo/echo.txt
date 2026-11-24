@@ -1780,7 +1780,7 @@ evitation
 everliving
 euphonous
 effractor
-escalloping
+escalloping 1
 eyesight
 epigenic
 enormities
