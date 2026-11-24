@@ -3347,7 +3347,7 @@ erythrin
 euphroe 1
 equiangular
 emphemeralness
-expensefully
+expensefully 1
 endodermis
 ecdyses
 eyry
