@@ -15048,7 +15048,7 @@ civism
 civisms
 chloralizing
 civitan
-coxalgic
+coxalgic 1
 civitas
 civite
 caridomorpha
