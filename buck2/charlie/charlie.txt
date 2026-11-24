@@ -26145,7 +26145,7 @@ cosmographical
 concomitantly
 cosmographically
 cosmographies
-cosmoline
+cosmoline 1
 consociative
 cloudlet
 cosmologically
