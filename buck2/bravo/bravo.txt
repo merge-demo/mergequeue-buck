@@ -9683,7 +9683,7 @@ balanoglossus 1
 barway
 beringed
 bismutosphaerite
-bisnaga
+bisnaga 1
 bispinose
 bispinous
 bramah
