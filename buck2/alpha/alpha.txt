@@ -3418,7 +3418,7 @@ adazzle
 afforded
 adcons
 autopticity
-admires
+admires 1
 aesculus
 add
 atap
