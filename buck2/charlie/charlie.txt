@@ -5554,7 +5554,7 @@ catagenetic
 catakinetic 1
 catakinomeric
 corkscrewy
-catalanganes
+catalanganes 1
 conceptionist
 catalatic
 circulatories
