@@ -12200,7 +12200,7 @@ duply
 disambiguates
 demideify
 dichocarpism
-dribblement
+dribblement 1
 dysphonic
 disflesh
 disfoliage
