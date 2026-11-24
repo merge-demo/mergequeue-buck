@@ -6340,7 +6340,7 @@ ensanguine
 eloquent 1
 enlargingly
 emporium
-ergotin
+ergotin 1
 eschar
 euchred
 expiatory
