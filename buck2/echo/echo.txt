@@ -14068,7 +14068,7 @@ entablature 1
 encephalomata
 enfect
 errantry
-entoplastral
+entoplastral 1
 epigastral
 equilibrative
 ebonize
