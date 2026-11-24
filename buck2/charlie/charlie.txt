@@ -21892,7 +21892,7 @@ cohorn
 counterstain
 crotchet
 chiasm
-conferruminate
+conferruminate 1
 catslide
 checkstrap
 classificational
