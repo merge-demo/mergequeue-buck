@@ -4378,7 +4378,7 @@ eritrean
 esoenteritis 1
 exotically
 embrasure
-enantiomorph
+enantiomorph 1
 encratic
 equinovarus
 electrolyzer
