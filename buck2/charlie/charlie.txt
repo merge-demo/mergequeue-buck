@@ -24607,7 +24607,7 @@ chiggak
 cypripedium
 copingstone
 chaplainry
-copiosity
+copiosity 1
 chanteyman
 copious
 copiousness
