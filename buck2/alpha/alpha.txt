@@ -19075,7 +19075,7 @@ adjudicator
 askingly
 approvals
 archprelatical
-armenize
+armenize 1
 aholt
 ambassadors
 apishness
