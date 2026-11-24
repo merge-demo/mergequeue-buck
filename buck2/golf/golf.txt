@@ -5240,7 +5240,7 @@ guineaman 1
 glottiscope
 gastriloquist
 gibbals
-gourding
+gourding 1
 genethlialogy
 goldin
 guardianships
