@@ -2746,7 +2746,7 @@ gader
 gunboats
 gaedelian
 grooms
-genoise 1
+genoise 2
 gentiopicrin
 girths
 gorgers
