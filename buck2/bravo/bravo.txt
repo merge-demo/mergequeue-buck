@@ -3414,7 +3414,7 @@ bastardism
 blather
 bastardized 1
 bastardizes
-bastardliness
+bastardliness 1
 birimose
 bullfoot
 biophysically
