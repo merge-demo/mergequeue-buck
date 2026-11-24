@@ -16446,7 +16446,7 @@ buttonholder
 bestick
 betrace
 botas
-bouffage
+bouffage 1
 balbriggan 1
 batitinan
 boorishly
