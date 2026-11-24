@@ -10830,7 +10830,7 @@ chaperons
 chintze
 cystal
 chintzy
-califs
+califs 1
 caulomer
 clapholt
 contendingly
