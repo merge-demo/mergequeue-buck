@@ -25190,7 +25190,7 @@ autoblast
 axonometric
 asprete
 ascupart
-abusiveness
+abusiveness 1
 axonophora
 alborada
 amentula
