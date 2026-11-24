@@ -17471,7 +17471,7 @@ damnyankee 1
 dhundia
 discarder
 decuplet
-dimwitted
+dimwitted 1
 drowsihead
 drowte
 dreads
