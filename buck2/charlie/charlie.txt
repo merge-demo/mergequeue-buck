@@ -12838,7 +12838,7 @@ championess
 correo
 churchgoers
 calorifacient
-churchy
+churchy 1
 churchianity
 churchyard
 crawlways
