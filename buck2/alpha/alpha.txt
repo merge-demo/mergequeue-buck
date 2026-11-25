@@ -1649,7 +1649,7 @@ accrued
 accruement
 accruer
 anatta
-adiabatic
+adiabatic 1
 accrues
 accruing
 antiprophet
