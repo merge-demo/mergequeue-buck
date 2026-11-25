@@ -9989,7 +9989,7 @@ dimly
 dimmer
 defensor
 dasyatidae
-dimness
+dimness 1
 decisiveness
 dermatographism
 dysacousma
