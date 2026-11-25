@@ -13576,7 +13576,7 @@ exsufflation 1
 epithymetical
 extracutaneous
 evasions
-echidnas
+echidnas 1
 escheating
 enjoinder
 embroiders

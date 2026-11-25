@@ -5257,7 +5257,7 @@ digladiate
 deprehensible
 denouncer
 dissymmetry
-densate
+densate 1
 diogenean
 deerstealer
 dalapon
