@@ -20633,7 +20633,7 @@ canalized
 complained 1
 cruse
 complainingly
-counterfact
+counterfact 1
 cascaron
 cannabinaceous
 cryptographist
