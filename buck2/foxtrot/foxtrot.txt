@@ -11100,7 +11100,7 @@ fundamentalist
 fistful
 fiendlier
 flops 1
-fervanite
+fervanite 1
 foyaite
 fundamentalists
 flatbread
