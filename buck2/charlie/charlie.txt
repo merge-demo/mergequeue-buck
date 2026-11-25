@@ -26041,7 +26041,7 @@ coshed
 cosher
 countermanded
 chestiness
-cupreine
+cupreine 1
 coshery
 coshers
 cholralosed
