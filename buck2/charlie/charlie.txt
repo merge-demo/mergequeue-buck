@@ -1515,7 +1515,7 @@ curraghs
 calligrapha
 chemurgy
 calligraphers
-college
+college 1
 calligraphy
 calligraphic
 chiba
