@@ -23400,7 +23400,7 @@ contangential
 compactest
 clifford
 certy
-caresses
+caresses 1
 contect
 contection
 conteke
