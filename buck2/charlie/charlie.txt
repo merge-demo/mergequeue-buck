@@ -3052,7 +3052,7 @@ comatic
 canun
 canvas
 chaffinches
-chiasmodon
+chiasmodon 1
 croppa
 cycadeous
 canvasado
