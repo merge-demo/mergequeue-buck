@@ -17399,7 +17399,7 @@ compile
 concussion
 christmas
 coemptionator
-coauthority
+coauthority 1
 coauthors
 coawareness
 coaxal
