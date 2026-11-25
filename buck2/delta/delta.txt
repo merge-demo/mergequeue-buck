@@ -16257,7 +16257,7 @@ dyspneal
 damaskeening
 draughtswomanship
 deforest
-deteriorate 1
+deteriorate 2
 downface
 downstair
 duodenocystostomy
