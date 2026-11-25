@@ -2991,7 +2991,7 @@ etymologizing
 eradiation
 eliminate
 enfelon
-etiologies
+etiologies 1
 embind
 explait
 emony
