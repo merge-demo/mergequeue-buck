@@ -8269,7 +8269,7 @@ garamond
 gaseosity
 gurries 1
 gara
-geopolitist 1
+geopolitist 2
 galenite
 glissaded
 groundless
