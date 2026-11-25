@@ -16233,7 +16233,7 @@ camphorize
 clinocephaly
 clinocephalous 1
 canonicalness
-charlatanically
+charlatanically 1
 cobrother
 clinoclasite
 citifies
