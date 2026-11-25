@@ -7553,7 +7553,7 @@ demotics
 discriminational
 dividant
 doyly
-debits
+debits 1
 deuteroproteose
 drawout
 derner
