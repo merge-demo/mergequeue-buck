@@ -8310,7 +8310,7 @@ apanthropy
 alphabet
 archiepiscopacy 1
 alight
-adipopectic
+adipopectic 1
 anomoeanism
 aligned
 atropamine
