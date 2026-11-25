@@ -2855,7 +2855,7 @@ forespeed 1
 furunculosis
 flatwares
 formol
-faddish
+faddish 1
 feltyfare
 fisty
 finable
