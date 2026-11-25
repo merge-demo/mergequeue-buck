@@ -1861,7 +1861,7 @@ deblai
 deblaterate
 daubries
 deblateration 1
-deblock
+deblock 1
 disedification
 disappointer
 dijudicate
