@@ -11657,7 +11657,7 @@ electivity
 eliminations
 eburnian
 exaction
-enfire
+enfire 1
 exactitude
 electrohydraulic
 eleusinian
