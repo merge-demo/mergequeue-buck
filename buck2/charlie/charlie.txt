@@ -3077,7 +3077,7 @@ caon
 chlorocruorin
 caoutchin
 caoutchoucin
-cap
+cap 1
 capa
 conferrable
 capability
