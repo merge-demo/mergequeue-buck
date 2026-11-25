@@ -13638,7 +13638,7 @@ abaisance
 anodizes
 acoelomous
 artefacts
-ampollosity 1
+ampollosity 2
 antituberculous
 anticum
 anesthesia
