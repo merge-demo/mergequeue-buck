@@ -15212,7 +15212,7 @@ arterioles
 antifeudalistic
 antifeudalization
 autolaryngoscopy
-ankyroid
+ankyroid 1
 affiancer
 androtauric 1
 antifibrinolysin
