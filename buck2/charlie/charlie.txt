@@ -16786,7 +16786,7 @@ carding
 criophoros
 clover
 chiloplasty
-cloverlay
+cloverlay 1
 citizen
 clupeidae
 cloverleafs

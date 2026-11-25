@@ -3813,7 +3813,7 @@ diarrhoea
 drivelers
 disunities
 deigned
-diwan
+diwan 1
 durani 1
 dihalogen
 dysphemistic
