@@ -25756,7 +25756,7 @@ corrivalship
 corrivate
 corrivation
 corrive
-counterswing
+counterswing 1
 continuate
 corroboration
 canterburianism
