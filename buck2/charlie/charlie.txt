@@ -2757,7 +2757,7 @@ castrametation
 cannelons
 clitorises
 cannelure
-clatsop
+clatsop 1
 compete
 cannequin
 colts
