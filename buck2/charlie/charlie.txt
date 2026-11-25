@@ -21594,7 +21594,7 @@ condensary 1
 counteroffensives
 crustless
 condensaries
-condensates
+condensates 1
 cultivars
 crick
 condensation
