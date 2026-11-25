@@ -7816,7 +7816,7 @@ aldosteronism
 anacanth
 aldrins
 arba
-ausubos
+ausubos 1
 atrickle
 anomalonomy
 anglicism
