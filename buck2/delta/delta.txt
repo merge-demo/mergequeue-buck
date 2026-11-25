@@ -17156,7 +17156,7 @@ disgaveled
 damselfly
 diaphaneity
 diswont
-drinks
+drinks 1
 dynamics
 dansants
 daffiest
