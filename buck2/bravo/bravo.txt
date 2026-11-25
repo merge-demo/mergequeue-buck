@@ -15582,7 +15582,7 @@ banlieue
 biopsychical 1
 born
 bromacetanilide
-bristlelike
+bristlelike 1
 brigander 1
 beingless
 borer
