@@ -5374,7 +5374,7 @@ faconde
 floccillation
 ferrocyanide
 faverel
-fluoridise
+fluoridise 1
 foredetermine
 flunkyistic
 forthset
