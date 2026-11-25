@@ -2417,7 +2417,7 @@ fifie
 ferlying
 foiler
 ferling
-furls
+furls 1
 fortnightly
 fermail
 flabellifoliate
