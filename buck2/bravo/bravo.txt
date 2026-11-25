@@ -4932,7 +4932,7 @@ beefier
 bequest
 beefiest 1
 byroads
-beefsteak
+beefsteak 1
 beeftongue
 biers
 beefwoods
