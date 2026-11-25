@@ -21104,7 +21104,7 @@ asconoid
 abaff
 air
 ascophore
-alfas
+alfas 1
 aerobiont
 aclydes
 arkoses
