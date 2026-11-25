@@ -18965,7 +18965,7 @@ ammelin
 architectress
 architects
 ambassadorships
-autoallogamy
+autoallogamy 1
 alidade
 architecturalist
 architecture
