@@ -1360,7 +1360,7 @@ bathyhypesthesia 1
 blithen
 baldcrown
 bardily
-balded
+balded 1
 balder
 baldfaced
 bolloxing
