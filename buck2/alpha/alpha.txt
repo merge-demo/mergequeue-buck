@@ -10547,7 +10547,7 @@ amids
 apolarity
 aphids
 ascaris
-anotia
+anotia 1
 amidulin
 abnegating
 absinthiating
