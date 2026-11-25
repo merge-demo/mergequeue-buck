@@ -4327,7 +4327,7 @@ adrowse
 arecaine 1
 abridgments
 atabrine
-amortizing
+amortizing 1
 anterevolutionary
 acarida
 actiniferous
