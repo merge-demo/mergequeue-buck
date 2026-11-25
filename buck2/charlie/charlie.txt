@@ -12096,7 +12096,7 @@ culturist
 chowanoc
 chowchows
 clockwork
-chowhound
+chowhound 1
 coapprehend
 consume
 cered
