@@ -1499,7 +1499,7 @@ dracma 1
 dc
 donmeh
 dcb
-depressure
+depressure 1
 deaccessioning
 drawbolt
 dingbats
