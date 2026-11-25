@@ -1784,7 +1784,7 @@ gonion
 grx 1
 guanine 1
 grouchiest
-gastropulmonic
+gastropulmonic 1
 granitic
 globously
 gambados
