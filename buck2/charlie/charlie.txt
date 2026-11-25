@@ -17502,7 +17502,7 @@ cleamer
 coboundless
 cobourg
 cueca
-coinitial
+coinitial 1
 cobridgehead
 chrysostomic
 chimneyhead
