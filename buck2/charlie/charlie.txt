@@ -6776,7 +6776,7 @@ costard
 celibatic
 conducent
 coroun
-celibatory
+celibatory 1
 celidography
 chatteringly
 celiectomy
