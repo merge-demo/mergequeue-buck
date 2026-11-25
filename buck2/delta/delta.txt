@@ -8798,7 +8798,7 @@ dinettes 1
 diabolized
 dansant 1
 dictations
-diffident
+diffident 1
 dung
 deeryard
 diazoimide
