@@ -2432,7 +2432,7 @@ goalkeeping 1
 grocers
 gulper
 graphotypic
-geologian
+geologian 1
 gesticulation
 graduator
 goas
