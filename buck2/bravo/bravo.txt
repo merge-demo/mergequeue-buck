@@ -12142,7 +12142,7 @@ buddhahood
 bloomkin
 bolero
 bivoltine
-bewormed
+bewormed 1
 biclavate
 barbarianism
 broche
