@@ -10695,7 +10695,7 @@ anthrachrysone
 antichrome
 aminobenzoic
 appetency
-aminoglutaric
+aminoglutaric 1
 aminoid
 agrement
 aminoketone
