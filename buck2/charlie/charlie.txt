@@ -9624,7 +9624,7 @@ camelliaceae
 cheerier
 cautiousness
 cryptopapist
-curtals
+curtals 1
 cragginess
 coexistent
 cheerlead
