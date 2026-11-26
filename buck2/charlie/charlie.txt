@@ -26606,7 +26606,7 @@ celluloided
 coumarilic
 coumarins
 copal
-coumarone
+coumarone 1
 compassionating
 council
 councillors
