@@ -15430,7 +15430,7 @@ antimalaria 1
 atelognathia
 antimaniac
 amylums
-antiprogressive
+antiprogressive 1
 asslike
 antimason
 antimasque
