@@ -2426,7 +2426,7 @@ festivities 1
 fatigate
 freemasons
 fractur
-frizzle
+frizzle 1
 fingered
 frisco
 farandola
