@@ -28747,7 +28747,7 @@ chelae
 crumblings
 creply
 cupeler
-cephaloplegia
+cephaloplegia 1
 civetone
 crepon
 crept
