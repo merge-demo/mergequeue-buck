@@ -1671,7 +1671,7 @@ acculturate
 acculturated
 acculturates
 astr
-anorganic 1
+anorganic 2
 alkalimeter
 arank
 ambiguously
