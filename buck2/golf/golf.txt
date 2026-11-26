@@ -391,7 +391,7 @@ guilery
 ganymedes
 gains
 goys
-glassiest 1
+glassiest 2
 goalposts
 gilsonite
 gorgon
