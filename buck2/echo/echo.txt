@@ -4904,7 +4904,7 @@ elepaio
 excitoglandular 1
 empoisons 1
 exoperidium
-ecchymoses
+ecchymoses 1
 enculturation
 ergatandromorph
 epispastic
