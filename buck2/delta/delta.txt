@@ -8596,7 +8596,7 @@ diaplases
 disk 1
 deprived
 dinosaurian
-destroying
+destroying 1
 doormaking
 deorsumversion 1
 driftland
