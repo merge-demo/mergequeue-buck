@@ -31407,7 +31407,7 @@ curiousest
 curiously
 contrastingly
 curitis
-cispadane
+cispadane 1
 curl
 circumambulation
 cheiceral
