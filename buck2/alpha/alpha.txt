@@ -24782,7 +24782,7 @@ avifauna
 alethea
 avifaunae
 avifaunas
-above
+above 1
 alleluiatic
 araguane
 avifaunistic
