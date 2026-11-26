@@ -4351,7 +4351,7 @@ extraordinariness 1
 enamorment
 endoute
 economize
-enterointestinal
+enterointestinal 1
 exceeders
 exothermous
 enterodynia
