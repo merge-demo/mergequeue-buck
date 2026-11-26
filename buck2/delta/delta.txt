@@ -9295,7 +9295,7 @@ dulcimore
 displode
 dietetics
 defilading
-dog
+dog 1
 diethylstilboestrol
 dekaliters
 disploded
