@@ -16776,7 +16776,7 @@ developed
 dumbness
 dravite
 draw
-disreputation
+disreputation 1
 diarrhoeic 1
 disorganized
 drawback
