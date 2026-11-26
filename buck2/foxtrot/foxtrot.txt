@@ -7621,7 +7621,7 @@ foreffelt
 folioed
 fimbrillae
 flotten 1
-feminised
+feminised 1
 fester 1
 fabular
 funfest
