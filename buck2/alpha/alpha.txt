@@ -4859,7 +4859,7 @@ avoset
 adoptionism
 aerocraft 1
 arbutes
-aspheterize 1
+aspheterize 2
 amas
 amoebous
 arkwright
