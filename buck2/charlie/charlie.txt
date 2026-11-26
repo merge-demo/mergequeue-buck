@@ -19357,7 +19357,7 @@ collies
 colorado
 chagrin
 chorioretinitis 1
-coloradoite
+coloradoite 1
 connectionism
 captainships
 cherubin
