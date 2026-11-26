@@ -691,7 +691,7 @@ abortionists
 ariot
 aspern
 absorbency
-abortive
+abortive 1
 afebrile
 abortiveness
 allegorising
