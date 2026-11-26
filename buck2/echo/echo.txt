@@ -2379,7 +2379,7 @@ episteme
 electrocolloidal
 edulcoration
 exhaustable 1
-electroconvulsive
+electroconvulsive 1
 empoisonment
 engorged
 exocone 1
