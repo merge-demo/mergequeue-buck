@@ -8514,7 +8514,7 @@ grownups 1
 geomedical
 go
 goshdarn
-gramaphone
+gramaphone 1
 gametophyte
 ganglioblast
 gyrophoric
