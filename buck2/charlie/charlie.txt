@@ -11226,7 +11226,7 @@ chlorguanide 1
 chlorhexidine
 coemperor
 chlorhydric
-chloriamb
+chloriamb 1
 chloriambus
 chlorid
 chicanos
