@@ -2926,7 +2926,7 @@ gobiiformes 1
 gwiniad
 glitter 1
 gabbled
-geocerite
+geocerite 1
 gubernation 1
 greenheaded 1
 gallons
