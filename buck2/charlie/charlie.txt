@@ -21923,7 +21923,7 @@ confessionalism
 confessionally
 chirographary
 confessor
-confessorship
+confessorship 1
 confetti
 conocephalus
 confidant
