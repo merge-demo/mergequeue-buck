@@ -11361,7 +11361,7 @@ foreassign
 fizzes
 frousier
 flayed
-fluencies
+fluencies 1
 fornicated
 fremescence
 frothless
