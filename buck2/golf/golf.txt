@@ -3584,7 +3584,7 @@ glumella 1
 gourmandize
 galvanisation
 gausses
-gharnao
+gharnao 1
 glossa
 gambolled
 goniaster
