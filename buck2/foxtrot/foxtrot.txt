@@ -10699,7 +10699,7 @@ faradays
 fartlek
 fortran 1
 flunkeyistic
-flashtubes
+flashtubes 1
 forelaid
 fil
 fellmongering
