@@ -23756,7 +23756,7 @@ contrapuntally
 contrapuntist
 concilium
 contrapunto 1
-contraregularity
+contraregularity 1
 centrisciform
 conductimeter
 contraremonstrance
