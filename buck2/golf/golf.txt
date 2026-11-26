@@ -2431,7 +2431,7 @@ gemmologist
 goalkeeping 1
 grocers
 gulper
-graphotypic
+graphotypic 1
 geologian
 gesticulation
 graduator
