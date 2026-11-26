@@ -603,7 +603,7 @@ geocronite 1
 germanity
 gigue
 guarauno
-galactose
+galactose 1
 galbulinae
 guaranian
 glockenspiels
