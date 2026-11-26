@@ -7271,7 +7271,7 @@ egocentrically
 erysipelothrix
 eulogises
 eorhyolite
-extinguishable 1
+extinguishable 2
 eos
 earshot
 embetter

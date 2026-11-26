@@ -1032,7 +1032,7 @@ germination 1
 geologer
 gloriette
 galvanoscopy
-geodist
+geodist 1
 gleemen
 golp
 glanced
