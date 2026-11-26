@@ -10672,7 +10672,7 @@ ecrasite
 expeditate
 entwine 1
 excitory
-endocytosis
+endocytosis 1
 estragon
 easternism
 eugenically
