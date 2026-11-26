@@ -266,7 +266,7 @@ admonition
 aquamaniles 1
 aristolochiales
 abdicant
-abhorrence
+abhorrence 1
 abdications
 anthropomorphizing
 adze
