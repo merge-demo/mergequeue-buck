@@ -7816,7 +7816,7 @@ devons 1
 desirability
 devoration
 dadaists
-dairyings
+dairyings 1
 devoted
 dipsomaniacal
 dissettlement
