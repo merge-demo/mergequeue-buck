@@ -3151,7 +3151,7 @@ alcaid
 actiones
 abrazitic 1
 alkalifiable
-arrectary
+arrectary 1
 acclimatation
 auchenia
 anatomised
