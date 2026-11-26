@@ -17789,7 +17789,7 @@ duckers
 duces
 disfigurements
 deposita 1
-decurt
+decurt 1
 ducky
 diversional
 diffrangible
