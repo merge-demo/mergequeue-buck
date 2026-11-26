@@ -13033,7 +13033,7 @@ blancard
 biennials
 besteading
 blackberry
-bucking
+bucking 1
 bordering
 bemantle
 balangay
