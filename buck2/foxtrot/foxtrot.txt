@@ -9298,7 +9298,7 @@ fordull
 foregoers 1
 foremost
 fabrikoid
-fruticeta
+fruticeta 1
 flukey
 forsado
 fluidise
