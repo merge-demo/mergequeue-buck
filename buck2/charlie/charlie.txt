@@ -28334,7 +28334,7 @@ cravening
 cravenly
 cravens
 clod
-cloop
+cloop 1
 craver
 cothurnal
 cannoli
