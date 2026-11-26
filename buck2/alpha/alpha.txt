@@ -16087,7 +16087,7 @@ antischolasticism
 audibleness
 amharic
 anita
-amenta
+amenta 1
 andirons
 anthecological
 avitaminotic
