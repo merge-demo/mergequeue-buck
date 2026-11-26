@@ -17780,7 +17780,7 @@ categorisation
 cardiography
 codas
 cardialgic 1
-coddy
+coddy 1
 coddle
 coddler
 calculous
