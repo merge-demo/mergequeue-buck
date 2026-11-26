@@ -6823,7 +6823,7 @@ fjelds
 frette
 freeing 1
 foraminiferan
-fikery
+fikery 1
 feuille
 florula
 fragmentizer
