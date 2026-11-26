@@ -1864,7 +1864,7 @@ cambarus
 cambered
 croc
 cambering
-consociate
+consociate 1
 cambia
 cambiata
 charlatanry
