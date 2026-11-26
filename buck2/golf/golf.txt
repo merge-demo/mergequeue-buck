@@ -6517,7 +6517,7 @@ gyrant 1
 golo
 grasshopper
 gayest
-gorinesses
+gorinesses 1
 grazing
 gymnasia
 groundage
