@@ -14348,7 +14348,7 @@ anthogenetic 1
 anticreation
 anthoid
 anthokyan
-autographic
+autographic 1
 amasesis
 antinovels
 anthol

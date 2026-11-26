@@ -5135,7 +5135,7 @@ dundee
 dopamine
 dionym
 disulphoxide
-detachedly
+detachedly 1
 deadened
 dispraiser
 dendromecon
