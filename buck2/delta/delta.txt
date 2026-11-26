@@ -9133,7 +9133,7 @@ doffs 1
 detriment
 disdiaclasis
 disgracement
-didicoy
+didicoy 1
 dorymen
 digger
 didie
