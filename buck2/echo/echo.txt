@@ -4028,7 +4028,7 @@ endometritis 1
 expresser 1
 elucidations
 emphysema
-endobronchitis
+endobronchitis 1
 emphyteutic
 emolumentary
 explantation
