@@ -6598,7 +6598,7 @@ geldesprung 1
 graduateship
 gluconeogenetic
 genty
-gallinula
+gallinula 1
 guesswork
 gonycampsis
 gastrohyperneuria
