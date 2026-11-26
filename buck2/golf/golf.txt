@@ -7964,7 +7964,7 @@ gangster
 gaboons
 galvanotaxis
 glossina 1
-goniatitid
+goniatitid 1
 gynecologic
 getups
 grippy
