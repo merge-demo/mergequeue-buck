@@ -29092,7 +29092,7 @@ crinel
 cringeling 1
 cringes
 cringing
-compter
+compter 1
 chookie
 chlorophylliferous
 cornflour
