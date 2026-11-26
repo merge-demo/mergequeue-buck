@@ -17523,7 +17523,7 @@ anhydrize
 anacoluthically
 acerbest
 archipelagoes
-abeyancy
+abeyancy 1
 anthracaemia
 afar
 apteroid
