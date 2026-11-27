@@ -1926,7 +1926,7 @@ ganglia
 gulped 1
 gastromycosis
 geal
-garnetwork 1
+garnetwork 2
 garnet
 gynecocratic
 gnomesque
