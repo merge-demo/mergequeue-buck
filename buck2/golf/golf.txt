@@ -3701,7 +3701,7 @@ garrisonism
 gallinae 1
 gnathite
 goalmouth
-gyrencephalic
+gyrencephalic 1
 ghostier
 galah
 geodetically
