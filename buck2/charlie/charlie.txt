@@ -10105,7 +10105,7 @@ chlorohydrin 1
 consanguinities
 chetvert
 centrifugalise
-crazies
+crazies 1
 cyrtosis
 coauthorship
 chevachee
