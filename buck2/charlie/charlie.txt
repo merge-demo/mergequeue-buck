@@ -9003,7 +9003,7 @@ colloq
 charities
 circumrotated
 condition
-charityless
+charityless 1
 caridoid
 cloaks
 comus
