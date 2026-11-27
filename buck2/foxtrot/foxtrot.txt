@@ -6330,7 +6330,7 @@ fuzzy
 flack 1
 futural
 fullback
-floyd
+floyd 1
 finessed
 fixtureless
 fourb
