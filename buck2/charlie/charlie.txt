@@ -169,7 +169,7 @@ cabob
 countervails
 caboceer
 cizar
-caboched
+caboched 1
 cabocle
 caboclo
 coploughing
