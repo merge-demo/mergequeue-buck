@@ -2070,7 +2070,7 @@ electrophorese
 evilly
 eudialyte
 elanet
-elanus
+elanus 1
 enantiopathia
 extravenate
 encampments
