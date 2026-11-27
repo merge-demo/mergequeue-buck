@@ -3486,7 +3486,7 @@ additions
 absmho
 addititious
 athenians
-additive
+additive 1
 acrogynous
 additivity
 apesthesia
