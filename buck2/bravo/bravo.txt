@@ -762,7 +762,7 @@ badland 1
 badlands
 boation
 buba
-bat
+bat 1
 brushcut
 bygoing
 banket
