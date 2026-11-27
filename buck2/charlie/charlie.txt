@@ -24193,7 +24193,7 @@ convocationist
 concertantes
 colleterial 1
 compost
-cunning
+cunning 1
 convocations
 convocative
 convocator
