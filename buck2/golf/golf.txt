@@ -3919,7 +3919,7 @@ gravidae
 goral
 glossem
 geminated 1
-gnostic
+gnostic 1
 glens
 glossocarcinoma
 gawkies
