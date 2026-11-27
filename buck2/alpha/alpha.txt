@@ -23976,7 +23976,7 @@ autobiographers
 autobiography
 anthropoidea
 antitypy
-apologiser
+apologiser 1
 aminolysis
 antiprohibition
 archipelagos
