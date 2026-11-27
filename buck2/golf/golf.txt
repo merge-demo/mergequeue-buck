@@ -5905,7 +5905,7 @@ glebe
 ging 1
 glamorizations
 ginkgoales
-gentilish
+gentilish 1
 gleesomeness 1
 gassiness
 guereba
