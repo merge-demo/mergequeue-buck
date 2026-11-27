@@ -11092,7 +11092,7 @@ epistemolog
 epiglottal
 extravasation
 endosporium
-eurytus
+eurytus 1
 engagedness 1
 enlisted
 electrocapillary
