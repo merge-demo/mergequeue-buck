@@ -8751,7 +8751,7 @@ anthologized
 antiperistatically 1
 amblosis
 arachidonic
-allhallows
+allhallows 1
 ailanthic
 alliance
 actorship
