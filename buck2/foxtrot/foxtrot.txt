@@ -8867,7 +8867,7 @@ foreshorten
 fictious 2
 freeholder 1
 folia
-fleuron
+fleuron 1
 fibrinoplastic
 filiopietistic
 fotmal
