@@ -2114,7 +2114,7 @@ daunts
 doab
 disinheritances
 duddies
-despoilment
+despoilment 1
 decameron
 digraph
 decamethonium
