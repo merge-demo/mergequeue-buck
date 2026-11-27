@@ -9423,7 +9423,7 @@ groupies 1
 ghastfully
 grouchiness
 geminally
-gitksan
+gitksan 1
 goldtit
 garbline
 glorify
