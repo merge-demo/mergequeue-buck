@@ -11633,7 +11633,7 @@ choleriform
 cholerigenous
 chelicerate 1
 cholerine
-choleroid
+choleroid 1
 cholerophobia
 camphylene
 cyanamids
