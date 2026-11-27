@@ -21326,7 +21326,7 @@ alleger
 amafingo
 aceanthrene
 atretic
-asymmetric
+asymmetric 1
 antimythical
 acknowledgement
 asymmetries
