@@ -5380,7 +5380,7 @@ affronts
 affuse
 alkarsine
 amrita
-atropism
+atropism 1
 affusion
 afghan
 acroneurosis
