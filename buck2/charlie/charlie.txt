@@ -11245,7 +11245,7 @@ codettas
 canaut
 chloridellidae
 chlorides
-covers
+covers 1
 chloridic
 chloridized
 collochemistry
