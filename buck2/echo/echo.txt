@@ -4074,7 +4074,7 @@ epibolism
 engorgement
 esquimau
 expositorily 1
-exospheric
+exospheric 1
 enforcement
 erratical
 encrusting
