@@ -5025,7 +5025,7 @@ fluctuable
 faceable
 frowsier
 feathers
-faineantise
+faineantise 1
 falsificate 1
 formalisms
 firman
