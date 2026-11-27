@@ -5239,7 +5239,7 @@ glottidean
 guineaman 1
 glottiscope
 gastriloquist
-gibbals
+gibbals 1
 gourding
 genethlialogy
 goldin
