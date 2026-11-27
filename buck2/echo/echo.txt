@@ -6730,7 +6730,7 @@ espaliers
 epithecal
 evaginable
 emunge 1
-enuresis
+enuresis 1
 entertake
 exstimulate
 exhumed
