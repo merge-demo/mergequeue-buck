@@ -19063,7 +19063,7 @@ camb
 colliflower
 cruset
 colligate 1
-colligating
+colligating 1
 cookbook
 cecropia
 commutual
