@@ -1853,7 +1853,7 @@ agnosy
 airinesses
 acerous
 acertannin
-allseed
+allseed 1
 awn
 antitabetic
 acerval
