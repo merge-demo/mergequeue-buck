@@ -8671,7 +8671,7 @@ endotheliomyoma
 epithalamiumia
 enchondromas
 exfoliate
-encharging
+encharging 1
 encharge
 episcleritis
 earth
