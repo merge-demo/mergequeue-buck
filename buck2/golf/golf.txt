@@ -3185,7 +3185,7 @@ geraniaceae
 gazon
 griffado 1
 gabler
-glycyrrhiza
+glycyrrhiza 1
 gingelies
 grangerism
 graip
