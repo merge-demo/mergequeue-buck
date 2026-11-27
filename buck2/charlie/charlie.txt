@@ -2883,7 +2883,7 @@ cansful
 coddled
 canso
 coetaneity
-cansos
+cansos 1
 chartophylaxes
 congenialize
 cant
