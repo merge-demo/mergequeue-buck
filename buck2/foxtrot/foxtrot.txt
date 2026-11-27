@@ -4833,7 +4833,7 @@ fishberries
 firepower
 flinthead 1
 fleay
-fainer
+fainer 1
 foil
 finlet
 fatagaga
