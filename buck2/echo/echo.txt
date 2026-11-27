@@ -2232,7 +2232,7 @@ eventuate 1
 engulfment
 eldrich
 eldritch
-enchased
+enchased 1
 eulogy
 endocytic
 elecives
