@@ -8085,7 +8085,7 @@ expositor
 epiglottidean
 epiphloeum 1
 etherize
-essoign
+essoign 1
 emotional
 exceptive
 empowerment
