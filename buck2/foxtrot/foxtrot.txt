@@ -10323,7 +10323,7 @@ feezing
 ferrado
 fantasized
 frondlet
-frondose 1
+frondose 2
 focometer
 frustrated
 fikey
