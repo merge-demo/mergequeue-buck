@@ -10818,7 +10818,7 @@ everlastingly
 euodic
 entrepots
 euonymy
-exochorda
+exochorda 1
 exsibilate 1
 echinid
 extrusive
