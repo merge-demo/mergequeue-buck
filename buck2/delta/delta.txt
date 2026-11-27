@@ -10714,7 +10714,7 @@ diaculum
 depit 1
 dormin
 digitalize
-demurs
+demurs 1
 dippier
 dipping
 depersonalizing
