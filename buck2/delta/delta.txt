@@ -8823,7 +8823,7 @@ dysphotic
 dodecagonal
 divination
 dib
-dyspraxia
+dyspraxia 1
 dibbing
 deliberates
 deterring
