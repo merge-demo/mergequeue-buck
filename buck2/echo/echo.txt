@@ -12280,7 +12280,7 @@ embodier
 evocatrix
 everlasting
 eggplant
-enfoul 1
+enfoul 2
 exemplificator
 egypt
 exemplified
