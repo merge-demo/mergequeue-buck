@@ -12622,7 +12622,7 @@ epigenetically
 erasmian
 eagless
 effray
-encirclement
+encirclement 1
 excoriate
 exoculate
 expostulates
