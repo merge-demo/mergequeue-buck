@@ -7772,7 +7772,7 @@ eosine 1
 extractiform
 encephalogram
 equispatial
-exotisms
+exotisms 1
 easternmost
 embolite
 expedientially
