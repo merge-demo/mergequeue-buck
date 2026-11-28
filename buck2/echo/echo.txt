@@ -6160,7 +6160,7 @@ ervipiame
 enmeshment
 enrols 1
 enmity
-eparchean
+eparchean 1
 entracte
 embattles
 ethicizes
