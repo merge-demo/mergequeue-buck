@@ -8939,7 +8939,7 @@ eastwardly
 ericetal
 esophagitis
 exothecium
-extrasensuous
+extrasensuous 1
 emotiomotor
 extrovertive
 erigerons
