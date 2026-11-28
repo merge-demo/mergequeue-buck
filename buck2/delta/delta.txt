@@ -6347,7 +6347,7 @@ dermoneural
 denary
 drassid 1
 dermoneurosis
-decent
+decent 1
 downtrod
 discordful
 doctrinal
