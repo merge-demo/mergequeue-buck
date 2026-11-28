@@ -7979,7 +7979,7 @@ gnomonologically
 goldenmouthed
 gasifiable
 galline 1
-gainer
+gainer 1
 guttee
 glouts
 goodhap
