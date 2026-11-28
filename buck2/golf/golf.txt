@@ -490,7 +490,7 @@ gess 1
 gadding
 gasifiers
 grunions 1
-geochronological
+geochronological 1
 girkin
 gravimetrical
 gelatin
