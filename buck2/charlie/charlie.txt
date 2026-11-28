@@ -20926,7 +20926,7 @@ cruzeiros
 cathetometric
 compressive
 chasubles
-compressively
+compressively 1
 compressometer
 compressors
 comprest
