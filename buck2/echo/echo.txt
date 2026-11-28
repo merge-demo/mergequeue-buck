@@ -1791,7 +1791,7 @@ epigraphical
 engravers
 embankments
 electrification
-encompasser 1
+encompasser 2
 enable
 estimates
 entresse
