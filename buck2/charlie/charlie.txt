@@ -25531,7 +25531,7 @@ coronership
 chasidim
 coroneted 1
 chaise
-crutchlike
+crutchlike 1
 cordeliere
 coronets
 coronetted
