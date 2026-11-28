@@ -4955,7 +4955,7 @@ conduct
 cartilagines
 chancroids
 cartilaginoid
-cartels
+cartels 1
 cartilaginous 1
 carting
 coulometry
