@@ -9436,7 +9436,7 @@ cheapery
 chlorin
 chevon
 commendatory
-cheapest
+cheapest 1
 cheapish
 cheaply
 condom
