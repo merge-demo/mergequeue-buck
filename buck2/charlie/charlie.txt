@@ -4533,7 +4533,7 @@ congratulate 1
 carnaria
 carnassial
 carnate
-corupay
+corupay 1
 cordialize
 carnation
 carnationist
