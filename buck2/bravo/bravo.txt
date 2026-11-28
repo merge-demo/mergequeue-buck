@@ -8693,7 +8693,7 @@ balladlike
 barrett
 beseeching
 beaverite
-bulldoggish
+bulldoggish 1
 blackly 1
 bullethead 1
 betoss
