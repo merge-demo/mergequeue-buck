@@ -17350,7 +17350,7 @@ coastal
 coastally 1
 cohabitant
 coastguardman
-cheapskates
+cheapskates 1
 coastguardsman
 coastguardsmen
 cacheted
