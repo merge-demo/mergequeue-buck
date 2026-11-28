@@ -119,7 +119,7 @@ dadaism
 dipterocecidium
 dadaistic
 desmarestiaceous
-denticule
+denticule 1
 determinableness
 diddered
 detonated 1
