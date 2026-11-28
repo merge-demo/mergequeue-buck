@@ -3059,7 +3059,7 @@ embryotroph
 eumycetic 1
 elkslip
 enharbor
-elkuma
+elkuma 1
 elkwood
 etherean
 epicenter
