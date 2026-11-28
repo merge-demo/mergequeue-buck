@@ -4763,7 +4763,7 @@ disentitling
 dumontiaceae
 democratizing 1
 democraw
-decarbonization
+decarbonization 1
 decodable
 demodectic
 disarticulate
