@@ -21593,7 +21593,7 @@ anabata
 anakoluthia
 aspises
 aloed
-anthesterion
+anthesterion 1
 arthrosia
 adjudgment
 automolite
