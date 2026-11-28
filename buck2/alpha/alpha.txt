@@ -1012,7 +1012,7 @@ affluxes
 abstractitious
 abstractive 1
 athenianly
-antimethodic
+antimethodic 1
 anablepses
 amyloidal
 apoda
