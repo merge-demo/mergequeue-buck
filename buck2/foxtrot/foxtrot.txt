@@ -7301,7 +7301,7 @@ flutters
 fourteenfold 1
 furled
 forelock
-fopperies
+fopperies 1
 fopperly
 fraternized
 formaldoxime
