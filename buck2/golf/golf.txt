@@ -6190,7 +6190,7 @@ gobiesociform 1
 greenkeeping
 graphoanalytical
 gonococcus
-gargarize
+gargarize 1
 glamorousness
 gladdening
 goalpost
