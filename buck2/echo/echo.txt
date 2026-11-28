@@ -7425,7 +7425,7 @@ eleotrid
 experiencing 2
 encolumn
 etruria
-etalon
+etalon 1
 encheat
 escarpment
 eternalizing
