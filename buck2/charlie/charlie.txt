@@ -16144,7 +16144,7 @@ centiles
 climata
 celebesian 1
 climatal 1
-corticate
+corticate 1
 climatarchic
 climate
 climates
