@@ -5444,7 +5444,7 @@ excantation
 earthtongue
 endpoints
 endrudge
-extrabulbar
+extrabulbar 1
 ecderonic
 endseal
 endshake
