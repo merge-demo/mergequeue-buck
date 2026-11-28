@@ -9883,7 +9883,7 @@ filibusters 1
 forgiven
 fastuously
 forcelessness
-flintstone
+flintstone 1
 fewnesses
 folksey
 flitching
