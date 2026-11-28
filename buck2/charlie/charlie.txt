@@ -31591,7 +31591,7 @@ copromisor
 colegatee
 curuminacan
 calculagraph
-curupays
+curupays 1
 cristopher
 curupey
 cervicide
