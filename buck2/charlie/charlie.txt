@@ -513,7 +513,7 @@ corregidores
 cellobiose 1
 crapple
 coascend
-characterologically
+characterologically 1
 cadenzas
 cees
 corymbous
