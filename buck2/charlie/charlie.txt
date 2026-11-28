@@ -7430,7 +7430,7 @@ chairmaned
 cerago
 ceramal
 ceramals
-chacun
+chacun 1
 choliambic
 caback
 cerambycid
