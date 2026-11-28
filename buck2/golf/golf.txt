@@ -10495,7 +10495,7 @@ gumweeds
 geerah
 gramenite 1
 gregal
-genizero
+genizero 1
 geyserite
 gaggers
 gynecic
