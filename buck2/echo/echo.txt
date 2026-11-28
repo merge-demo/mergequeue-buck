@@ -220,7 +220,7 @@ exoticalness
 edaphodont 1
 empetrous
 eluvium
-echogram
+echogram 1
 europeanization
 euripupi
 ebriate
