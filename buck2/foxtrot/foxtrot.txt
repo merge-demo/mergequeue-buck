@@ -10326,7 +10326,7 @@ frondlet
 frondose 1
 focometer
 frustrated
-fikey
+fikey 1
 friendless
 foxinesses
 fraternise
